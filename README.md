@@ -1,5 +1,13 @@
 # Absenteeism_Categorization_Model
 
+# Repo Structure
+
+├── Data
+├── .gitignore
+├── Slides.pdf
+├── Classification.ipynb
+└── README.md
+
 # Business Problem and Objective
 
 Since the outset of the pandemic, chronic absenteeism has jumped from around 25% in 2020 to 41% in 2022 making it one of the largest and most significant problems public schools are currently facing. Chronic absenteeism is defined as a student missing 10% or more of the school days in a year. Studies have shown that students who are chronically absent have reduced reading proficiency in Elementary School and are less likely to graduate High School. With this in mind, I wanted to create a model that would be able to categorize and identify schools that are at most to suffer from high rates of chronic absenteeism. 

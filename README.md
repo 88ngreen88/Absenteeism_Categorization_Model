@@ -98,14 +98,17 @@ In order to improve my model I would want to scrape and find  data on the follow
 
 
 # Repo Structure
-
-├── Data
-
-├── .gitignore
+├── Clean Notebook.ipynb
 
 ├── Slides.pdf
 
-├── Classification.ipynb
+├── .gitignore
+
+├── gen_data folder
+
+├── survey_data Folder
+
+├── Work Notebooks Folder
 
 └── README.md
 

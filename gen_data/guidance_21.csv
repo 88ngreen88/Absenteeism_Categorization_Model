@@ -1,0 +1,1605 @@
+DBN,School  Information                                                                                                         School Name,Location Type,"Total Guidance Counselors (GC) & Social Workers (SW)
+
+
+(includes GCs, SWs, ATRs, School Response Clinicians, High Needs Counselors, High Need SWs, Single Shepherds, Bridging the Gap SWs)",Total GC,Total SW,Counts by Role Specificaiton           Full-time GC,Counts by Role Specification                       Full-Time SW,Count by Role Specification          Part-time GC,Count by Role Specification           Part-Time SW,Additional Role Specifications      Bilingual GC,Additional Role Specifications        Bilingual SW,Additional Role Specifications        GC Serving More than One Location,Additional Role Specifications        SW Serving More than One Location,Program Designations Included in Counts      Bridging the Gap,Program Designations Included in Counts        High Needs SW,Program Designations Included in Counts        High Needs GC,Program Designations Included in Counts        School Response Clinician,Program Designations Included in Counts               Single Shepherd,Additional Supports      Learning to Work,Additional Supports              CBO Partner,Enrollment and Ratios   2019-20 SY Enrollment,Enrollment and Ratios           Ratio GC & SW,Enrollment and Ratios                   Ratio GC Only,Enrollment and Ratios                     Ratio SW Only
+01M015,P.S. 015 Roberto Clemente,ELEMENTARY,1.0,0,1,0,1,0,0,0,0,0,0,na,na,na,na,na,na,na,190,190,190,190
+01M019,P.S. 019 Asher Levy,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,236,118,236,236
+01M020,P.S. 020 Anna Silver,ELEMENTARY,2.6,1.6,1,1,1,0.6,0,0,0,0.6,0,na,na,na,na,na,na,na,464,178,290,464
+01M034,P.S. 034 Franklin D. Roosevelt,K-8,2.0,2,0,2,0,0,0,0,0,0,0,na,na,na,na,na,na,na,296,148,148,296
+01M063,The STAR Academy - P.S.63,ELEMENTARY,2.0,1,1,1,1,0,0,0,1,0,0,na,na,na,na,na,na,na,229,115,229,229
+01M064,P.S. 064 Robert Simon,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,"The Educational Alliance, Inc.",236,118,236,236
+01M110,P.S. 110 Florence Nightingale,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,396,198,396,396
+01M134,P.S. 134 Henrietta Szold,ELEMENTARY,2.0,1,1,1,1,0,0,0,1,0,0,na,na,na,na,na,na,na,245,123,245,245
+01M140,P.S. 140 Nathan Straus,K-8,1.4,1.4,0,1,0,0.4,0,0,0,0.4,0,na,na,na,na,na,na,na,372,266,266,372
+01M142,P.S. 142 Amalia Castro,ELEMENTARY,2.0,0,2,0,2,0,0,0,1,0,0,na,na,na,na,na,na,"The Educational Alliance, Inc.",329,165,329,165
+01M184,P.S. 184m Shuang Wen,K-8,2.0,2,0,2,0,0,0,0,0,0,0,na,na,na,na,na,na,na,707,354,354,707
+01M188,P.S. 188 The Island School,K-8,3.0,2,1,2,1,0,0,0,0,0,0,na,na,na,na,na,na,na,398,133,199,398
+01M292,Orchard Collegiate Academy,HIGH SCHOOL,In progress (interviewing),0,0,0,0,0,0,0,0,0,0,na,na,na,na,na,na,"Counseling In Schools, Inc.",226,see note in column D,see note in column D,see note in column D
+01M315,The East Village Community School,ELEMENTARY,1.4,1,0.4,1,0,0,0.4,0,0,0,0.4,na,na,na,na,na,na,na,330,236,330,330
+01M332,University Neighborhood Middle School,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.2,1,1.2,1,1,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,218,99,218,182
+01M361,The Children's Workshop School,ELEMENTARY,1.6,0,1.6,0,1,0,0.6,0,0,0,0.6,na,na,na,na,na,na,na,336,210,336,210
+01M363,Neighborhood School,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,306,153,306,306
+01M364,Earth School,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,344,344,344,344
+01M378,School for Global Leaders,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.2,1,0.2,1,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,204,170,204,204
+01M448,University Neighborhood High School,HIGH SCHOOL,3.0,3,0,3,0,0,0,0,0,0,0,na,na,na,na,na,na,na,492,164,164,492
+01M450,East Side Community School,SECONDARY SCHOOL,4.2,1,3.2,1,3,0,0.2,0,1,0,0.2,na,na,na,School Response Clinicians,na,na,na,680,163,680,215
+01M458,Forsyth Satellite Academy,HIGH SCHOOL,3.0,1,2,1,2,0,0,0,0,0,0,na,na,na,na,na,Learning to Work,na,181,60,181,91
+01M515,Lower East Side Preparatory High School,HIGH SCHOOL,3.0,3,0,3,0,0,0,1,0,0,0,na,na,na,na,na,Learning to Work,na,531,177,177,531
+01M539,"New Explorations into Science, Technology and Math",K-12 ALL GRADES,7.0,7,0,7,0,0,0,0,0,0,0,na,na,na,na,na,na,na,1806,258,258,1806
+01M650,Cascades High School,HIGH SCHOOL,2.0,1,1,1,1,0,0,1,0,0,0,na,na,na,na,na,Learning to Work,na,168,84,168,168
+01M696,Bard High School Early College,HIGH SCHOOL,4.0,4,0,4,0,0,0,0,0,0,0,na,na,na,na,na,na,na,613,153,153,613
+01M839,Tompkins Square Middle School,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.2,1,0.2,1,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,"The Educational Alliance, Inc.",358,298,358,358
+02M001,P.S. 001 Alfred E. Smith,ELEMENTARY,1.0,0,1,0,1,0,0,0,0,0,0,na,na,na,na,na,na,na,247,247,247,247
+02M002,P.S. 002 Meyer London,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,449,449,449,449
+02M003,P.S. 003 Charrette School,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,714,357,714,714
+02M006,P.S. 006 Lillie D. Blake,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,648,324,648,648
+02M011,P.S. 011 William T. Harris,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,900,450,900,900
+02M033,P.S. 033 Chelsea Prep,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,Bridging the Gap,na,na,na,na,na,na,612,306,612,612
+02M040,P.S. 040 Augustus Saint-Gaudens,ELEMENTARY,2.0,0,2,0,2,0,0,0,0,0,0,na,na,na,na,na,na,na,700,350,700,350
+02M041,P.S. 041 Greenwich Village,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,668,334,668,668
+02M042,P.S. 042 Benjamin Altman,ELEMENTARY,2.4,0,2.4,0,2,0,0.4,0,2,0,0.4,na,na,na,na,na,na,na,557,232,557,232
+02M047,47 The American Sign Language and English Secondar,HIGH SCHOOL,2.0,1,1,1,1,0,0,1,0,0,0,na,na,na,na,na,na,na,232,116,232,232
+02M051,P.S. 051 Elias Howe,ELEMENTARY,3.0,1,2,1,2,0,0,0,0,0,0,Bridging the Gap,na,na,na,na,na,na,488,163,488,244
+02M059,P.S. 059 Beekman Hill International,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,638,319,638,638
+02M077,P.S. 77 Lower Lab School,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,High Needs SW,na,na,na,na,na,362,181,362,362
+02M089,P.S. 89,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,454,227,454,454
+02M104,J.H.S. 104 Simon Baruch,JUNIOR HIGH-INTERMEDIATE-MIDDLE,4.0,3,1,3,1,0,0,0,0,0,0,na,High Needs SW,na,na,na,na,na,1101,275,367,1101
+02M111,P.S. 111 Adolph S. Ochs,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,438,219,438,438
+02M114,East Side Middle School,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,457,457,457,457
+02M116,P.S. 116 Mary Lindley Murray,ELEMENTARY,3.0,2,1,2,1,0,0,0,0,0,0,na,na,na,na,na,na,na,500,167,250,500
+02M124,P.S. 124 Yung Wing,ELEMENTARY,1.0,0,1,0,1,0,0,0,0,0,0,na,na,na,na,na,na,na,676,676,676,676
+02M126,P.S. 126 Jacob August Riis,K-8,3.0,1,2,1,2,0,0,0,0,0,0,na,na,na,na,na,na,na,714,238,714,357
+02M130,P.S. 130 Hernando De Soto,ELEMENTARY,2.0,1,1,1,1,0,0,0,1,0,0,na,na,na,na,na,na,na,796,398,796,796
+02M131,M.S. 131,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.0,1,1,1,1,0,0,1,0,0,0,na,na,na,na,na,na,na,304,152,304,304
+02M135,The Urban Assembly School for Emergency Management,HIGH SCHOOL,1.2,0,1.2,0,1,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,256,213,256,213
+02M139,Stephen T. Mather Building Arts & Craftsmanship Hi,HIGH SCHOOL,4.2,1,3.2,1,3,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,416,100,416,131
+02M150,P.S. 150,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,190,190,190,190
+02M151,Yorkville Community School,ELEMENTARY,3.0,2,1,2,1,0,0,0,0,0,0,na,na,na,na,na,na,na,475,158,238,475
+02M158,P.S. 158 Bayard Taylor,ELEMENTARY,1.0,0,1,0,1,0,0,0,0,0,0,na,na,na,na,na,na,na,804,804,804,804
+02M167,J.H.S. 167 Robert F. Wagner,JUNIOR HIGH-INTERMEDIATE-MIDDLE,5.0,4,1,4,1,0,0,0,0,0,0,na,na,na,na,na,na,na,1346,269,337,1346
+02M177,Yorkville East Middle School,JUNIOR HIGH-INTERMEDIATE-MIDDLE,3.0,2,1,2,1,0,0,0,0,0,0,na,High Needs SW,na,na,na,na,na,227,76,114,227
+02M183,P.S. 183 Robert L. Stevenson,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,604,302,604,604
+02M198,P.S. 198 Isador E. Ida Straus,ELEMENTARY,2.0,1,1,1,1,0,0,0,1,0,0,na,na,na,na,na,na,na,491,246,491,491
+02M212,P.S. 212 Midtown West,ELEMENTARY,0.4,0.4,0,0,0,0.4,0,0,0,0.4,0,na,na,na,na,na,na,na,370,370,370,370
+02M217,P.S./I.S. 217 Roosevelt Island,K-8,1.6,1.6,0,1,0,0.6,0,0,0,0.6,0,na,na,High Needs GC,na,na,na,na,640,400,400,640
+02M225,Ella Baker School,K-8,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,332,332,332,332
+02M234,P.S. 234 Independence School,ELEMENTARY,2.0,0,2,0,2,0,0,0,0,0,0,na,na,na,na,na,na,na,638,319,638,319
+02M255,M.S. 255 Salk School of Science,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.0,1,1,1,1,0,0,0,0,0,0,na,High Needs SW,na,na,na,na,na,383,192,383,383
+02M260,The Clinton School,SECONDARY SCHOOL,4.0,4,0,4,0,0,0,1,0,0,0,na,na,na,na,na,na,na,776,194,194,776
+02M267,"East Side Elementary School, PS 267",ELEMENTARY,1.0,0,1,0,1,0,0,0,0,0,0,na,na,na,na,na,na,na,438,438,438,438
+02M276,Battery Park City School,K-8,3.0,2,1,2,1,0,0,0,0,0,0,na,na,na,na,na,na,na,854,285,427,854
+02M280,Manhattan Early College School for Advertising,HIGH SCHOOL,3.2,3,0.2,3,0,0,0.2,0,0,0,0.2,na,na,High Needs GC,School Response Clinicians,na,na,na,445,139,148,445
+02M281,The River School,ELEMENTARY,1.0,0,1,0,1,0,0,0,0,0,0,na,na,na,na,na,na,na,422,422,422,422
+02M282,Urban Assembly Maker Academy,HIGH SCHOOL,4.2,3,1.2,3,1,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,435,104,145,362
+02M288,Food and Finance High School,HIGH SCHOOL,3.0,3,0,3,0,0,0,0,0,0,0,na,na,na,na,na,na,na,379,126,126,379
+02M289,I.S. 289,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,276,276,276,276
+02M290,P.S. 290 Manhattan New School,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,573,287,573,573
+02M294,Essex Street Academy,HIGH SCHOOL,3.2,0,3.2,0,3,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,338,106,338,106
+02M296,High School of Hospitality Management,HIGH SCHOOL,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,337,169,337,337
+02M297,M.S. 297,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.0,2,0,2,0,0,0,0,0,0,0,na,na,na,na,na,na,na,841,421,421,841
+02M298,Pace High School,HIGH SCHOOL,3.0,2,1,2,1,0,0,0,0,0,0,na,na,na,na,na,na,na,549,183,275,549
+02M300,"Urban Assembly School of Design and Construction,",HIGH SCHOOL,2.2,1,1.2,1,1,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,263,120,263,219
+02M303,"Facing History School, The",HIGH SCHOOL,3.2,1,2.2,1,2,0,0.2,0,0,0,0.2,na,na,High Needs GC,School Response Clinicians,na,na,na,350,109,350,159
+02M305,"Urban Assembly Academy of Government and Law, The",HIGH SCHOOL,1.2,0,1.2,0,1,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,322,268,322,268
+02M308,Lower Manhattan Arts Academy,HIGH SCHOOL,2.0,2,0,2,0,0,0,0,0,0,0,na,na,na,na,na,na,na,314,157,157,314
+02M312,New York City Lab Middle School for Collaborative,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.6,2,0.6,2,0,0,0.6,0,0,0,0.6,na,na,na,na,na,na,na,603,232,302,603
+75Q004,P.S. Q004,K-8,4.0,2,2,2,2,0,0,0,0,0,0,na,na,na,na,na,na,na,457,114,229,229
+02M313,"James Baldwin School, The: A School for Expedition",HIGH SCHOOL,3.0,1,2,1,2,0,0,0,0,0,0,na,na,na,na,na,Learning to Work,na,234,78,234,117
+02M316,"Urban Assembly School of Business for Young Women,",HIGH SCHOOL,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,178,178,178,178
+02M340,Sixth Avenue Elementary School,ELEMENTARY,1.0,0,1,0,1,0,0,0,0,0,0,na,na,na,na,na,na,na,400,400,400,400
+02M343,The Peck Slip School,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,458,458,458,458
+02M347,The 47 American Sign Language & English Lower Scho,K-8,1.0,0,1,0,1,0,0,0,0,0,0,na,na,na,na,na,na,na,181,181,181,181
+02M374,Gramercy Arts High School,HIGH SCHOOL,2.0,2,0,2,0,0,0,0,0,0,0,na,na,na,na,na,na,na,449,225,225,449
+02M376,NYC iSchool,HIGH SCHOOL,2.0,2,0,2,0,0,0,0,0,0,0,na,na,na,na,na,na,na,465,233,233,465
+02M392,Manhattan Business Academy,HIGH SCHOOL,2.0,2,0,2,0,0,0,0,0,0,0,na,na,na,na,na,na,na,406,203,203,406
+02M393,Business Of Sports School,HIGH SCHOOL,3.2,1,2.2,1,2,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,428,135,428,198
+02M394,Emma Lazarus High School,HIGH SCHOOL,2.0,2,0,2,0,0,0,1,0,0,0,na,na,na,na,na,Learning to Work,na,307,154,154,307
+02M397,Spruce Street School,K-8,3.0,1,2,1,2,0,0,0,0,0,0,na,na,na,na,na,na,na,561,187,561,281
+02M399,The High School For Language And Diplomacy,HIGH SCHOOL,2.0,2,0,2,0,0,0,1,0,0,0,na,na,na,na,na,na,na,274,137,137,274
+02M400,High School for Environmental Studies,HIGH SCHOOL,6.0,5,1,5,1,0,0,4,1,0,0,na,na,na,na,na,na,na,1133,189,227,1133
+02M407,Institute for Collaborative Education,SECONDARY SCHOOL,2.2,0,2.2,0,2,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,489,226,489,226
+02M408,Professional Performing Arts High School,SECONDARY SCHOOL,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,577,577,577,577
+02M411,Baruch College Campus High School,HIGH SCHOOL,4.0,4,0,4,0,0,0,0,0,0,0,na,na,na,na,na,na,na,487,122,122,487
+02M412,N.Y.C. Lab School for Collaborative Studies,HIGH SCHOOL,2.6,2.6,0,2,0,0.6,0,0,0,0,0,na,na,na,na,na,na,na,514,198,198,514
+02M413,School of the Future High School,SECONDARY SCHOOL,5.0,4,1,4,1,0,0,0,0,0,0,na,High Needs SW,na,na,na,na,na,717,143,179,717
+02M414,N.Y.C. Museum School,HIGH SCHOOL,2.0,2,0,2,0,0,0,0,0,0,0,na,na,na,na,na,na,na,454,227,227,454
+02M416,Eleanor Roosevelt High School,HIGH SCHOOL,3.0,3,0,3,0,0,0,0,0,0,0,na,na,na,na,na,na,na,541,180,180,541
+02M418,Millennium High School,HIGH SCHOOL,3.3,3.1,0.2,2,0,1.1,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,674,204,217,674
+02M419,Landmark High School,HIGH SCHOOL,2.2,2,0.2,2,0,0,0.2,1,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,335,155,168,335
+02M420,High School for Health Professions and Human Servi,HIGH SCHOOL,7.8,7,0.8,7,0,0,0.8,1,0,0,0,na,na,na,na,na,na,na,1822,234,260,1822
+02M422,Quest to Learn,SECONDARY SCHOOL,4.2,3,1.2,3,1,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,581,139,194,498
+02M425,Leadership and Public Service High School,HIGH SCHOOL,2.0,2,0,2,0,0,0,0,0,0,0,na,na,na,na,na,na,na,361,181,181,361
+02M427,Manhattan Academy For Arts & Language,HIGH SCHOOL,2.0,2,0,2,0,0,0,0,0,0,0,na,na,na,na,na,na,na,210,105,105,210
+02M432,Murray Hill Academy,HIGH SCHOOL,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,263,132,263,263
+02M437,Hudson High School of Learning Technologies,HIGH SCHOOL,4.0,2,2,2,2,0,0,0,0,0,0,na,na,na,na,na,na,na,458,115,229,229
+02M438,International High School at Union Square,HIGH SCHOOL,5.2,2,3.2,2,3,0,0.2,1,1,0,0.2,na,na,na,School Response Clinicians,na,na,na,351,68,176,111
+02M439,Manhattan Village Academy,HIGH SCHOOL,1.0,1,0,1,0,0,0,0,0,0,0,na,na,High Needs GC,na,na,na,na,460,460,460,460
+02M442,"Ballet Tech, NYC Public School for Dance",K-8,1.0,1,0,1,0,0,0,0,0,0,0,na,na,High Needs GC,na,na,na,na,141,141,141,141
+02M449,Vanguard High School,HIGH SCHOOL,2.2,0,2.2,0,2,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,424,193,424,193
+02M459,Manhattan International High School,HIGH SCHOOL,3.0,2,1,2,1,0,0,0,0,0,0,na,na,High Needs GC,na,na,na,na,301,100,151,301
+02M475,Stuyvesant High School,HIGH SCHOOL,16.0,15,1,15,1,0,0,0,0,0,0,na,na,na,na,na,na,na,3381,211,225,3381
+02M489,High School of Economics and Finance,HIGH SCHOOL,3.0,3,0,3,0,0,0,1,0,0,0,na,na,na,na,na,na,na,738,246,246,738
+02M500,Unity Center for Urban Technologies,HIGH SCHOOL,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,267,267,267,267
+02M507,Urban Assembly Gateway School for Technology,HIGH SCHOOL,5.2,4,1.2,4,1,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,453,88,113,388
+02M519,Talent Unlimited High School,HIGH SCHOOL,3.0,2,1,2,1,0,0,0,0,0,0,na,na,na,na,na,na,na,532,177,266,532
+02M520,Murry Bergtraum High School for Business Careers,HIGH SCHOOL,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,114,57,114,114
+02M527,P.S. 527 - East Side School for Social Action,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,480,480,480,480
+02M529,Jacqueline Kennedy Onassis High School,HIGH SCHOOL,2.8,1.8,1,1,1,0.8,0,0,0,0.8,0,na,na,na,na,na,na,na,302,108,168,302
+02M531,Repertory Company High School for Theatre Arts,HIGH SCHOOL,3.0,2,1,2,1,0,0,0,0,0,0,na,High Needs SW,na,na,na,na,na,237,79,119,237
+02M533,Union Square Academy for Health Sciences,HIGH SCHOOL,2.0,2,0,2,0,0,0,0,0,0,0,na,na,na,na,na,na,na,404,202,202,404
+02M534,Harvest Collegiate High School,HIGH SCHOOL,2.0,0,2,0,2,0,0,0,0,0,0,na,na,na,na,na,na,na,440,220,440,220
+02M542,Manhattan Bridges High School,HIGH SCHOOL,3.2,3,0.2,3,0,0,0.2,2,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,520,162,173,520
+02M543,New Design High School,HIGH SCHOOL,2.2,0,2.2,0,2,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,454,206,454,206
+02M544,Independence High School,HIGH SCHOOL,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,Learning to Work,na,342,171,342,342
+02M545,High School for Dual Language and Asian Studies,HIGH SCHOOL,2.0,2,0,2,0,0,0,1,0,0,0,na,na,na,na,na,na,na,396,198,198,396
+02M546,Academy for Software Engineering,HIGH SCHOOL,3.2,2,1.2,2,1,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,453,143,227,388
+02M550,Liberty High School Academy for Newcomers,HIGH SCHOOL,4.0,3,1,3,1,0,0,1,0,0,0,na,na,na,na,na,Learning to Work,na,428,107,143,428
+02M551,Urban Assembly New York Harbor School,HIGH SCHOOL,3.0,2,1,2,1,0,0,1,0,0,0,na,na,na,na,na,na,na,523,174,262,523
+02M560,High School M560 - City As School,HIGH SCHOOL,5.0,1,4,1,4,0,0,1,1,0,0,na,na,na,na,na,na,na,607,121,607,152
+02M565,Urban Academy Laboratory High School,HIGH SCHOOL,1.0,1,0,1,0,0,0,0,0,0,0,na,na,High Needs GC,na,na,na,na,137,137,137,137
+02M570,Satellite Academy High School,HIGH SCHOOL,2.0,0,2,0,2,0,0,0,0,0,0,na,na,na,na,na,Learning to Work,na,254,127,254,127
+02M575,Manhattan Comprehensive Night and Day High School,HIGH SCHOOL,4.0,4,0,4,0,0,0,0,0,0,0,na,na,na,na,na,Learning to Work,na,704,176,176,704
+02M580,Richard R. Green High School of Teaching,HIGH SCHOOL,3.0,2,1,2,1,0,0,0,0,0,0,na,na,na,na,na,na,na,352,117,176,352
+02M586,Harvey Milk High School,HIGH SCHOOL,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,61,31,61,61
+02M600,The High School of Fashion Industries,HIGH SCHOOL,8.0,8,0,8,0,0,0,1,0,0,0,na,na,na,na,na,na,na,1589,199,199,1589
+02M605,Humanities Preparatory Academy,HIGH SCHOOL,3.0,1,2,1,2,0,0,0,0,0,0,na,na,na,na,na,na,na,261,87,261,131
+02M615,Chelsea Career and Technical Education High School,HIGH SCHOOL,3.0,2,1,2,1,0,0,0,0,0,0,na,na,na,na,na,na,na,449,150,225,449
+02M630,Art and Design High School,HIGH SCHOOL,7.0,5,2,5,2,0,0,0,0,0,0,na,na,na,na,na,na,na,1465,209,293,733
+02M655,Life Sciences Secondary School,HIGH SCHOOL,3.0,3,0,3,0,0,0,1,0,0,0,na,na,na,na,na,na,na,394,131,131,394
+02M896,Lower Manhattan Community Middle School,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,378,378,378,378
+02M933,City Knoll Middle School,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,154,154,154,154
+03M009,P.S. 009 Sarah Anderson,ELEMENTARY,2.0,1,1,1,1,0,0,0,1,0,0,na,na,na,na,na,na,na,624,312,624,624
+03M054,J.H.S. 054 Booker T. Washington,JUNIOR HIGH-INTERMEDIATE-MIDDLE,3.3,3,0.3,3,0,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,825,254,275,825
+03M075,P.S. 075 Emily Dickinson,ELEMENTARY,3.0,2,1,2,1,0,0,0,1,0,0,na,na,na,na,na,na,na,520,173,260,520
+03M076,P.S. 076 A. Philip Randolph,K-8,2.0,1,1,1,1,0,0,0,0,0,0,Bridging the Gap,na,na,na,na,na,na,371,186,371,371
+03M084,P.S. 084 Lillian Weber,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,687,687,687,687
+03M087,P.S. 087 William Sherman,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,873,437,873,873
+03M145,"P.S. 145, The Bloomingdale School",ELEMENTARY,3.0,1,2,1,2,0,0,0,1,0,0,Bridging the Gap,na,na,na,na,na,na,395,132,395,198
+03M149,P.S. 149 Sojourner Truth,K-8,3.0,2,1,2,1,0,0,1,0,0,0,na,na,High Needs GC,na,na,na,na,216,72,108,216
+03M163,P.S. 163 Alfred E. Smith,ELEMENTARY,2.0,1,1,1,1,0,0,0,1,0,0,na,na,na,na,na,na,na,543,272,543,543
+03M165,P.S. 165 Robert E. Simon,ELEMENTARY,1.0,0,1,0,1,0,0,0,0,0,0,na,na,na,na,na,na,na,432,432,432,432
+03M166,P.S. 166 The Richard Rodgers School of The Arts an,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,665,333,665,665
+03M180,P.S. 180 Hugo Newman,K-8,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,513,257,513,513
+03M185,The Locke School of Arts and Engineering,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,High Needs GC,na,na,na,na,347,347,347,347
+03M191,The Riverside School for Makers and Artists,K-8,4.0,3,1,3,1,0,0,0,0,0,0,na,na,na,na,na,na,na,530,133,177,530
+03M199,P.S. 199 Jessie Isador Straus,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,761,381,761,761
+03M241,STEM Institute of Manhattan,ELEMENTARY,2.0,2,0,2,0,0,0,1,0,0,0,na,na,na,na,na,na,na,97,49,49,97
+03M242,P.S. 242 - The Young Diplomats Magnet Academy,ELEMENTARY,2.0,2,0,2,0,0,0,0,0,0,0,na,na,na,na,na,na,na,140,70,70,140
+03M243,M.S. 243 Center School,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.0,0.4,0.6,0,0,0.4,0.6,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,247,247,247,247
+03M245,M.S. M245 The Computer School,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.2,1,0.2,1,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,403,345,403,403
+03M247,M.S. M247 Dual Language Middle School,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.2,1,0.2,1,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,231,198,231,231
+03M250,M.S. 250 West Side Collaborative Middle School,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.2,1,0.2,1,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,152,130,152,152
+03M256,Lafayette Academy,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.0,2,0,2,0,0,0,0,0,0,0,na,na,High Needs GC,na,na,na,na,143,72,72,143
+03M258,Community Action School - MS 258,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.2,1,0.2,1,0,0,0.2,1,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,244,203,244,244
+03M291,West End Secondary School,SECONDARY SCHOOL,3.0,3,0,3,0,0,0,0,0,0,0,na,na,na,na,na,na,na,534,178,178,534
+03M299,The Maxine Greene HS for Imaginative Inquiry,HIGH SCHOOL,1.0,0,1,0,1,0,0,0,0,0,0,na,na,na,na,na,na,na,285,285,285,285
+03M307,"Urban Assembly School for Media Studies, The",HIGH SCHOOL,3.0,3,0,3,0,0,0,0,0,0,0,na,na,na,na,na,na,na,409,136,136,409
+03M333,P.S. 333 Manhattan School for Children,K-8,3.0,0,3,0,3,0,0,0,0,0,0,na,na,na,na,na,na,na,689,230,689,230
+03M334,The Anderson School,K-8,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,522,522,522,522
+03M402,The Urban Assembly School for Green Careers,HIGH SCHOOL,3.0,1,2,1,2,0,0,0,1,0,0,na,na,na,na,na,na,na,305,102,305,153
+03M403,The Global Learning Collaborative,HIGH SCHOOL,1.0,1,0,1,0,0,0,1,0,0,0,na,na,na,na,na,na,na,419,419,419,419
+03M404,Innovation Diploma Plus,HIGH SCHOOL,1.0,0,1,0,1,0,0,0,0,0,0,na,na,na,na,na,Learning to Work,na,175,175,175,175
+03M415,Wadleigh Secondary School for the Performing & Vis,SECONDARY SCHOOL,3.0,3,0,3,0,0,0,0,0,0,0,na,na,na,na,na,na,na,313,104,104,313
+03M417,Frank McCourt High School,HIGH SCHOOL,2.2,2,0.2,2,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,402,186,201,402
+03M421,West Prep Academy,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.2,2,0.2,2,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,183,83,92,183
+03M452,P.S. 452,ELEMENTARY,1.0,0,1,0,1,0,0,0,0,0,0,na,na,na,na,na,na,na,412,412,412,412
+03M479,Beacon High School,HIGH SCHOOL,8.0,7,1,7,1,0,0,1,0,0,0,na,na,na,na,na,na,na,1469,184,210,1469
+03M485,Fiorello H. LaGuardia High School of Music & Art a,HIGH SCHOOL,11.0,10,1,10,1,0,0,2,0,0,0,na,na,na,na,na,na,na,2946,268,295,2946
+03M492,"High School for Law, Advocacy and Community Justic",HIGH SCHOOL,2.0,2,0,2,0,0,0,0,0,0,0,na,na,na,na,na,na,na,405,203,203,405
+03M494,High School of Arts and Technology,HIGH SCHOOL,5.0,2,3,2,3,0,0,0,1,0,0,Bridging the Gap,na,na,na,na,na,na,459,92,230,153
+03M505,Edward A. Reynolds West Side High School,HIGH SCHOOL,6.0,2,4,2,4,0,0,0,0,0,0,na,na,na,na,na,Learning to Work,na,381,64,191,95
+03M541,Manhattan / Hunter Science High School,HIGH SCHOOL,3.2,2,1.2,2,1,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,455,144,228,390
+03M859,Special Music School,K-12 ALL GRADES,2.0,1,1,1,1,0,0,0,1,0,0,na,na,na,na,na,na,na,306,153,306,306
+03M860,Frederick Douglass Academy II Secondary School,SECONDARY SCHOOL,3.3,3,0.3,3,0,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,321,99,107,321
+03M862,Mott Hall II,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.2,2,0.2,2,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,415,192,208,415
+04M007,P.S. 007 Samuel Stern,K-8,2.0,2,0,2,0,0,0,0,0,0,0,na,na,na,na,na,na,na,366,183,183,366
+04M012,Tag Young Scholars,K-8,2.0,1,1,1,1,0,0,0,0,0,0,na,na,High Needs GC,na,na,na,na,600,300,600,600
+04M037,River East Elementary,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,265,133,265,265
+04M038,P.S. 38 Roberto Clemente,ELEMENTARY,2.0,0,2,0,2,0,0,0,1,0,0,na,na,na,na,na,na,"BronxWorks, Inc.",243,122,243,122
+04M057,James Weldon Johnson,K-8,3.0,1,2,1,2,0,0,0,0,0,0,Bridging the Gap,na,na,na,na,na,na,697,232,697,349
+04M072,The Lexington Academy,K-8,1.8,0.8,1,0,1,0.8,0,0,1,0.8,0,na,na,na,na,na,na,na,588,327,588,588
+04M083,P.S. 083 Luis Munoz Rivera,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,371,371,371,371
+04M096,P.S. 096 Joseph Lanzetta,K-8,1.0,0,1,0,1,0,0,0,0,0,0,na,na,na,na,na,na,na,405,405,405,405
+04M102,P.S. 102 Jacques Cartier,ELEMENTARY,3.0,0,3,0,3,0,0,0,1,0,0,na,na,na,na,na,na,na,243,81,243,81
+04M108,P.S. 108 Assemblyman Angelo Del Toro Educational C,K-8,3.0,2,1,2,1,0,0,0,1,0,0,na,na,na,na,na,na,na,461,154,231,461
+04M112,P.S. 112 Jose Celso Barbosa,EARLY CHILDHOOD,1.2,0.2,1,0,1,0.2,0,0,0,0.2,0,na,na,na,na,na,na,na,322,268,322,322
+04M146,P.S. 146 Ann M. Short,ELEMENTARY,3.0,0,3,0,3,0,0,0,1,0,0,na,na,na,na,na,na,na,389,130,389,130
+04M155,P.S. 155 William Paca,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,244,122,244,244
+04M171,P.S. 171 Patrick Henry,K-8,3.0,1,2,1,2,0,0,0,0,0,0,na,na,na,na,na,na,na,765,255,765,383
+04M182,The Bilingual Bicultural School,ELEMENTARY,1.0,0,1,0,1,0,0,0,0,0,0,na,na,na,na,na,na,na,296,296,296,296
+04M206,P.S. 206 Jose Celso Barbosa,K-8,3.0,0,3,0,3,0,0,0,1,0,0,na,na,na,na,na,na,na,454,151,454,151
+04M224,M.S. 224 Manhattan East School for Arts & Academic,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.2,2,0.2,2,0,0,0.2,1,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,208,96,104,208
+04M310,The Judith S. Kaye School,HIGH SCHOOL,GC and SW counts reflected on 79M331 budget,0,0,0,0,0,0,0,0,0,0,na,na,na,na,na,Learning to Work,na,147,see note in column D,see note in column D,see note in column D
+04M372,Esperanza Preparatory Academy,SECONDARY SCHOOL,3.0,2,1,2,1,0,0,1,0,0,0,na,na,na,na,na,na,na,525,175,263,525
+04M375,Mosaic Preparatory Academy,ELEMENTARY,2.0,2,0,2,0,0,0,0,0,0,0,na,High Needs SW,High Needs GC,na,na,na,na,254,127,127,254
+04M377,Renaissance School of the Arts,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.2,1,0.2,1,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,"Partnership with Children, Inc.",202,173,202,202
+04M435,Manhattan Center for Science and Mathematics,HIGH SCHOOL,5.0,4,1,4,1,0,0,3,0,0,0,na,na,na,na,na,na,na,1647,329,412,1647
+04M495,Park East High School,HIGH SCHOOL,3.0,2,1,2,1,0,0,1,0,0,0,na,na,na,na,na,na,na,380,127,190,380
+04M497,Central Park East I,ELEMENTARY,1.0,0,1,0,1,0,0,0,0,0,0,na,na,na,na,na,na,na,174,174,174,174
+04M555,Central Park East High School,HIGH SCHOOL,3.0,2,1,2,1,0,0,1,0,0,0,na,na,na,na,na,na,na,512,171,256,512
+04M610,Young Women's Leadership School,SECONDARY SCHOOL,1.4,1.2,0.2,1,0,0.2,0.2,0,0,0.2,0.2,na,na,na,School Response Clinicians,na,na,na,474,347,395,474
+04M680,"Heritage School, The",HIGH SCHOOL,2.0,2,0,2,0,0,0,1,0,0,0,na,na,na,na,na,na,na,311,156,156,311
+04M825,Isaac Newton Middle School for Math & Science,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.3,1,1.3,1,1,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,281,125,281,225
+04M964,Central Park East II,K-8,1.0,1,0,1,0,0,0,1,0,0,0,na,na,na,na,na,na,"Partnership with Children, Inc.",466,466,466,466
+05M030,P.S. 030 Hernandez/Hughes,ELEMENTARY,3.0,2,1,2,1,0,0,0,0,0,0,na,na,na,na,na,na,na,236,79,118,236
+05M036,P.S. 036 Margaret Douglas,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,374,187,374,374
+05M046,P.S. 046 Arthur Tappan,K-8,3.0,1,2,1,2,0,0,0,0,0,0,na,na,na,na,na,na,na,557,186,557,279
+05M092,P.S. 092 Mary McLeod Bethune,ELEMENTARY,2.0,0,2,0,2,0,0,0,0,0,0,Bridging the Gap,na,na,na,na,na,na,243,122,243,122
+05M123,P.S. 123 Mahalia Jackson,K-8,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,461,231,461,461
+05M125,P.S. 125 Ralph Bunche,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,303,303,303,303
+05M129,P.S. 129 John H. Finley,K-8,3.0,1,2,1,2,0,0,1,0,0,0,Bridging the Gap,na,na,na,na,na,na,377,126,377,189
+05M133,P.S. 133 Fred R Moore,ELEMENTARY,3.0,2,1,2,1,0,0,0,0,0,0,na,na,na,na,na,na,na,225,75,113,225
+05M148,Eagle Academy for Young Men of Harlem,SECONDARY SCHOOL,3.0,1,2,1,2,0,0,0,0,0,0,na,na,na,na,na,na,na,382,127,382,191
+05M154,P.S. 154 Harriet Tubman,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,282,282,282,282
+05M157,The Urban Assembly School for Global Commerce,HIGH SCHOOL,2.0,2,0,2,0,0,0,0,0,0,0,na,na,na,na,na,na,na,233,117,117,233
+05M161,P.S. 161 Pedro Albizu Campos,K-8,3.0,2,1,2,1,0,0,0,0,0,0,na,na,na,na,na,na,na,762,254,381,762
+05M175,P.S. 175 Henry H Garnet,ELEMENTARY,2.0,0,2,0,2,0,0,0,0,0,0,Bridging the Gap,na,na,na,na,na,na,343,172,343,172
+05M194,P.S. 194 Countee Cullen,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,"Counseling In Schools, Inc.",185,185,185,185
+05M197,P.S. 197 John B. Russwurm,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,Bridging the Gap,na,na,na,na,na,na,289,145,289,289
+05M200,P.S. 200- The James McCune Smith School,ELEMENTARY,4.0,2,2,2,2,0,0,0,1,0,0,Bridging the Gap,na,na,na,na,na,na,375,94,188,188
+05M285,Harlem Renaissance High School,HIGH SCHOOL,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,Learning to Work,na,213,213,213,213
+05M286,Urban Assembly Academy for Future Leaders,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,103,103,103,103
+05M304,Mott Hall High School,HIGH SCHOOL,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,239,239,239,239
+05M318,Thurgood Marshall Academy Lower School,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,206,206,206,206
+05M362,Columbia Secondary School,SECONDARY SCHOOL,2.0,2,0,2,0,0,0,1,0,0,0,na,na,na,na,na,na,na,698,349,349,698
+05M369,Urban Assembly School for the Performing Arts,HIGH SCHOOL,4.0,3,1,3,1,0,0,0,0,0,0,na,na,na,na,na,na,na,380,95,127,380
+05M371,School of Earth Exploration and Discovery Harlem (SEED Harlem),JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,77,77,77,77
+05M499,Frederick Douglass Academy,SECONDARY SCHOOL,6.0,4,2,4,2,0,0,0,0,0,0,Bridging the Gap,na,na,na,na,na,na,1072,179,268,536
+05M514,New Design Middle School,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,138,138,138,138
+05M517,Teachers College Community School,K-8,1.0,0,1,0,1,0,0,0,0,0,0,na,na,na,na,na,na,na,374,374,374,374
+05M670,Thurgood Marshall Academy for Learning and Social,SECONDARY SCHOOL,2.0,2,0,2,0,0,0,0,0,0,0,na,na,na,na,na,na,na,541,271,271,541
+05M692,"High School for Mathematics, Science and Engineeri",HIGH SCHOOL,2.0,2,0,2,0,0,0,0,0,0,0,na,na,na,na,na,na,na,485,243,243,485
+06M004,P.S. 004 Duke Ellington,ELEMENTARY,2.0,0,2,0,2,0,0,0,0,0,0,na,na,na,na,na,na,na,499,250,499,250
+06M005,P.S. 005 Ellen Lurie,ELEMENTARY,3.0,2,1,2,1,0,0,0,1,0,0,na,na,na,na,na,na,na,556,185,278,556
+06M008,P.S. 008 Luis Belliard,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,"East Side House, Inc.",480,480,480,480
+06M018,P.S. 018 Park Terrace,K-8,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,349,349,349,349
+06M028,P.S. 028 Wright Brothers,ELEMENTARY,2.6,1.6,1,1,1,0.6,0,0,1,0.6,0,na,na,na,na,na,na,na,532,205,333,532
+06M048,P.S. 048 P.O. Michael J. Buczek,ELEMENTARY,2.0,1,1,1,1,0,0,1,1,0,0,na,na,na,na,na,na,na,452,226,452,452
+06M052,Harold O. Levy School,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.0,0,2,0,2,0,0,0,1,0,0,na,na,na,na,na,na,na,268,134,268,134
+06M098,P.S. 098 Shorac Kappock,ELEMENTARY,1.0,1,0,1,0,0,0,1,0,0,0,na,na,na,na,na,na,na,414,414,414,414
+06M103,Dos Puentes Elementary School,ELEMENTARY,2.0,1,1,1,1,0,0,1,1,0,0,na,na,na,na,na,na,na,415,208,415,415
+06M115,P.S. 115 Alexander Humboldt,ELEMENTARY,2.0,1,1,1,1,0,0,0,1,0,0,na,na,na,na,na,na,na,447,224,447,447
+06M128,P.S. 128 Audubon,ELEMENTARY,2.0,1,1,1,1,0,0,1,1,0,0,na,na,na,na,na,na,na,604,302,604,604
+06M132,P.S. 132 Juan Pablo Duarte,ELEMENTARY,1.0,1,0,1,0,0,0,1,0,0,0,na,na,na,na,na,na,na,205,205,205,205
+06M143,J.H.S. 143 Eleanor Roosevelt,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.0,1,0,1,0,0,0,1,0,0,0,na,na,na,na,na,na,na,222,222,222,222
+06M152,P.S. 152 Dyckman Valley,ELEMENTARY,4.0,2,2,2,2,0,0,2,0,0,0,na,na,na,na,na,na,na,544,136,272,272
+06M153,P.S. 153 Adam Clayton Powell,ELEMENTARY,2.0,1,1,1,1,0,0,1,0,0,0,na,na,na,na,na,na,na,490,245,490,490
+06M173,P.S. 173,ELEMENTARY,3.0,2,1,2,1,0,0,0,0,0,0,na,na,na,na,na,na,na,505,168,253,505
+06M178,Professor Juan Bosch Public School,ELEMENTARY,2.0,0,2,0,2,0,0,0,1,0,0,na,na,na,na,na,na,na,293,147,293,147
+06M187,P.S./I.S. 187 Hudson Cliffs,K-8,4.0,4,0,4,0,0,0,0,0,0,0,na,na,na,na,na,na,na,785,196,196,785
+06M189,P.S. 189,ELEMENTARY,3.0,2,1,2,1,0,0,1,0,0,0,na,na,na,na,na,na,na,659,220,330,659
+06M192,P.S. 192 Jacob H. Schiff,ELEMENTARY,2.0,0,2,0,2,0,0,0,1,0,0,na,na,na,na,na,na,na,341,171,341,171
+06M209,Hamilton Grange Middle School,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.0,1,1,1,1,0,0,0,0,0,0,na,na,High Needs GC,na,na,na,na,321,161,321,321
+06M210,P.S./I.S. 210 - Twenty-first Century Academy for C,K-8,1.0,1,0,1,0,0,0,1,0,0,0,na,na,na,na,na,na,na,430,430,430,430
+06M211,Inwood Early College for Health and Information Te,HIGH SCHOOL,3.3,1,2.3,1,2,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,459,141,459,204
+06M223,The Mott Hall School,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.0,2,0,2,0,0,0,0,0,0,0,na,na,na,na,na,na,na,290,145,145,290
+06M278,Paula Hedbavny School,K-8,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,521,521,521,521
+06M293,City College Academy of the Arts,SECONDARY SCHOOL,3.2,3,0.2,3,0,0,0.2,2,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,612,191,204,612
+06M311,Amistad Dual Language School,K-8,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,427,427,427,427
+06M314,Muscota,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,302,302,302,302
+06M319,M.S. 319 - Maria Teresa,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,386,193,386,386
+06M322,Middle School 322,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.0,1,0,1,0,0,0,0,0,0,0,na,na,High Needs GC,na,na,na,na,325,325,325,325
+06M324,M.S. 324 - Patria Mirabal,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.0,1,0,1,0,0,0,1,0,0,0,na,na,na,na,na,na,na,319,319,319,319
+06M328,Community Math & Science Prep,JUNIOR HIGH-INTERMEDIATE-MIDDLE,0.4,0.4,0,0,0,0.4,0,0,0,0.4,0,na,na,na,na,na,na,na,167,167,167,167
+06M346,Community Health Academy of the Heights,SECONDARY SCHOOL,4.2,2,2.2,2,2,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,695,165,348,316
+06M348,Washington Heights Expeditionary Learning School,K-12 ALL GRADES,5.2,0,5.2,0,5,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,890,171,890,171
+06M349,Harbor Heights,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.0,1,0,1,0,0,0,1,0,0,0,na,na,na,na,na,na,na,123,123,123,123
+06M366,Washington Heights Academy,K-8,2.0,2,0,2,0,0,0,0,0,0,0,na,na,na,na,na,na,na,579,290,290,579
+06M368,Hamilton Heights School,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,160,160,160,160
+06M423,High School for Excellence and Innovation,HIGH SCHOOL,2.0,2,0,2,0,0,0,1,0,0,0,na,na,na,na,na,Learning to Work,na,189,95,95,189
+06M462,The College Academy,HIGH SCHOOL,2.0,2,0,2,0,0,0,2,0,0,0,na,na,na,na,na,na,na,367,184,184,367
+06M463,High School for Media and Communications,HIGH SCHOOL,3.0,3,0,3,0,0,0,0,0,0,0,na,na,na,na,na,na,na,350,117,117,350
+06M467,High School for Law and Public Service,HIGH SCHOOL,3.0,2,1,2,1,0,0,0,1,0,0,na,na,na,na,na,na,na,445,148,223,445
+06M468,High School for Health Careers and Sciences,HIGH SCHOOL,2.0,2,0,2,0,0,0,1,0,0,0,na,na,na,na,na,na,na,401,201,201,401
+06M513,Castle Bridge School,ELEMENTARY,1.0,0,1,0,1,0,0,0,0,0,0,na,na,na,na,na,na,na,189,189,189,189
+06M528,I.S. 528 Bea Fuller Rodgers School,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.0,1,0,1,0,0,0,1,0,0,0,na,na,na,na,na,na,na,248,248,248,248
+06M540,A. Philip Randolph Campus High School,HIGH SCHOOL,9.0,7,2,7,2,0,0,2,0,0,0,Bridging the Gap,na,na,na,na,na,na,1409,157,201,705
+06M552,Gregorio Luperon High School for Science and Mathe,HIGH SCHOOL,3.0,3,0,3,0,0,0,0,0,0,0,na,na,na,na,na,na,na,521,174,174,521
+07X001,P.S. 001 Courtlandt School,ELEMENTARY,4.0,2,2,2,2,0,0,0,1,0,0,Bridging the Gap,na,na,na,na,na,na,621,155,311,311
+07X005,P.S. 5 Port Morris,K-8,6.0,3,3,3,3,0,0,0,0,0,0,na,na,na,na,Single Shepherd,na,na,663,111,221,221
+07X018,P.S. 018 John Peter Zenger,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,559,280,559,559
+07X025,P.S. 025 Bilingual School,ELEMENTARY,3.0,2,1,2,1,0,0,0,1,0,0,na,na,na,na,na,na,na,531,177,266,531
+07X029,P.S./M.S. 029 Melrose School,K-8,5.0,1,4,1,4,0,0,0,1,0,0,na,na,na,na,Single Shepherd,na,na,795,159,795,199
+07X030,P.S. 030 Wilton,ELEMENTARY,4.0,2,2,2,2,0,0,0,1,0,0,Bridging the Gap,na,na,na,na,na,na,527,132,264,264
+07X031,P.S./M.S. 031 The William Lloyd Garrison,K-8,4.0,1,3,1,3,0,0,0,0,0,0,na,na,na,na,Single Shepherd,na,na,691,173,691,230
+07X043,P.S. 043 Jonas Bronck,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,414,207,414,414
+07X049,P.S. 049 Willis Avenue,ELEMENTARY,4.0,2,2,2,2,0,0,0,1,0,0,Bridging the Gap,na,na,na,na,na,na,651,163,326,326
+07X065,P.S. 065 Mother Hale Academy,ELEMENTARY,3.6,1.6,2,1,2,0.6,0,0,0,0.6,0,Bridging the Gap,na,na,na,na,na,na,357,99,223,179
+07X151,J.H.S. 151 Lou Gehrig,JUNIOR HIGH-INTERMEDIATE-MIDDLE,4.3,3,1.3,3,1,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,Single Shepherd,na,na,189,44,63,151
+07X154,P.S. 154 Jonathan D. Hyatt,ELEMENTARY,2.0,2,0,2,0,0,0,0,0,0,0,na,na,na,na,na,na,na,302,151,151,302
+07X157,P.S. 157 Grove Hill,ELEMENTARY,3.0,1,2,1,2,0,0,0,0,0,0,na,na,High Needs GC,na,na,na,na,593,198,593,297
+07X161,P.S. 161 Juan Ponce De Leon School,ELEMENTARY,3.0,2,1,2,1,0,0,1,0,0,0,na,na,na,na,na,na,na,453,151,227,453
+07X179,P.S. 179,ELEMENTARY,1.4,1.4,0,1,0,0.4,0,0,0,0.4,0,na,na,High Needs GC,na,na,na,na,312,223,223,312
+07X221,South Bronx Preparatory: A College Board School,SECONDARY SCHOOL,4.3,4,0.3,4,0,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,Single Shepherd,na,na,652,153,163,652
+07X223,The Laboratory School of Finance and Technology: X,SECONDARY SCHOOL,7.0,5,2,5,2,0,0,1,0,0,0,na,na,na,na,Single Shepherd,na,na,683,98,137,342
+07X224,P.S./I.S. 224,JUNIOR HIGH-INTERMEDIATE-MIDDLE,5.3,4,1.3,4,1,0,0.3,1,0,0,0.3,na,na,na,School Response Clinicians,Single Shepherd,na,na,281,54,70,225
+07X259,"H.E.R.O. High (Health, Education, and Research Occ",HIGH SCHOOL,5.3,0,5.3,0,5,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,Single Shepherd,na,na,532,100,532,100
+07X277,P.S. 277,ELEMENTARY,2.0,1,1,1,1,0,0,0,1,0,0,na,na,na,na,na,na,na,438,219,438,438
+07X296,South Bronx Academy for Applied Media,JUNIOR HIGH-INTERMEDIATE-MIDDLE,3.3,1,2.3,1,2,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,Single Shepherd,na,na,216,65,216,93
+07X298,Academy of Public Relations,JUNIOR HIGH-INTERMEDIATE-MIDDLE,5.0,2,3,2,3,0,0,1,0,0,0,na,na,na,na,Single Shepherd,na,na,250,50,125,83
+07X334,International Community High School,HIGH SCHOOL,8.0,5,3,5,3,0,0,1,0,0,0,na,na,na,na,Single Shepherd,na,na,410,51,82,137
+07X343,Academy of Applied Mathematics and Technology,JUNIOR HIGH-INTERMEDIATE-MIDDLE,4.3,2,2.3,2,2,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,Single Shepherd,na,na,301,71,151,134
+07X359,Concourse Village Elementary School,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,339,170,339,339
+07X369,Young Leaders Elementary School,ELEMENTARY,1.0,1,0,1,0,0,0,1,0,0,0,na,na,na,na,na,na,na,248,248,248,248
+07X379,Jill Chaifetz Transfer High School,HIGH SCHOOL,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,Single Shepherd,Learning to Work,na,209,105,209,209
+07X381,Bronx Haven High School,HIGH SCHOOL,2.0,2,0,2,0,0,0,0,0,0,0,na,na,na,na,Single Shepherd,Learning to Work,na,169,85,85,169
+07X427,Community School for Social Justice,HIGH SCHOOL,7.0,4,3,4,3,0,0,0,0,0,0,na,na,na,na,Single Shepherd,na,na,310,44,78,103
+07X473,Mott Haven Village Preparatory High School,HIGH SCHOOL,6.0,2,4,2,4,0,0,1,0,0,0,na,na,na,na,Single Shepherd,na,na,302,50,151,76
+07X495,University Heights Secondary School,HIGH SCHOOL,8.2,4.2,4,4,4,0.2,0,0,0,0,0,na,na,na,na,Single Shepherd,na,na,581,71,138,145
+07X500,Hostos-Lincoln Academy of Science,SECONDARY SCHOOL,7.3,5,2.3,5,2,0,0.3,1,0,0,0.3,na,na,na,School Response Clinicians,Single Shepherd,na,na,535,74,107,238
+07X522,Bronx Design and Construction Academy,HIGH SCHOOL,10.0,6,4,6,4,0,0,0,1,0,0,na,na,na,na,Single Shepherd,na,na,382,38,64,96
+07X527,Bronx Leadership Academy II High School,HIGH SCHOOL,7.0,2,5,2,5,0,0,1,0,0,0,na,na,na,na,Single Shepherd,na,na,496,71,248,99
+07X548,Careers in Sports High School,HIGH SCHOOL,8.0,5,3,5,3,0,0,0,0,0,0,na,na,na,na,Single Shepherd,na,"Wediko Children's Services, Inc.",499,62,100,166
+07X551,The Urban Assembly Bronx Academy of Letters,SECONDARY SCHOOL,9.3,5,4.3,5,4,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,Single Shepherd,na,na,586,63,117,138
+07X557,Mott Haven Community High School,HIGH SCHOOL,6.0,2,4,2,4,0,0,0,0,0,0,na,na,na,na,Single Shepherd,Learning to Work,na,244,41,122,61
+07X584,I.S. 584,JUNIOR HIGH-INTERMEDIATE-MIDDLE,4.3,3,1.3,3,1,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,Single Shepherd,na,na,247,57,82,185
+07X600,Alfred E. Smith Career and Technical Education Hig,HIGH SCHOOL,5.0,3,2,3,2,0,0,1,0,0,0,na,na,na,na,Single Shepherd,na,na,435,87,145,218
+07X625,Walkabout Bronx High School,HIGH SCHOOL,0.4,0.4,0,0,0,0.4,0,0,0,0,0,na,na,na,na,na,na,na,51,51,51,51
+07X670,Health Opportunities High School,HIGH SCHOOL,7.0,4,3,4,3,0,0,1,0,0,0,na,na,na,na,Single Shepherd,na,na,476,68,119,159
+08X014,P.S. X014 Senator John Calandra,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,563,563,563,563
+08X036,P.S. 036 Unionport,ELEMENTARY,1.2,1,0.2,1,0,0,0.2,1,0,0,0.2,na,na,na,na,na,na,na,749,624,749,749
+08X048,P.S. 048 Joseph R. Drake,ELEMENTARY,5.0,2,3,2,3,0,0,0,0,0,0,Bridging the Gap,na,na,na,na,na,na,639,128,320,213
+08X062,P.S. 062 Inocensio Casanova,ELEMENTARY,2.8,0,2.8,0,2,0,0.8,0,1,0,0.8,Bridging the Gap,na,na,na,na,na,na,619,221,619,221
+08X069,P.S. 069 Journey Prep School,ELEMENTARY,2.0,1,1,1,1,0,0,0,1,0,0,na,na,na,na,na,na,na,613,307,613,613
+08X071,P.S. 071 Rose E. Scala,K-8,8.0,4,4,4,4,0,0,0,0,0,0,na,na,na,na,na,na,na,1455,182,364,364
+08X072,P.S. 072 Dr. William Dorney,ELEMENTARY,3.0,2,1,2,1,0,0,0,0,0,0,na,na,na,na,na,na,na,732,244,366,732
+08X075,P.S. 75 School of Research and Discovery,ELEMENTARY,3.0,1,2,1,2,0,0,1,1,0,0,Bridging the Gap,na,na,na,na,na,na,602,201,602,301
+08X093,P.S. 093 Albert G. Oliver,ELEMENTARY,1.0,0,1,0,1,0,0,0,0,0,0,na,na,na,na,na,na,na,393,393,393,393
+08X100,P.S. 100 Isaac Clason,ELEMENTARY,2.0,2,0,2,0,0,0,0,0,0,0,na,na,na,na,na,na,na,542,271,271,542
+08X101,M.S. X101 Edward R. Byrne,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,545,545,545,545
+08X107,P.S. 107,ELEMENTARY,3.0,1,2,1,2,0,0,0,0,0,0,Bridging the Gap,na,na,na,na,na,na,578,193,578,289
+08X119,The Dr. Emmett W. Bassett School,ELEMENTARY,3.0,2,1,2,1,0,0,0,1,0,0,na,na,na,na,na,na,na,743,248,372,743
+08X123,J.H.S. 123 James M. Kieran,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.0,2,0,2,0,0,0,1,0,0,0,na,na,na,na,na,na,na,490,245,245,490
+08X130,P.S. 130 Abram Stevens Hewitt,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,High Needs SW,na,na,na,na,na,395,395,395,395
+08X131,J.H.S. 131 Albert Einstein,JUNIOR HIGH-INTERMEDIATE-MIDDLE,3.0,2,1,2,1,0,0,0,0,0,0,na,na,na,na,na,na,"REPLICATIONS, INC.",446,149,223,446
+08X138,P.S. 138 Samuel Randall,ELEMENTARY,3.0,1,2,1,2,0,0,0,0,0,0,Bridging the Gap,na,na,na,na,na,na,622,207,622,311
+08X140,P.S. X140 The Eagle School,ELEMENTARY,2.0,1,1,1,1,0,0,0,1,0,0,na,na,na,na,na,na,na,553,277,553,553
+08X146,P.S. 146 Edward Collins,ELEMENTARY,1.0,1,0,1,0,0,0,1,0,0,0,na,na,na,na,na,na,na,394,394,394,394
+08X152,P.S. 152 Evergreen,ELEMENTARY,5.0,3,2,3,2,0,0,2,0,0,0,Bridging the Gap,na,na,na,na,na,na,767,153,256,384
+08X182,P.S. 182,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,682,341,682,682
+08X269,Bronx Studio School for Writers and Artists,SECONDARY SCHOOL,6.0,3,3,3,3,0,0,0,0,0,0,na,na,na,na,na,na,na,611,102,204,204
+08X282,Women's Academy of Excellence,HIGH SCHOOL,1.3,1,0.3,1,0,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,230,184,230,230
+08X293,Renaissance High School for Musical Theater and th,HIGH SCHOOL,2.0,2,0,2,0,0,0,0,0,0,0,na,na,na,na,na,na,na,431,216,216,431
+08X301,M.S. 301 Paul L. Dunbar,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,"Global Kids, Inc.",199,100,199,199
+08X302,M.S. 302 Luisa Dessus Cruz,JUNIOR HIGH-INTERMEDIATE-MIDDLE,4.0,3,1,3,1,0,0,1,1,0,0,na,na,na,na,na,na,na,484,121,161,484
+08X304,P.S. 304 Early Childhood School,ELEMENTARY,2.0,0,2,0,2,0,0,0,0,0,0,na,na,na,na,na,na,na,519,260,519,260
+08X312,Millennium Art Academy,HIGH SCHOOL,3.0,1,2,1,2,0,0,0,0,0,0,na,na,na,na,na,na,na,406,135,406,203
+08X320,Pelham Lab High School,HIGH SCHOOL,4.0,4,0,4,0,0,0,0,0,0,0,na,na,na,na,na,na,na,450,113,113,450
+08X333,The Longwood Academy of Discovery,ELEMENTARY,4.0,2,2,2,2,0,0,0,0,0,0,Bridging the Gap,na,High Needs GC,na,na,na,na,582,146,291,291
+08X337,The School for Inquiry and Social Justice,JUNIOR HIGH-INTERMEDIATE-MIDDLE,3.0,2,1,2,1,0,0,0,0,0,0,na,High Needs SW,na,na,na,na,na,494,165,247,494
+08X348,Schuylerville Preparatory High School,HIGH SCHOOL,2.0,2,0,2,0,0,0,0,0,0,0,na,na,na,na,na,na,na,383,192,192,383
+08X349,Bronx River High School,HIGH SCHOOL,4.0,2,2,2,2,0,0,1,0,0,0,na,na,na,na,na,na,na,460,115,230,230
+08X367,"Archimedes Academy for Math, Science and Technolog",SECONDARY SCHOOL,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,593,297,593,593
+08X371,Urban Institute of Mathematics,JUNIOR HIGH-INTERMEDIATE-MIDDLE,3.0,2,1,2,1,0,0,0,0,0,0,na,na,na,na,na,na,na,363,121,182,363
+08X375,The Bronx Mathematics Preparatory School,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.0,1,1,1,1,0,0,0,0,0,0,na,na,High Needs GC,na,na,na,"ASPIRA of New York, Inc.",202,101,202,202
+08X376,Antonia Pantoja Preparatory Academy: A College Boa,SECONDARY SCHOOL,3.0,2,1,2,1,0,0,1,0,0,0,Bridging the Gap,na,na,na,na,na,na,396,132,198,396
+08X377,Bronx Community High School,HIGH SCHOOL,1.0,1,0,1,0,0,0,1,0,0,0,na,na,High Needs GC,na,na,Learning to Work,na,136,136,136,136
+08X392,Bronx Delta School,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,440,440,440,440
+08X405,Herbert H. Lehman High School,HIGH SCHOOL,8.0,6,2,6,2,0,0,0,1,0,0,na,na,na,na,na,na,"Counseling In Schools, Inc.",898,112,150,449
+08X424,The Hunts Point School,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.0,2,0,2,0,0,0,0,0,0,0,na,na,na,na,na,na,na,289,145,145,289
+08X432,Bronx Bridges High School,HIGH SCHOOL,5.0,3,2,3,2,0,0,0,2,0,0,na,na,na,na,na,na,na,341,68,114,171
+08X448,Soundview Academy for Culture and Scholarship,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.0,1,1,1,1,0,0,1,0,0,0,na,na,na,na,na,na,"REPLICATIONS, INC.",374,187,374,374
+08X452,Gotham Collaborative High School,HIGH SCHOOL,4.0,3,1,3,1,0,0,0,1,0,0,na,na,na,na,na,na,na,485,121,162,485
+08X467,Mott Hall Community School,JUNIOR HIGH-INTERMEDIATE-MIDDLE,3.0,2,1,2,1,0,0,0,0,0,0,na,na,na,na,na,na,na,342,114,171,342
+08X530,Longwood Preparatory Academy,HIGH SCHOOL,2.3,2,0.3,2,0,0,0.3,1,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,328,141,164,328
+08X537,Bronx Arena High School,HIGH SCHOOL,Has counseling service (outside provider),0,0,0,0,0,0,0,0,0,0,na,na,na,na,na,Learning to Work,SCO of Family Services,195,see note in column D,see note in column D,see note in column D
+08X558,Westchester Square Academy,HIGH SCHOOL,6.0,3,3,3,3,0,0,0,0,0,0,Bridging the Gap,na,na,na,na,na,na,508,85,169,169
+08X559,School for Tourism and Hospitality,HIGH SCHOOL,2.3,2,0.3,2,0,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,249,111,125,249
+08X561,Bronx Compass High School,HIGH SCHOOL,3.0,2,1,2,1,0,0,0,0,0,0,na,na,na,na,na,na,na,374,125,187,374
+08X562,Blueprint Middle School,JUNIOR HIGH-INTERMEDIATE-MIDDLE,3.0,2,1,2,1,0,0,0,0,0,0,na,High Needs SW,na,na,na,na,na,636,212,318,636
+08X583,P.S. 583,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,High Needs GC,na,na,na,na,265,265,265,265
+09X004,P.S./M.S. 004 Crotona Park West,K-8,4.6,0,4.6,0,4,0,0.6,0,0,0,0,Bridging the Gap,na,na,na,na,na,na,468,102,468,102
+09X011,P.S. 011 Highbridge,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,558,558,558,558
+09X022,J.H.S. 022 Jordan L. Mott,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.0,2,0,2,0,0,0,0,0,0,0,na,na,na,na,na,na,University Settlement Society of New York,389,195,195,389
+09X028,P.S. 028 Mount Hope,ELEMENTARY,4.0,2,2,2,2,0,0,0,1,0,0,Bridging the Gap,na,na,na,na,na,na,700,175,350,350
+09X035,P.S. 035 Franz Siegel,ELEMENTARY,1.8,0.8,1,0,1,0.8,0,0,0,0.8,0,Bridging the Gap,na,na,na,na,na,na,531,295,531,531
+09X042,P.S. 042 Claremont,ELEMENTARY,2.6,1.6,1,1,1,0.6,0,0,0,0,0,na,na,na,na,na,na,na,371,143,232,371
+09X053,P.S. 053 Basheer Quisim,ELEMENTARY,3.0,1,2,1,2,0,0,0,0,0,0,Bridging the Gap,na,na,na,na,na,na,899,300,899,450
+09X055,P.S. 055 Benjamin Franklin,ELEMENTARY,2.0,1,1,1,1,0,0,0,1,0,0,na,na,na,na,na,na,na,611,306,611,611
+09X058,P.S. 058,ELEMENTARY,2.0,2,0,2,0,0,0,1,0,0,0,na,na,na,na,na,na,na,394,197,197,394
+09X063,P.S. 063 Author's Academy,ELEMENTARY,3.0,1,2,1,2,0,0,1,0,0,0,Bridging the Gap,na,na,na,na,na,na,532,177,532,266
+09X070,P.S. 070 Max Schoenfeld,ELEMENTARY,6.0,3,3,3,3,0,0,0,1,0,0,Bridging the Gap,na,na,na,na,na,na,1031,172,344,344
+09X073,P.S. 073 Bronx,ELEMENTARY,4.0,2,2,2,2,0,0,1,1,0,0,Bridging the Gap,na,na,na,na,na,na,567,142,284,284
+09X088,P.S. X088 - S. Silverstein Little Sparrow School,EARLY CHILDHOOD,0.2,0.2,0,0,0,0.2,0,0,0,0.2,0,na,na,na,na,na,na,na,123,123,123,123
+09X109,P.S. 109 Sedgwick,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,572,286,572,572
+09X110,P.S. 110 Theodore Schoenfeld,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,400,200,400,400
+09X114,P.S. X114 - Luis Llorens Torres Schools,ELEMENTARY,3.0,2,1,2,1,0,0,0,0,0,0,Bridging the Gap,na,na,na,na,na,na,671,224,336,671
+09X117,I.S. 117 Joseph H. Wade,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.4,1,1.4,1,1,0,0.4,0,0,0,0,na,na,na,na,na,na,"ASPIRA of New York, Inc.",443,185,443,316
+09X126,P.S. 126 Dr Marjorie H Dunbar,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,577,289,577,577
+09X128,Mott Hall III,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.0,1,1,1,1,0,0,0,0,0,0,na,High Needs SW,na,na,na,na,na,340,170,340,340
+09X132,P.S. 132 Garret A. Morgan,ELEMENTARY,2.0,1,1,1,1,0,0,0,1,0,0,na,na,na,na,na,na,na,379,190,379,379
+09X163,P.S. 163 Arthur A. Schomburg,ELEMENTARY,2.0,1,1,1,1,0,0,1,0,0,0,na,High Needs SW,na,na,na,na,na,428,214,428,428
+09X170,P.S. 170,EARLY CHILDHOOD,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,218,218,218,218
+09X199,P.S. 199X - The Shakespeare School,ELEMENTARY,3.0,2,1,2,1,0,0,0,0,0,0,Bridging the Gap,na,na,na,na,na,na,663,221,332,663
+09X204,P.S. 204 Morris Heights,ELEMENTARY,1.0,0,1,0,1,0,0,0,0,0,0,Bridging the Gap,na,na,na,na,na,na,621,621,621,621
+09X215,Kappa,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,337,337,337,337
+09X218,P.S./I.S. 218 Rafael Hernandez Dual Language Magne,K-8,3.0,2,1,2,1,0,0,1,0,0,0,Bridging the Gap,na,na,na,na,na,na,1043,348,522,1043
+09X219,I.S. 219 New Venture School,JUNIOR HIGH-INTERMEDIATE-MIDDLE,3.0,2,1,2,1,0,0,0,1,0,0,na,na,na,na,na,na,na,330,110,165,330
+09X227,Bronx Collegiate Academy,HIGH SCHOOL,3.0,3,0,3,0,0,0,1,0,0,0,na,na,na,na,na,na,The Children's Aid Society,350,117,117,350
+09X229,I.S. 229 Roland Patterson,JUNIOR HIGH-INTERMEDIATE-MIDDLE,3.0,1,2,1,2,0,0,0,0,0,0,na,na,na,na,na,na,na,241,80,241,121
+09X231,Eagle Academy for Young Men,SECONDARY SCHOOL,3.0,3,0,3,0,0,0,1,0,0,0,na,na,na,na,na,na,na,494,165,165,494
+09X232,I.S. 232,JUNIOR HIGH-INTERMEDIATE-MIDDLE,4.0,3,1,3,1,0,0,0,0,0,0,na,na,na,na,na,na,na,457,114,152,457
+09X236,P.S. 236 Langston Hughes,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,317,159,317,317
+09X241,Urban Assembly School for Applied Math and Science,SECONDARY SCHOOL,2.3,2,0.3,2,0,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,599,266,300,599
+09X250,Eximius College Preparatory Academy: A College Boa,HIGH SCHOOL,3.0,3,0,3,0,0,0,1,0,0,0,na,na,na,na,na,na,na,393,131,131,393
+09X252,Mott Hall Bronx High School,HIGH SCHOOL,3.3,1,2.3,1,2,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,356,110,356,158
+09X260,Bronx Center for Science and Mathematics,HIGH SCHOOL,3.0,3,0,3,0,0,0,1,0,0,0,na,na,na,na,na,na,na,441,147,147,441
+09X263,Validus Preparatory Academy,HIGH SCHOOL,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,359,180,359,359
+09X274,The New American Academy at Roberto Clemente State,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,Bridging the Gap,na,na,na,na,na,na,624,312,624,624
+09X294,The Walton Avenue School,ELEMENTARY,4.0,1,3,1,3,0,0,0,0,0,0,Bridging the Gap,na,na,na,na,na,na,476,119,476,159
+09X297,Morris Academy for Collaborative Studies,HIGH SCHOOL,3.0,2,1,2,1,0,0,0,0,0,0,na,na,na,na,na,na,na,432,144,216,432
+09X303,I.S. X303 Leadership & Community Service,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.0,1,0,1,0,0,0,0,0,0,0,na,na,High Needs GC,na,na,na,na,315,315,315,315
+09X311,Lucero Elementary School,ELEMENTARY,0.7,0.7,0,0,0,0.7,0,0.2,0,0,0,na,na,na,na,na,na,na,359,359,359,359
+09X313,I.S. 313 School of Leadership Development,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.0,1,1,1,1,0,0,1,1,0,0,na,na,na,na,na,na,"Counseling In Schools, Inc.",268,134,268,268
+09X323,Bronx Writing Academy,JUNIOR HIGH-INTERMEDIATE-MIDDLE,4.0,1,3,1,3,0,0,0,1,0,0,Bridging the Gap,na,na,na,na,na,na,383,96,383,128
+09X324,Bronx Early College Academy for Teaching & Learnin,SECONDARY SCHOOL,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,466,233,466,466
+09X327,Comprehensive Model School Project M.S. 327,SECONDARY SCHOOL,4.0,3,1,3,1,0,0,0,0,0,0,na,na,na,na,na,na,na,708,177,236,708
+09X328,New Millennium Bronx Academy of the Arts,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,320,160,320,320
+09X329,DreamYard Preparatory School,HIGH SCHOOL,3.0,2,1,2,1,0,0,0,0,0,0,na,na,na,na,na,na,na,271,90,136,271
+09X339,I.S. 339,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,422,422,422,422
+09X350,New Directions Secondary School,SECONDARY SCHOOL,3.0,1,2,1,2,0,0,0,0,0,0,Bridging the Gap,na,na,na,na,Learning to Work,na,197,66,197,99
+09X361,The Highbridge Green School,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,380,380,380,380
+09X365,Academy for Language and Technology,HIGH SCHOOL,2.0,2,0,2,0,0,0,1,0,0,0,na,na,na,na,na,na,na,331,166,166,331
+09X403,Bronx International High School,HIGH SCHOOL,2.3,0,2.3,0,2,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,375,161,375,161
+09X404,School for Excellence,HIGH SCHOOL,5.0,2,3,2,3,0,0,1,0,0,0,Bridging the Gap,na,na,na,na,na,na,249,50,125,83
+09X412,Bronx High School of Business,HIGH SCHOOL,5.0,2,3,2,3,0,0,1,0,0,0,na,na,na,na,na,na,na,303,61,152,101
+09X413,Bronx High School for Medical Science,SECONDARY SCHOOL,3.0,2,1,2,1,0,0,0,1,0,0,na,na,na,na,na,na,na,427,142,214,427
+09X443,The Family School,ELEMENTARY,2.0,2,0,2,0,0,0,0,0,0,0,na,na,na,na,na,na,na,537,269,269,537
+09X449,Grant Avenue Elementary School,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,427,427,427,427
+09X454,Science and Technology Academy: A Mott Hall School,JUNIOR HIGH-INTERMEDIATE-MIDDLE,3.0,1,2,1,2,0,0,0,1,0,0,na,na,na,na,na,na,na,426,142,426,213
+09X457,Sheridan Academy for Young Leaders,ELEMENTARY,3.0,1,2,1,2,0,0,0,0,0,0,na,na,High Needs GC,na,na,na,na,521,174,521,261
+09X505,"Bronx School for Law, Government and Justice",SECONDARY SCHOOL,4.3,3,1.3,3,1,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,740,174,247,592
+09X517,Frederick Douglass Academy III Secondary School,HIGH SCHOOL,3.0,2,1,2,1,0,0,0,0,0,0,na,na,na,na,na,na,na,333,111,167,333
+09X525,Bronx Leadership Academy High School,HIGH SCHOOL,5.0,4,1,4,1,0,0,0,0,0,0,na,na,na,na,na,na,na,466,93,117,466
+09X543,High School for Violin and Dance,HIGH SCHOOL,3.0,3,0,3,0,0,0,1,0,0,0,na,na,na,na,na,na,na,225,75,75,225
+09X555,Mount Eden Children's Academy,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,429,429,429,429
+09X564,Claremont International HS,HIGH SCHOOL,3.3,2,1.3,2,1,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,363,109,182,272
+09X568,Young Women's Leadership School of the Bronx,SECONDARY SCHOOL,2.0,2,0,2,0,0,0,0,0,0,0,na,na,na,na,na,na,na,537,269,269,537
+09X593,South Bronx International Middle School,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.0,0,1,0,1,0,0,0,1,0,0,na,na,na,na,na,na,na,96,96,96,96
+09X594,M.S. 594,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.0,1,0,1,0,0,0,1,0,0,0,na,na,na,na,na,na,na,252,252,252,252
+10X003,P.S. 3 Raul Julia Micro Society,K-8,1.0,0,1,0,1,0,0,0,0,0,0,na,High Needs SW,na,na,na,na,na,329,329,329,329
+10X007,Milton Fein School,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,604,604,604,604
+10X008,P.S. 008 Isaac Varian,ELEMENTARY,4.0,3,1,3,1,0,0,1,0,0,0,na,na,na,na,na,na,na,897,224,299,897
+10X009,P.S. 9 Ryer Avenue Elementary School,ELEMENTARY,2.0,0,2,0,2,0,0,0,0,0,0,na,na,na,na,na,na,na,815,408,815,408
+10X015,P.S. X015 Institute for Environmental Learning,K-8,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,485,243,485,485
+10X020,"PS/MS 20 P.O.George J. Werdann, III",K-8,4.0,1,3,1,3,0,0,0,1,0,0,na,na,na,na,na,na,na,907,227,907,302
+10X023,P.S. 023 The New Children's School,ELEMENTARY,3.0,1,2,1,2,0,0,0,1,0,0,Bridging the Gap,na,na,na,na,na,na,441,147,441,221
+10X024,P.S. 024 Spuyten Duyvil,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,844,422,844,844
+10X032,P.S. 032 Belmont,ELEMENTARY,4.0,2,2,2,2,0,0,0,0,0,0,na,na,na,na,na,na,na,728,182,364,364
+10X033,P.S. 033 Timothy Dwight,ELEMENTARY,3.0,1,2,1,2,0,0,0,1,0,0,na,na,na,na,na,na,na,848,283,848,424
+10X037,P.S. X037 - Multiple Intelligence School,K-8,3.0,2,1,2,1,0,0,0,1,0,0,na,na,na,na,na,na,na,626,209,313,626
+10X045,Thomas C. Giordano Middle School 45,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.3,1,1.3,1,1,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,708,315,708,566
+10X046,P.S. 046 Edgar Allan Poe,ELEMENTARY,5.0,3,2,3,2,0,0,0,0,0,0,na,na,na,na,na,na,na,823,165,274,412
+10X051,The Bronx STEM and Arts Academy,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,206,206,206,206
+10X054,P.S./I.S. 54,ELEMENTARY,3.0,0,3,0,3,0,0,0,1,0,0,na,na,na,na,na,na,na,454,151,454,151
+10X056,P.S. 056 Norwood Heights,ELEMENTARY,3.0,2,1,2,1,0,0,0,1,0,0,na,na,na,na,na,na,na,682,227,341,682
+10X059,P.S. 059 The Community School of Technology,ELEMENTARY,3.0,1,2,1,2,0,0,0,0,0,0,Bridging the Gap,na,na,na,na,na,na,524,175,524,262
+10X077,Bedford Park Elementary School,ELEMENTARY,2.0,1,1,1,1,0,0,1,0,0,0,na,High Needs SW,na,na,na,na,na,507,254,507,507
+10X080,J.H.S. 080 The Mosholu Parkway,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.3,2,0.3,2,0,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,641,285,321,641
+10X081,P.S. 081 Robert J. Christen,ELEMENTARY,1.4,1,0.4,1,0,0,0.4,0,0,0,0,na,na,na,na,na,na,na,765,546,765,765
+10X085,P.S. 085 Great Expectations,ELEMENTARY,6.0,1,5,1,5,0,0,0,2,0,0,Bridging the Gap,na,na,na,na,na,"Counseling In Schools, Inc.",842,140,842,168
+10X086,P.S. 086 Kingsbridge Heights,ELEMENTARY,6.0,3,3,3,3,0,0,1,1,0,0,na,na,na,na,na,na,na,1641,274,547,547
+10X091,P.S. 091 Bronx,ELEMENTARY,3.0,1,2,1,2,0,0,0,1,0,0,Bridging the Gap,na,na,na,na,na,na,598,199,598,299
+10X094,P.S. 094 Kings College School,ELEMENTARY,4.0,3,1,3,1,0,0,1,0,0,0,na,na,na,na,na,na,na,1160,290,387,1160
+10X095,P.S. 095 Sheila Mencher,K-8,4.0,2,2,2,2,0,0,0,0,0,0,na,na,na,na,na,na,na,1143,286,572,572
+75Q009,P.S. 009,K-8,7.0,5,2,5,2,0,0,0,1,0,0,na,na,na,na,na,na,na,630,90,126,315
+10X118,J.H.S. 118 William W. Niles,JUNIOR HIGH-INTERMEDIATE-MIDDLE,6.7,3,3.7,3,3,0,0.7,0,1,0,0.7,Bridging the Gap,na,na,School Response Clinicians,na,na,na,1047,157,349,287
+10X141,Riverdale / Kingsbridge Academy (Middle School / H,SECONDARY SCHOOL,6.0,4,2,4,2,0,0,2,0,0,0,na,na,na,na,na,na,na,1540,257,385,770
+10X159,P.S. 159 Luis Munoz Marin Biling,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,High Needs GC,na,na,na,na,194,194,194,194
+10X205,P.S. 205 Fiorello LaGuardia,ELEMENTARY,4.0,2,2,2,2,0,0,0,1,0,0,Bridging the Gap,na,na,na,na,na,na,904,226,452,452
+10X206,I.S. 206 Ann Mersereau,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.3,1,0.3,1,0,0,0.3,1,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,270,216,270,270
+10X207,P.S. 207,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,371,186,371,371
+10X209,P.S. 209,EARLY CHILDHOOD,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,274,274,274,274
+10X213,Bronx Engineering and Technology Academy,HIGH SCHOOL,3.0,3,0,3,0,0,0,0,0,0,0,na,na,na,na,na,na,na,395,132,132,395
+10X225,Theatre Arts Production Company School,SECONDARY SCHOOL,3.3,2,1.3,2,1,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,523,161,262,418
+10X226,P.S. 226,ELEMENTARY,2.0,2,0,2,0,0,0,0,0,0,0,na,na,na,na,na,na,na,412,206,206,412
+10X228,Jonas Bronck Academy,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.3,1,1.3,1,1,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,267,119,267,214
+10X237,"The Marie Curie School for Medicine, Nursing, and",HIGH SCHOOL,3.2,1,2.2,1,2,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,383,120,383,174
+10X243,West Bronx Academy for the Future,SECONDARY SCHOOL,3.3,3,0.3,3,0,0,0.3,1,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,614,189,205,614
+10X244,The New School for Leadership and Journalism,JUNIOR HIGH-INTERMEDIATE-MIDDLE,4.2,4,0.2,4,0,0,0.2,1,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,718,171,180,718
+10X246,P.S. 246 Poe Center,ELEMENTARY,3.0,2,1,2,1,0,0,0,0,0,0,na,na,na,na,na,na,na,630,210,315,630
+10X254,I.S. 254,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.3,2,0.3,2,0,0,0.3,1,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,468,208,234,468
+10X264,Bronx Academy for Software Engineering (BASE),HIGH SCHOOL,5.3,2,3.3,2,3,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,396,75,198,122
+10X268,Kingsbridge International High School,HIGH SCHOOL,4.0,3,1,3,1,0,0,0,0,0,0,na,na,na,na,na,na,na,434,109,145,434
+10X279,"P.S. 279 Captain Manuel Rivera, Jr.",K-8,6.0,4,2,4,2,0,0,0,0,0,0,Bridging the Gap,na,na,na,na,na,na,952,159,238,476
+10X280,P.S./M.S. 280 Mosholu Parkway,K-8,4.0,2,2,2,2,0,0,0,0,0,0,na,na,na,na,na,na,na,802,201,401,401
+10X284,Bronx School of Law and Finance,HIGH SCHOOL,6.0,5,1,5,1,0,0,1,0,0,0,na,na,na,na,na,na,na,392,65,78,392
+10X291,P.S. 291,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,Bridging the Gap,na,na,na,na,na,na,576,288,576,576
+10X306,P.S. 306,ELEMENTARY,3.0,1,2,1,2,0,0,1,1,0,0,na,na,na,na,na,na,na,605,202,605,303
+10X307,Luisa Pineiro Fuentes School of Science and Discov,ELEMENTARY,2.0,1,1,1,1,0,0,1,0,0,0,na,na,na,na,na,na,na,301,151,301,301
+10X308,Bronx Dance Academy School,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.3,1,0.3,1,0,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,261,209,261,261
+10X310,P.S. 310 Marble Hill,ELEMENTARY,4.0,2,2,2,2,0,0,0,1,0,0,na,na,na,na,na,na,na,655,164,328,328
+10X315,P.S. 315 Lab School,K-8,3.0,3,0,3,0,0,0,0,0,0,0,na,na,High Needs GC,na,na,na,na,228,76,76,228
+10X319,Providing Urban Learners Success In Education High,HIGH SCHOOL,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,Learning to Work,na,237,237,237,237
+10X331,The Bronx School of Young Leaders,JUNIOR HIGH-INTERMEDIATE-MIDDLE,3.3,3,0.3,3,0,0,0.3,1,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,441,136,147,441
+10X340,P.S. 340,ELEMENTARY,2.0,0,2,0,2,0,0,0,1,0,0,Bridging the Gap,na,na,na,na,na,na,574,287,574,287
+10X342,International School for Liberal Arts,SECONDARY SCHOOL,3.0,3,0,3,0,0,0,1,0,0,0,na,na,na,na,na,na,na,508,169,169,508
+10X344,Ampark Neighborhood,ELEMENTARY,1.4,1,0.4,1,0,0,0.4,0,0,0,0,na,na,High Needs GC,na,na,na,na,388,277,388,388
+10X351,Bronx Collaborative High School,HIGH SCHOOL,5.0,1,4,1,4,0,0,0,0,0,0,na,na,na,na,na,na,na,561,112,561,140
+10X353,World View High School,HIGH SCHOOL,4.2,3,1.2,3,1,0,0.2,2,0,0,0.2,na,na,High Needs GC,School Response Clinicians,na,na,na,583,139,194,486
+10X360,P.S. 360,ELEMENTARY,2.0,2,0,2,0,0,0,0,0,0,0,na,na,High Needs GC,na,na,na,na,389,195,195,389
+10X363,Academy For Personal Leadership And Excellence,JUNIOR HIGH-INTERMEDIATE-MIDDLE,7.3,4,3.3,4,3,0,0.3,0,1,0,0.3,na,na,High Needs GC,School Response Clinicians,na,na,"Partnership with Children, Inc.",889,123,222,274
+10X368,In-Tech Academy (M.S. / High School 368),SECONDARY SCHOOL,4.0,4,0,4,0,0,0,0,0,0,0,na,na,na,na,na,na,na,1000,250,250,1000
+10X374,Knowledge and Power Preparatory Academy Internatio,HIGH SCHOOL,3.2,3,0.2,3,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,421,132,140,421
+10X382,"Elementary School for Math, Science, and Technolog",ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,278,278,278,278
+10X386,School for Environmental Citizenship,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,578,578,578,578
+10X390,M.S. 390,JUNIOR HIGH-INTERMEDIATE-MIDDLE,5.3,2,3.3,2,3,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,550,105,275,169
+10X391,The Angelo Patri Middle School,JUNIOR HIGH-INTERMEDIATE-MIDDLE,3.3,2,1.3,2,1,0,0.3,1,0,0,0.3,na,na,na,School Response Clinicians,na,na,"Wediko Children's Services, Inc.",467,144,234,374
+10X396,P.S. 396,ELEMENTARY,3.0,3,0,3,0,0,0,1,0,0,0,na,na,na,na,na,na,na,294,98,98,294
+10X397,English Language Learners and International Suppor,HIGH SCHOOL,5.0,2,3,2,3,0,0,0,1,0,0,na,na,na,na,na,Learning to Work,na,316,63,158,105
+10X433,High School for Teaching and the Professions,HIGH SCHOOL,4.0,3,1,3,1,0,0,1,1,0,0,na,na,na,na,na,na,na,414,104,138,414
+10X434,Belmont Preparatory High School,HIGH SCHOOL,3.3,3,0.3,3,0,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,389,120,130,389
+10X437,Fordham High School for the Arts,HIGH SCHOOL,3.2,1,2.2,1,2,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,369,115,369,168
+10X438,Fordham Leadership Academy,HIGH SCHOOL,2.2,2,0.2,2,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,373,170,187,373
+10X439,Bronx High School for Law and Community Service,HIGH SCHOOL,4.2,4,0.2,4,0,0,0.2,1,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,406,97,102,406
+10X440,DeWitt Clinton High School,HIGH SCHOOL,7.3,4,3.3,4,3,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,975,134,244,300
+10X442,"Celia Cruz Bronx High School of Music, The",HIGH SCHOOL,2.0,2,0,2,0,0,0,0,0,0,0,na,na,na,na,na,na,na,441,221,221,441
+10X445,The Bronx High School of Science,HIGH SCHOOL,14.2,13,1.2,13,1,0,0.2,2,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,2981,210,229,2484
+10X447,Creston Academy,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.3,2,0.3,2,0,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,455,202,228,455
+10X477,Marble Hill High School for International Studies,HIGH SCHOOL,1.0,1,0,1,0,0,0,1,0,0,0,na,na,na,na,na,na,na,442,442,442,442
+10X524,Crotona International High School,HIGH SCHOOL,3.3,2,1.3,2,1,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,338,104,169,270
+10X546,Bronx Theatre High School,HIGH SCHOOL,2.0,2,0,2,0,0,0,0,0,0,0,na,na,na,na,na,na,na,328,164,164,328
+10X549,Discovery High School,HIGH SCHOOL,2.0,2,0,2,0,0,0,0,0,0,0,na,na,na,na,na,na,na,449,225,225,449
+10X565,High School for Energy and Technology,HIGH SCHOOL,3.3,2,1.3,2,1,0,0.3,1,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,382,118,191,306
+10X696,High School of American Studies at Lehman College,HIGH SCHOOL,2.3,2,0.3,2,0,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,382,170,191,382
+11X016,P.S. 016 Wakefield,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,322,161,322,322
+11X019,P.S. 019 Judith K. Weiss,K-8,2.0,1,1,1,1,0,0,0,0,0,0,na,High Needs SW,na,na,na,na,na,525,263,525,525
+11X021,P.S. 021 Philip H. Sheridan,ELEMENTARY,3.0,1,2,1,2,0,0,0,0,0,0,Bridging the Gap,na,na,na,na,na,na,600,200,600,300
+11X041,P.S. 041 Gun Hill Road,ELEMENTARY,3.0,2,1,2,1,0,0,0,0,0,0,Bridging the Gap,na,na,na,na,na,na,816,272,408,816
+11X068,P.S. 068 Bronx,ELEMENTARY,3.0,2,1,2,1,0,0,0,0,0,0,na,na,na,na,na,na,na,576,192,288,576
+11X076,P.S. 076 The Bennington School,ELEMENTARY,3.0,2,1,2,1,0,0,0,0,0,0,Bridging the Gap,na,na,na,na,na,na,839,280,420,839
+11X078,P.S. 078 Anne Hutchinson,ELEMENTARY,4.0,2,2,2,2,0,0,0,0,0,0,Bridging the Gap,na,na,na,na,na,na,756,189,378,378
+11X083,P.S. 083 Donald Hertz,K-8,6.0,4,2,4,2,0,0,0,1,0,0,na,na,na,na,na,na,na,1623,271,406,812
+11X087,P.S. 087 Bronx,ELEMENTARY,3.0,2,1,2,1,0,0,0,0,0,0,na,na,High Needs GC,na,na,na,na,513,171,257,513
+11X089,P.S. 089 Bronx,K-8,5.0,3,2,3,2,0,0,0,0,0,0,Bridging the Gap,na,na,na,na,na,na,1505,301,502,753
+11X096,P.S. 096 Richard Rodgers,ELEMENTARY,3.0,2,1,2,1,0,0,0,0,0,0,na,na,na,na,na,na,na,848,283,424,848
+11X097,P.S. 097 Bronx,ELEMENTARY,2.0,1,1,1,1,0,0,1,0,0,0,na,na,na,na,na,na,na,596,298,596,596
+11X103,P.S. 103 Hector Fontanez,ELEMENTARY,3.0,1,2,1,2,0,0,0,0,0,0,Bridging the Gap,na,na,na,na,na,na,948,316,948,474
+11X105,P.S. 105 Sen Abraham Bernstein,ELEMENTARY,2.0,1,1,1,1,0,0,0,1,0,0,na,na,na,na,na,na,na,972,486,972,972
+11X106,P.S. 106 Parkchester,ELEMENTARY,3.0,2,1,2,1,0,0,0,0,0,0,na,na,na,na,na,na,na,1067,356,534,1067
+11X108,P.S. 108 Philip J. Abinanti,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,570,570,570,570
+11X111,P.S. 111 Seton Falls,ELEMENTARY,1.0,0,1,0,1,0,0,0,0,0,0,na,na,na,na,na,na,na,603,603,603,603
+11X112,P.S. 112 Bronxwood,ELEMENTARY,2.0,2,0,2,0,0,0,0,0,0,0,na,na,High Needs GC,na,na,na,na,399,200,200,399
+11X121,P.S. 121 Throop,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,782,391,782,782
+11X127,J.H.S. 127 The Castle Hill,JUNIOR HIGH-INTERMEDIATE-MIDDLE,4.0,3,1,3,1,0,0,0,1,0,0,na,na,na,na,na,na,na,814,204,271,814
+11X144,J.H.S. 144 Michelangelo,JUNIOR HIGH-INTERMEDIATE-MIDDLE,4.0,3,1,3,1,0,0,0,0,0,0,na,na,na,na,na,na,na,447,112,149,447
+11X153,P.S. 153 Helen Keller,ELEMENTARY,2.0,1,1,1,1,0,0,0,1,0,0,na,na,na,na,na,na,na,610,305,610,610
+11X160,P.S. 160 Walt Disney,ELEMENTARY,4.0,3,1,3,1,0,0,0,0,0,0,na,na,na,na,na,na,na,389,97,130,389
+11X169,Baychester Academy,ELEMENTARY,2.0,0,2,0,2,0,0,0,0,0,0,na,na,na,na,na,na,na,416,208,416,208
+11X175,P.S. 175 City Island,K-8,1.4,1.4,0,1,0,0.4,0,0,0,0.4,0,na,na,High Needs GC,na,na,na,na,300,214,214,300
+11X178,P.S. 178 - Dr. Selman Waksman,ELEMENTARY,2.0,1,1,1,1,0,0,0,1,0,0,na,na,na,na,na,na,na,358,179,358,358
+11X180,M.S. 180 Dr. Daniel Hale Williams,JUNIOR HIGH-INTERMEDIATE-MIDDLE,3.0,3,0,3,0,0,0,0,0,0,0,na,na,na,na,na,na,na,1045,348,348,1045
+11X181,I.S. 181 Pablo Casals,JUNIOR HIGH-INTERMEDIATE-MIDDLE,4.0,3,1,3,1,0,0,0,0,0,0,na,High Needs SW,na,na,na,na,na,881,220,294,881
+11X189,Cornerstone Academy for Social Action,ELEMENTARY,3.0,2,1,2,1,0,0,0,0,0,0,na,na,High Needs GC,na,na,na,na,368,123,184,368
+11X194,P.S./M.S. 194,K-8,3.0,2,1,2,1,0,0,0,0,0,0,na,na,na,na,na,na,na,1269,423,635,1269
+11X249,Bronx Health Sciences High School,HIGH SCHOOL,3.3,3,0.3,3,0,0,0.3,1,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,287,88,96,287
+11X253,Bronx High School for Writing and Communication Ar,HIGH SCHOOL,3.0,3,0,3,0,0,0,0,0,0,0,na,na,na,na,na,na,na,301,100,100,301
+11X265,Bronx Lab School,HIGH SCHOOL,4.0,2,2,2,2,0,0,0,0,0,0,na,na,na,na,na,na,na,343,86,172,172
+11X270,Academy for Scholarship and Entrepreneurship: A Co,HIGH SCHOOL,4.0,3,1,3,1,0,0,0,0,0,0,na,na,na,na,na,na,na,363,91,121,363
+11X275,High School of Computers and Technology,HIGH SCHOOL,4.0,3,1,3,1,0,0,1,0,0,0,na,na,na,na,na,na,na,543,136,181,543
+11X287,North Bronx School of Empowerment,JUNIOR HIGH-INTERMEDIATE-MIDDLE,5.0,2,3,2,3,0,0,0,0,0,0,na,na,High Needs GC,na,na,na,na,513,103,257,171
+11X288,Collegiate Institute for Math and Science,HIGH SCHOOL,3.3,3,0.3,3,0,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,569,175,190,569
+11X290,Bronx Academy of Health Careers,HIGH SCHOOL,2.0,2,0,2,0,0,0,0,0,0,0,na,na,na,na,na,na,na,359,180,180,359
+11X299,Astor Collegiate Academy,HIGH SCHOOL,2.3,2,0.3,2,0,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,483,215,242,483
+11X326,Bronx Green Middle School,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,415,415,415,415
+11X355,Bronx Alliance Middle School,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,313,157,313,313
+11X357,Young Voices Academy of the Bronx,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,430,430,430,430
+11X370,Leaders of Tomorrow,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.0,2,0,2,0,0,0,0,0,0,0,na,na,na,na,na,na,na,463,232,232,463
+11X418,Bronx High School for the Visual Arts,HIGH SCHOOL,3.3,2,1.3,2,1,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,440,135,220,352
+11X455,Harry S Truman High School,HIGH SCHOOL,12.3,10,2.3,10,2,0,0.3,1,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,2172,177,217,965
+11X462,Cornerstone Academy for Social Action Middle Schoo,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,252,126,252,252
+11X468,Pelham Academy of Academics and Community Engageme,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.0,2,0,2,0,0,0,1,0,0,0,na,na,na,na,na,na,na,351,176,176,351
+11X481,The STEAM Bridge School,ELEMENTARY,0.6,0.6,0,0,0,0.6,0,0,0,0.6,0,na,na,na,na,na,na,na,267,267,267,267
+11X483,The Matilda Avenue School,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,213,107,213,213
+11X498,P.S./M.S. 11X498 - Van Nest Academy,K-8,2.0,2,0,2,0,0,0,0,0,0,0,na,na,na,na,na,na,na,656,328,328,656
+11X508,Bronxdale High School,HIGH SCHOOL,3.0,2,1,2,1,0,0,0,1,0,0,na,na,na,na,na,na,"Global Kids, Inc.",448,149,224,448
+11X509,High School of Language and Innovation,HIGH SCHOOL,3.3,2,1.3,2,1,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,366,113,183,293
+11X513,New World High School,HIGH SCHOOL,2.3,2,0.3,2,0,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,365,162,183,365
+11X514,The Bronxwood Preparatory Academy,HIGH SCHOOL,2.3,2,0.3,2,0,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,354,157,177,354
+11X529,One World Middle School at Edenwald,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,329,165,329,329
+11X532,Baychester Middle School,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.0,2,0,2,0,0,0,0,0,0,0,na,na,na,na,na,na,na,288,144,144,288
+11X542,Pelham Preparatory Academy,HIGH SCHOOL,3.3,2,1.3,2,1,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,495,152,248,396
+11X544,High School for Contemporary Arts,HIGH SCHOOL,4.0,3,1,3,1,0,0,0,0,0,0,Bridging the Gap,na,na,na,na,na,na,362,91,121,362
+11X545,Bronx Aerospace High School,HIGH SCHOOL,2.0,1,1,1,1,0,0,1,0,0,0,na,na,na,na,na,na,na,263,132,263,263
+11X556,Bronx Park Middle School,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,408,204,408,408
+11X566,Pelham Gardens Middle School,JUNIOR HIGH-INTERMEDIATE-MIDDLE,3.0,2,1,2,1,0,0,0,0,0,0,na,High Needs SW,na,na,na,na,na,435,145,218,435
+11X567,Linden Tree Elementary School,ELEMENTARY,3.0,2,1,2,1,0,0,0,0,0,0,na,High Needs SW,na,na,na,na,na,388,129,194,388
+12X006,P.S. 006 West Farms,ELEMENTARY,3.0,1,2,1,2,0,0,0,1,0,0,Bridging the Gap,na,na,na,na,na,na,525,175,525,263
+12X044,P.S. 044 David C. Farragut,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,Bridging the Gap,na,na,na,na,na,na,264,132,264,264
+12X047,P.S. 047 John Randolph,ELEMENTARY,3.0,1,2,1,2,0,0,0,0,0,0,na,na,na,na,na,na,na,1019,340,1019,510
+12X057,P.S. 057 Crescent,ELEMENTARY,3.0,1,2,1,2,0,0,0,1,0,0,Bridging the Gap,na,na,na,na,na,na,544,181,544,272
+12X061,P.S. 061 Francisco Oller,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,High Needs GC,na,na,na,na,264,264,264,264
+12X066,P.S. 066 School of Higher Expectations,ELEMENTARY,3.0,1,2,1,2,0,0,0,0,0,0,Bridging the Gap,na,na,na,na,na,na,539,180,539,270
+12X067,P.S. 067 Mohegan School,ELEMENTARY,1.0,0,1,0,1,0,0,0,0,0,0,na,na,na,na,na,na,na,433,433,433,433
+12X098,J.H.S. 098 Herman Ridder,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.0,1,1,1,1,0,0,0,1,0,0,na,na,na,na,na,na,na,251,126,251,251
+12X129,M.S. 129 Academy for Independent Learning and Lead,JUNIOR HIGH-INTERMEDIATE-MIDDLE,3.0,1,2,1,2,0,0,0,0,0,0,Bridging the Gap,na,na,na,na,na,na,514,171,514,257
+12X134,P.S. 134 George F. Bristow,ELEMENTARY,3.0,1,2,1,2,0,0,0,1,0,0,Bridging the Gap,na,na,na,na,na,na,574,191,574,287
+12X150,P.S. 150 Charles James Fox,ELEMENTARY,4.0,0,4,0,4,0,0,0,2,0,0,Bridging the Gap,na,na,na,na,na,na,704,176,704,176
+12X190,E.S.M.T- I.S. 190,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.0,0,1,0,1,0,0,0,0,0,0,na,na,na,na,na,na,na,272,272,272,272
+12X195,P.S. 195,ELEMENTARY,4.0,2,2,2,2,0,0,0,1,0,0,na,na,na,na,na,na,na,872,218,436,436
+12X196,P.S. 196,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,Bridging the Gap,na,na,na,na,na,na,815,408,815,815
+12X211,P.S. 211,K-8,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,512,512,512,512
+12X214,P.S. 214,K-8,4.0,2,2,2,2,0,0,0,0,0,0,Bridging the Gap,na,na,na,na,na,na,1083,271,542,542
+12X217,School of Performing Arts,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,343,343,343,343
+12X242,Mott Hall V,SECONDARY SCHOOL,2.0,2,0,2,0,0,0,1,0,0,0,na,na,na,na,na,na,na,662,331,331,662
+12X248,"Metropolitan High School, The",HIGH SCHOOL,3.0,2,1,2,1,0,0,1,1,0,0,na,na,na,na,na,na,na,273,91,137,273
+12X251,Explorations Academy H.S.,HIGH SCHOOL,3.0,2,1,2,1,0,0,2,0,0,0,na,High Needs SW,na,na,na,na,na,314,105,157,314
+12X267,Bronx Latin,SECONDARY SCHOOL,3.0,3,0,3,0,0,0,0,0,0,0,na,na,na,na,na,na,na,531,177,177,531
+12X271,East Bronx Academy for the Future,SECONDARY SCHOOL,4.0,4,0,4,0,0,0,0,0,0,0,na,na,na,na,na,na,na,647,162,162,647
+12X273,Frederick Douglass Academy V. Middle School,JUNIOR HIGH-INTERMEDIATE-MIDDLE,3.0,1,2,1,2,0,0,0,0,0,0,na,High Needs SW,na,na,na,na,na,182,61,182,91
+12X286,Fannie Lou Hamer Middle School,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.0,1,1,1,1,0,0,0,0,0,0,na,na,High Needs GC,na,na,na,"Counseling In Schools, Inc.",284,142,284,284
+12X300,The School of Science and Applied Learning,ELEMENTARY,5.0,1,4,1,4,0,0,0,2,0,0,Bridging the Gap,na,na,na,na,na,na,550,110,550,138
+12X314,Fairmont Neighborhood School,ELEMENTARY,2.0,1,1,1,1,0,0,1,1,0,0,na,na,na,na,na,na,na,279,140,279,279
+12X316,Kappa III,JUNIOR HIGH-INTERMEDIATE-MIDDLE,3.0,3,0,3,0,0,0,0,0,0,0,na,na,na,na,na,na,na,363,121,121,363
+12X318,"I.S. X318 Math, Science & Technology Through Arts",JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,226,113,226,226
+12X341,Accion Academy,JUNIOR HIGH-INTERMEDIATE-MIDDLE,3.0,2,1,2,1,0,0,0,0,0,0,na,High Needs SW,na,na,na,na,na,384,128,192,384
+12X383,Emolior Academy,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.0,1,0,1,0,0,0,1,0,0,0,na,na,na,na,na,na,na,349,349,349,349
+12X388,Pan American International High School at Monroe,HIGH SCHOOL,3.0,2,1,2,1,0,0,0,0,0,0,na,na,na,na,na,na,na,426,142,213,426
+12X446,Arturo A. Schomburg Satellite Academy Bronx,HIGH SCHOOL,2.0,1,1,1,1,0,0,1,0,0,0,na,na,na,na,na,Learning to Work,na,175,88,175,175
+12X458,Samara Community School,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,287,287,287,287
+12X463,Urban Scholars Community School,ELEMENTARY,2.0,1,1,1,1,0,0,1,0,0,0,na,na,na,na,na,na,na,292,146,292,292
+12X478,The Cinema School,HIGH SCHOOL,2.0,2,0,2,0,0,0,0,0,0,0,na,na,na,na,na,na,na,355,178,178,355
+12X479,Bronx Career and College Preparatory High School,HIGH SCHOOL,5.0,4,1,4,1,0,0,0,0,0,0,na,na,na,na,na,na,na,275,55,69,275
+12X480,Bronx Regional High School,HIGH SCHOOL,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,Learning to Work,na,183,92,183,183
+12X511,Bronx Envision Academy,HIGH SCHOOL,2.0,1,1,1,1,0,0,1,0,0,0,na,na,na,na,na,na,na,393,197,393,393
+12X521,The Metropolitan Soundview High School,HIGH SCHOOL,3.0,2,1,2,1,0,0,1,0,0,0,na,na,na,na,na,na,na,422,141,211,422
+12X531,Archer Elementary School,ELEMENTARY,3.0,1,2,1,2,0,0,0,0,0,0,na,na,na,na,na,na,na,441,147,441,221
+12X536,P.S. 536,ELEMENTARY,2.0,2,0,2,0,0,0,0,0,0,0,na,na,na,na,na,na,na,390,195,195,390
+12X550,High School of World Cultures,HIGH SCHOOL,4.0,4,0,4,0,0,0,2,0,0,0,na,na,na,na,na,na,na,421,105,105,421
+12X595,P.S. 595,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,191,96,191,191
+12X682,Fannie Lou Hamer Freedom High School,HIGH SCHOOL,3.0,1,2,1,2,0,0,0,0,0,0,na,na,na,na,na,na,na,463,154,463,232
+12X684,Wings Academy,HIGH SCHOOL,2.0,2,0,2,0,0,0,0,0,0,0,na,na,na,na,na,na,na,394,197,197,394
+12X691,Bronx Little School,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,318,318,318,318
+13K003,P.S. 003 The Bedford Village,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,High Needs GC,na,na,na,na,302,302,302,302
+13K008,P.S. 008 Robert Fulton,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,688,344,688,688
+13K009,P.S. 009 Teunis G. Bergen,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,937,469,937,937
+13K011,P.S. 011 Purvis J. Behan,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,949,475,949,949
+13K020,P.S. 020 Clinton Hill,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,539,270,539,539
+13K044,P.S. 044 Marcus Garvey,ELEMENTARY,0.4,0.4,0,0,0,0.4,0,0,0,0.4,0,na,na,na,na,na,na,na,124,124,124,124
+13K046,P.S. 046 Edward C. Blum,ELEMENTARY,1.6,0.6,1,0,1,0.6,0,0,0,0.6,0,na,na,na,na,na,na,na,251,157,251,251
+13K054,P.S. 054 Samuel C. Barnes,ELEMENTARY,0.4,0.4,0,0,0,0.4,0,0,0,0.4,0,na,na,na,na,na,na,na,202,202,202,202
+13K056,P.S. 056 Lewis H. Latimer,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,280,140,280,280
+13K067,P.S. 067 Charles A. Dorsey,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,"Partnership with Children, Inc.",222,222,222,222
+13K093,P.S. 093 William H. Prescott,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,185,185,185,185
+13K113,M.S. 113 Ronald Edmonds Learning Center,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.2,1,0.2,1,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,333,277,333,333
+13K133,P.S. 133 William A. Butler,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,726,726,726,726
+13K256,P.S. 256 Benjamin Banneker,ELEMENTARY,1.0,0,1,0,1,0,0,0,0,0,0,Bridging the Gap,na,na,na,na,na,na,214,214,214,214
+13K265,Dr. Susan S. McKinney Secondary School of the Arts,SECONDARY SCHOOL,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,301,301,301,301
+13K266,M.S. K266 - Park Place Community Middle School,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.2,1,1.2,1,1,0,0.2,0,0,0,0.2,na,na,High Needs GC,School Response Clinicians,na,na,na,166,75,166,138
+13K270,P.S. 270 Johann DeKalb,ELEMENTARY,1.6,0.6,1,0,1,0.6,0,0,0,0.6,0,na,High Needs SW,na,na,na,na,na,94,59,94,94
+13K282,P.S. 282 Park Slope,K-8,3.0,2,1,2,1,0,0,0,1,0,0,na,na,na,na,na,na,na,584,195,292,584
+13K287,P.S. 287 Bailey K. Ashford,ELEMENTARY,1.0,0,1,0,1,0,0,0,0,0,0,na,High Needs SW,na,na,na,na,na,117,117,117,117
+13K301,Satellite East Middle School,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.3,1,0.3,1,0,0,0.3,0,0,0,0.3,na,na,High Needs GC,School Response Clinicians,na,na,"Counseling In Schools, Inc.",88,70,88,88
+13K307,P.S. 307 Daniel Hale Williams,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,367,184,367,367
+13K313,Dock Street School for STEAM Studies,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.2,2,0.2,2,0,0,0.2,0,0,0,0.2,na,na,High Needs GC,School Response Clinicians,na,na,na,284,129,142,284
+13K350,Urban Assembly School of Music and Art,HIGH SCHOOL,1.2,1,0.2,1,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,193,161,193,193
+13K351,The Urban Assembly Unison School,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.8,0.8,1,0,1,0.8,0,0,0,0,0,na,na,na,na,na,na,na,172,96,172,172
+13K412,Brooklyn Community Arts & Media High School (BCAM),HIGH SCHOOL,3.6,2,1.6,2,1,0,0.6,0,0,0,0.6,na,na,na,School Response Clinicians,na,na,"Counseling In Schools, Inc.",451,125,226,282
+13K419,"Science Skills Center High School for Science, Tec",HIGH SCHOOL,4.0,3,1,3,1,0,0,0,0,0,0,na,na,na,na,na,na,na,591,148,197,591
+13K430,Brooklyn Technical High School,HIGH SCHOOL,24.2,21,3.2,21,3,0,0.2,1,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,6040,250,288,1907
+13K439,Brooklyn International High School,HIGH SCHOOL,2.2,1,1.2,1,1,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,338,154,338,282
+13K483,The Urban Assembly School for Law and Justice,HIGH SCHOOL,2.2,0,2.2,0,2,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,445,202,445,202
+13K492,Academy of Arts and Letters,K-8,3.0,1,2,1,2,0,0,0,0,0,0,na,na,High Needs GC,na,na,na,na,523,174,523,262
+13K527,Urban Assembly Institute of Math and Science for Y,SECONDARY SCHOOL,4.2,2,2.2,2,2,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,475,113,238,216
+13K553,Brooklyn Academy High School,HIGH SCHOOL,3.0,2,1,2,1,0,0,0,0,0,0,na,na,na,na,na,Learning to Work,na,146,49,73,146
+13K594,Gotham Professional Arts Academy,HIGH SCHOOL,2.3,1,1.3,1,1,0,0.3,0,0,0,0.3,na,na,High Needs GC,School Response Clinicians,na,na,na,152,68,152,122
+13K595,Bedford Academy High School,HIGH SCHOOL,2.2,2,0.2,2,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,392,178,196,392
+13K605,George Westinghouse Career and Technical Education,HIGH SCHOOL,7.0,4,3,4,3,0,0,0,0,0,0,na,na,na,na,na,na,na,753,108,188,251
+13K616,Brooklyn High School for Leadership and Community,HIGH SCHOOL,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,Learning to Work,na,177,177,177,177
+13K670,Benjamin Banneker Academy,HIGH SCHOOL,4.2,4,0.2,4,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,815,194,204,815
+13K674,"City Polytechnic High School of Engineering, Archi",HIGH SCHOOL,4.2,4,0.2,4,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,433,103,108,433
+13K691,Fort Greene Preparatory Academy,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.2,1,0.2,1,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,209,174,209,209
+13K915,I.S. 915,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,278,278,278,278
+14K016,P.S. 016 Leonard Dunkly,ELEMENTARY,2.4,1.4,1,1,1,0.4,0,0,1,0.4,0,na,na,High Needs GC,na,na,na,na,193,80,138,193
+14K017,P.S. 017 Henry D. Woodworth,ELEMENTARY,1.4,0,1.4,0,1,0,0.4,0,0,0,0.4,na,na,na,na,na,na,na,300,214,300,214
+14K018,P.S. 018 Edward Bush,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,High Needs SW,na,na,na,na,na,184,92,184,184
+14K023,P.S. 023 Carter G. Woodson,ELEMENTARY,2.0,1,1,1,1,0,0,0,1,0,0,na,na,na,na,na,na,na,272,136,272,272
+14K031,P.S. 031 Samuel F. Dupont,ELEMENTARY,0.4,0.4,0,0,0,0.4,0,0,0,0.4,0,na,na,na,na,na,na,na,619,619,619,619
+14K034,P.S. 034 Oliver H. Perry,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,479,479,479,479
+14K050,J.H.S. 050 John D. Wells,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.2,1,0.2,1,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,326,272,326,326
+14K059,P.S. 059 William Floyd,ELEMENTARY,2.4,1.4,1,1,1,0.4,0,0,0,0.4,0,na,High Needs SW,High Needs GC,na,na,na,na,325,135,232,325
+14K071,Juan Morel Campos Secondary School,SECONDARY SCHOOL,3.0,3,0,3,0,0,0,0,0,0,0,na,na,na,na,na,na,Henry Street Settlement,482,161,161,482
+14K084,P.S. 084 Jose De Diego,K-8,3.0,1,2,1,2,0,0,0,1,0,0,na,na,na,na,na,na,na,729,243,729,365
+14K110,P.S. 110 The Monitor,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,594,594,594,594
+14K120,P.S. 120 Carlos Tapia,ELEMENTARY,2.0,1,1,1,1,0,0,0,1,0,0,na,na,na,na,na,na,na,368,184,368,368
+14K126,John Ericsson Middle School 126,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.3,2,0.3,2,0,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,328,146,164,328
+14K132,P.S. 132 The Conselyea School,ELEMENTARY,2.0,1,1,1,1,0,0,0,1,0,0,na,na,na,na,na,na,na,713,357,713,713
+14K147,P.S. 147 Isaac Remsen,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,358,358,358,358
+14K157,P.S./I.S. 157 The Benjamin Franklin Health & Scien,K-8,2.0,1,1,1,1,0,0,0,0,0,0,na,High Needs SW,na,na,na,na,na,399,200,399,399
+14K196,P.S. 196 Ten Eyck,ELEMENTARY,1.6,0.6,1,0,1,0.6,0,0,0,0.6,0,na,na,na,na,na,na,na,309,193,309,309
+14K250,P.S. 250 George H. Lindsay,ELEMENTARY,1.6,0.6,1,0,1,0.6,0,0,1,0.6,0,na,na,na,na,na,na,na,407,254,407,407
+14K257,P.S. 257 John F. Hylan,ELEMENTARY,2.0,1,1,1,1,0,0,0,1,0,0,na,na,na,na,na,na,na,547,274,547,547
+14K297,P.S. 297 Abraham Stockton,ELEMENTARY,2.6,0.6,2,0,2,0.6,0,0,0,0.6,0,na,na,na,na,na,na,Henry Street Settlement,207,80,207,104
+14K318,I.S. 318 Eugenio Maria De Hostos,JUNIOR HIGH-INTERMEDIATE-MIDDLE,5.2,3,2.2,3,2,0,0.2,1,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,1267,244,422,576
+14K319,P.S. 319,EARLY CHILDHOOD,1.0,1,0,1,0,0,0,0,0,0,0,na,na,High Needs GC,na,na,na,na,125,125,125,125
+14K380,P.S. 380 John Wayne Elementary,ELEMENTARY,1.0,0,1,0,1,0,0,0,1,0,0,na,na,na,na,na,na,St. Nicks Alliance Corp.,534,534,534,534
+14K414,Brooklyn Arbor Elementary School,ELEMENTARY,1.4,0.4,1,0,1,0.4,0,0,1,0.4,0,na,na,na,na,na,na,na,610,436,610,610
+14K449,"Brooklyn Latin School, The",HIGH SCHOOL,6.3,6,0.3,6,0,0,0.3,2,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,785,126,131,785
+14K454,The Williamsburg High School of Art and Technology,HIGH SCHOOL,2.9,2,0.9,2,0,0,0.9,0,0,0,0.9,na,na,na,School Response Clinicians,na,na,na,310,109,155,310
+14K474,PROGRESS High School for Professional Careers,HIGH SCHOOL,6.2,4,2.2,4,2,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,633,102,158,288
+14K477,East Williamsburg Scholars Academy,HIGH SCHOOL,1.3,1,0.3,1,0,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,291,233,291,291
+14K478,"The High School for Enterprise, Business and Techn",HIGH SCHOOL,3.3,3,0.3,3,0,0,0.3,2,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,776,239,259,776
+14K488,Brooklyn Preparatory High School,HIGH SCHOOL,3.0,2,1,2,1,0,0,1,0,0,0,na,na,na,na,na,na,na,532,177,266,532
+14K558,Williamsburg High School for Architecture and Desi,HIGH SCHOOL,4.2,2,2.2,2,2,0,0.2,0,1,0,0.2,na,na,na,School Response Clinicians,na,na,na,587,140,294,267
+14K561,Williamsburg Preparatory School,HIGH SCHOOL,2.2,2,0.2,2,0,0,0.2,1,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,692,315,346,692
+14K577,Conselyea Preparatory School,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.2,1,1.2,1,1,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,476,216,476,397
+14K582,M.S. 582,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.2,1,0.2,1,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,329,274,329,329
+14K586,Lyons Community School,SECONDARY SCHOOL,3.0,2,1,2,1,0,0,0,0,0,0,na,na,na,na,na,na,na,431,144,216,431
+14K610,A-Tech High School,HIGH SCHOOL,3.2,2,1.2,2,1,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,Henry Street Settlement,304,95,152,253
+14K614,Young Women's Leadership School of Brooklyn,SECONDARY SCHOOL,2.2,0,2.2,0,2,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,385,175,385,175
+14K685,El Puente Academy for Peace and Justice,HIGH SCHOOL,3.2,3,0.2,3,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,226,71,75,226
+15K001,P.S. 001 The Bergen,ELEMENTARY,3.0,1,2,1,2,0,0,1,1,0,0,na,na,na,na,na,na,na,1087,362,1087,544
+15K010,"Magnet School of Math, Science and Design Technolo",ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,956,478,956,956
+15K015,P.S. 015 Patrick F. Daly,ELEMENTARY,2.0,0,2,0,2,0,0,0,1,0,0,na,na,na,na,na,na,na,473,237,473,237
+15K024,P.S. 024,ELEMENTARY,2.0,1,1,1,1,0,0,0,1,0,0,na,na,High Needs GC,na,na,na,na,590,295,590,590
+15K029,P.S. 029 John M. Harrigan,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,931,466,931,931
+15K032,P.S. 032 Samuel Mills Sprole,ELEMENTARY,3.0,1,2,1,2,0,0,0,0,0,0,na,na,na,na,na,na,na,446,149,446,223
+15K038,P.S. 038 The Pacific,ELEMENTARY,0.5,0.5,0,0,0,0.5,0,0,0,0.5,0,na,na,na,na,na,na,"Counseling In Schools, Inc.",590,590,590,590
+15K039,P.S. 039 Henry Bristow,ELEMENTARY,0.6,0.6,0,0,0,0.6,0,0,0,0,0,na,na,na,na,na,na,na,417,417,417,417
+15K051,M.S. 51 William Alexander,JUNIOR HIGH-INTERMEDIATE-MIDDLE,3.0,2,1,2,1,0,0,0,0,0,0,na,na,na,na,na,na,na,1150,383,575,1150
+15K058,P.S. 058 The Carroll,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,1002,501,1002,1002
+15K088,J.H.S. 088 Peter Rouget,JUNIOR HIGH-INTERMEDIATE-MIDDLE,4.0,3,1,3,1,0,0,0,1,0,0,na,na,na,na,na,na,na,1418,355,473,1418
+15K094,P.S. 094 The Henry Longfellow,ELEMENTARY,2.0,1,1,1,1,0,0,1,1,0,0,na,na,na,na,na,na,na,1216,608,1216,1216
+15K107,P.S. 107 John W. Kimball,ELEMENTARY,0.9,0.9,0,0,0,0.9,0,0,0,0,0,na,na,na,na,na,na,na,567,567,567,567
+15K118,The Maurice Sendak Community School,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,340,340,340,340
+15K124,P.S. 124 Silas B. Dutcher,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,"Counseling In Schools, Inc.",282,282,282,282
+15K130,P.S. 130 The Parkside,ELEMENTARY,2.0,2,0,2,0,0,0,0,0,0,0,na,na,na,na,na,na,na,876,438,438,876
+15K131,P.S. 131 Brooklyn,ELEMENTARY,1.0,0,1,0,1,0,0,0,1,0,0,na,na,na,na,na,na,na,845,845,845,845
+15K136,I.S. 136 Charles O. Dewey,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.0,2,0,2,0,0,0,1,0,0,0,na,na,na,na,na,na,na,509,255,255,509
+15K146,"The Brooklyn New School, P.S. 146",ELEMENTARY,2.8,1.8,1,1,1,0.8,0,0,0,0,0,na,na,na,na,na,na,na,722,258,401,722
+15K154,The Windsor Terrace School,ELEMENTARY,1.6,0.6,1,0,1,0.6,0,0,0,0,0,na,na,na,na,na,na,na,534,334,534,534
+15K169,P.S. 169 Sunset Park,ELEMENTARY,3.0,2,1,2,1,0,0,2,0,0,0,na,na,na,na,na,na,na,1261,420,631,1261
+15K172,P.S. 172 Beacon School of Excellence,ELEMENTARY,2.0,1,1,1,1,0,0,0,1,0,0,na,na,na,na,na,na,na,580,290,580,580
+15K230,P.S. 230 Doris L. Cohen,ELEMENTARY,3.0,2,1,2,1,0,0,0,0,0,0,na,na,na,na,na,na,na,1103,368,552,1103
+15K261,P.S. 261 Philip Livingston,ELEMENTARY,1.0,0,1,0,1,0,0,0,0,0,0,na,na,na,na,na,na,na,784,784,784,784
+15K295,P.S. 295,ELEMENTARY,2.0,0,2,0,2,0,0,0,1,0,0,na,na,na,na,na,na,na,439,220,439,220
+15K321,P.S. 321 William Penn,ELEMENTARY,3.0,2,1,2,1,0,0,0,0,0,0,na,na,na,na,na,na,na,1379,460,690,1379
+15K418,The Children's School,ELEMENTARY,1.0,0,1,0,1,0,0,0,1,0,0,na,na,na,na,na,na,na,303,303,303,303
+15K423,Brooklyn Frontiers High School,HIGH SCHOOL,1.0,0,1,0,1,0,0,0,0,0,0,na,na,na,na,na,Learning to Work,na,186,186,186,186
+15K429,Digital Arts and Cinema Technology High School,HIGH SCHOOL,2.2,1,1.2,1,1,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,285,130,285,237
+15K442,M.S. 442 Carroll Gardens School for Innovation,JUNIOR HIGH-INTERMEDIATE-MIDDLE,3.0,2,1,2,1,0,0,1,0,0,0,na,na,na,na,na,na,na,336,112,168,336
+15K443,New Voices School of Academic & Creative Arts,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,573,573,573,573
+15K447,The Math & Science Exploratory School,JUNIOR HIGH-INTERMEDIATE-MIDDLE,3.0,1,2,1,2,0,0,0,0,0,0,na,na,na,na,na,na,na,549,183,549,275
+15K448,Brooklyn Collaborative Studies,SECONDARY SCHOOL,4.0,3,1,3,1,0,0,0,0,0,0,na,na,na,na,na,na,na,640,160,213,640
+15K462,John Jay School for Law,HIGH SCHOOL,3.2,3,0.2,3,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,439,139,146,439
+15K463,Cyberarts Studio Academy,HIGH SCHOOL,2.2,2,0.2,2,0,0,0.2,1,0,0,0.2,na,na,High Needs GC,School Response Clinicians,na,na,na,270,125,135,270
+15K464,Park Slope Collegiate,SECONDARY SCHOOL,3.2,3,0.2,3,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,668,211,223,668
+15K497,The Boerum Hill School for International Studies,SECONDARY SCHOOL,2.0,2,0,2,0,0,0,0,0,0,0,na,na,na,na,na,na,na,812,406,406,812
+15K516,Sunset Park Avenues Elementary School,ELEMENTARY,1.0,0,1,0,1,0,0,0,0,0,0,na,na,na,na,na,na,na,466,466,466,466
+15K519,Cobble Hill School of American Studies,HIGH SCHOOL,2.2,1,1.2,1,1,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,"Wediko Children's Services, Inc.",512,233,512,427
+15K529,West Brooklyn Community High School,HIGH SCHOOL,2.0,2,0,2,0,0,0,0,0,0,0,na,na,na,na,na,Learning to Work,na,243,122,122,243
+15K592,Khalil Gibran International Academy,HIGH SCHOOL,2.2,2,0.2,2,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,189,86,95,189
+15K656,Brooklyn High School of the Arts,HIGH SCHOOL,5.0,4,1,4,1,0,0,0,0,0,0,na,na,na,na,na,na,na,930,186,233,930
+15K667,Sunset Park High School,HIGH SCHOOL,6.2,5,1.2,5,1,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,1239,201,248,1062
+15K676,Red Hook Neighborhood School,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,107,107,107,107
+15K684,Millennium Brooklyn HS,HIGH SCHOOL,4.2,2,2.2,2,2,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,684,164,342,316
+15K698,South Brooklyn Community High School,HIGH SCHOOL,3.0,2,1,2,1,0,0,0,0,0,0,na,High Needs SW,na,na,na,Learning to Work,na,177,59,89,177
+15K821,Sunset Park Prep,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,538,269,538,538
+15K839,M.S. 839,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.0,1,1,1,1,0,0,0,0,0,0,na,High Needs SW,na,na,na,na,na,364,182,364,364
+15K896,The School of Creativity and Innovation,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,High Needs SW,High Needs GC,na,na,na,na,101,51,101,101
+16K005,P.S. 005 Dr. Ronald McNair,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,248,124,248,248
+16K021,P.S. 021 Crispus Attucks,ELEMENTARY,3.0,1,2,1,2,0,0,0,0,0,0,Bridging the Gap,na,na,na,na,na,na,563,188,563,282
+16K025,P.S. 025 Eubie Blake School,ELEMENTARY,0.4,0.4,0,0,0,0.4,0,0,0,0.4,0,na,na,na,na,na,na,na,74,74,74,74
+16K026,P.S. 026 Jesse Owens,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,233,117,233,233
+16K035,M.S. 035 Stephen Decatur,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.0,2,0,2,0,0,0,0,0,0,0,na,na,High Needs GC,na,na,na,na,199,100,100,199
+16K040,P.S. 040 George W. Carver,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,High Needs SW,na,na,na,na,na,396,198,396,396
+16K057,Whitelaw Reid Academy of Arts and Business,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.0,1,1,1,1,0,0,0,0,0,0,na,na,High Needs GC,na,na,na,na,119,60,119,119
+16K081,P.S. 081 Thaddeus Stevens,ELEMENTARY,3.0,2,1,2,1,0,0,0,1,0,0,na,na,na,na,na,na,na,293,98,147,293
+16K243,P.S. 243K- The Weeksville School,ELEMENTARY,1.0,0,1,0,1,0,0,0,0,0,0,na,na,na,na,na,na,na,216,216,216,216
+16K262,P.S. 262 El Hajj Malik El Shabazz Elementary Schoo,ELEMENTARY,0.4,0,0.4,0,0,0,0.4,0,0,0,0,na,na,na,na,na,na,na,160,160,160,160
+16K267,"M.S. 267 Math, Science & Technology",JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.6,0.6,1,0,1,0.6,0,0,0,0.6,0,na,High Needs SW,na,na,na,na,na,198,123,198,198
+16K308,P.S. 308 Clara Cardwell,K-8,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,Henry Street Settlement,244,122,244,244
+16K309,P.S. 309 The George E. Wibecan Preparatory Academy,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,High Needs SW,na,na,na,na,na,207,104,207,207
+16K335,P.S. 335 Granville T. Woods,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,214,107,214,214
+16K455,Boys and Girls High School,HIGH SCHOOL,4.0,2,2,2,2,0,0,0,0,0,0,na,na,na,na,na,na,"Partnership with Children, Inc.",452,113,226,226
+16K498,Brooklyn High School for Law and Technology,HIGH SCHOOL,3.0,3,0,3,0,0,0,0,0,0,0,na,na,na,na,na,na,na,578,193,193,578
+16K627,Brighter Choice Community School,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,Bridging the Gap,na,na,na,na,na,na,314,157,314,314
+16K628,Brooklyn Brownstone School,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,High Needs GC,na,na,na,na,292,292,292,292
+16K669,Research and Service High School,HIGH SCHOOL,2.0,2,0,2,0,0,0,0,0,0,0,na,na,na,na,na,Learning to Work,na,321,161,161,321
+16K681,Madiba Prep Middle School,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,224,224,224,224
+16K688,The Brooklyn Academy of Global Finance,HIGH SCHOOL,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,126,63,126,126
+16K765,Nelson Mandela High School,HIGH SCHOOL,2.0,2,0,2,0,0,0,0,0,0,0,na,na,na,na,na,na,na,231,116,116,231
+16K898,The Brooklyn Green School,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.0,1,0,1,0,0,0,0,0,0,0,na,na,High Needs GC,na,na,na,na,83,83,83,83
+17K002,Parkside Preparatory Academy,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,431,216,431,431
+17K006,Norma Adams Clemons Academy,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,Bridging the Gap,na,na,na,na,na,na,641,321,641,641
+17K012,Dr. Jacqueline Peek-Davis School,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,240,120,240,240
+17K061,M.S. 061 Dr. Gladstone H. Atwell,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.0,2,0,2,0,0,0,0,0,0,0,na,na,na,na,na,na,na,559,280,280,559
+17K091,P.S. 091 The Albany Avenue School,ELEMENTARY,1.5,0.5,1,0,1,0.5,0,0,0,0.5,0,na,na,na,na,na,na,na,225,150,225,225
+17K092,P.S. 092 Adrian Hegeman,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,Bridging the Gap,na,na,na,na,na,na,344,172,344,344
+17K122,Pathways in Technology Early College High School (,HIGH SCHOOL,3.3,3,0.3,3,0,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,574,177,191,574
+17K138,P.S. 138 Brooklyn,K-8,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,525,263,525,525
+17K161,P.S. 161 The Crown,ELEMENTARY,3.0,2,1,2,1,0,0,0,0,0,0,na,na,High Needs GC,na,na,na,na,336,112,168,336
+17K181,P.S. 181 Brooklyn,K-8,3.0,1,2,1,2,0,0,0,0,0,0,na,na,na,na,na,na,na,615,205,615,308
+17K189,P.S. 189 The Bilingual Center,K-8,3.0,2,1,2,1,0,0,1,0,0,0,na,na,na,na,na,na,na,1000,333,500,1000
+17K191,P.S. 191 Paul Robeson,ELEMENTARY,0.7,0.7,0,0,0,0.7,0,0,0,0.4,0,na,na,na,na,na,na,na,173,173,173,173
+17K221,P.S. 221 Toussaint L'Ouverture,ELEMENTARY,0.6,0.6,0,0,0,0.6,0,0,0,0.6,0,na,na,na,na,na,na,na,226,226,226,226
+17K241,P.S. 241 Emma L. Johnston,ELEMENTARY,1.6,0.6,1,0,1,0.6,0,0,0,0.6,0,na,na,na,na,na,na,na,457,286,457,457
+17K246,M.S. 246 Walt Whitman,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.4,1.4,0,1,0,0.4,0,0,0,0.4,0,na,na,na,na,na,na,na,416,297,297,416
+17K249,P.S. 249 The Caton,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,853,427,853,853
+17K289,P.S. 289 George V. Brower,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,316,158,316,316
+17K316,P.S. 316 Elijah Stroud,ELEMENTARY,4.0,1,3,1,3,0,0,0,0,0,0,na,na,na,na,na,na,na,597,149,597,199
+17K340,I.S. 340,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,197,197,197,197
+17K352,Ebbets Field Middle School,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,123,123,123,123
+17K353,Elijah Stroud Middle School,JUNIOR HIGH-INTERMEDIATE-MIDDLE,0.8,0.8,0,0,0,0.8,0,0,0,0.8,0,na,na,na,na,na,na,na,162,162,162,162
+17K354,The School of Integrated Learning,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,"Counseling In Schools, Inc.",373,373,373,373
+17K375,P.S. 375 Jackie Robinson School,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,290,145,290,290
+17K382,Academy for College Preparation and Career Explora,SECONDARY SCHOOL,2.0,2,0,2,0,0,0,0,0,0,0,na,na,na,na,na,na,na,346,173,173,346
+17K394,M.S. K394,K-8,1.2,0.2,1,0,1,0.2,0,0,0,0.2,0,Bridging the Gap,na,na,na,na,na,na,337,281,337,337
+17K397,P.S. 397 Foster-Laurie,ELEMENTARY,0.5,0.5,0,0,0,0.5,0,0,0,0.5,0,na,na,na,na,na,na,na,172,172,172,172
+17K398,P.S. 398 Walter Weaver,ELEMENTARY,1.6,0.6,1,0,1,0.6,0,0,0,0.6,0,na,na,na,na,na,na,na,265,166,265,265
+17K399,P.S. 399 Stanley Eugene Clark,ELEMENTARY,1.4,0.4,1,0,1,0.4,0,0,0,0.4,0,Bridging the Gap,na,na,na,na,na,na,284,203,284,284
+17K408,Academy of Hospitality and Tourism,HIGH SCHOOL,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,244,244,244,244
+17K484,Ronald Edmonds Learning Center II,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,173,173,173,173
+17K524,International High School at Prospect Heights,HIGH SCHOOL,3.2,1,2.2,1,2,0,0.2,1,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,370,117,370,171
+17K528,The High School for Global Citizenship,HIGH SCHOOL,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,222,222,222,222
+17K531,"School for Human Rights, The",HIGH SCHOOL,3.2,1,2.2,1,2,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,326,103,326,150
+17K532,New Bridges Elementary,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,449,225,449,449
+17K537,High School for Youth and Community Development at,HIGH SCHOOL,4.0,2,2,2,2,0,0,0,0,0,0,na,na,na,na,na,na,na,466,117,233,233
+17K539,High School for Service & Learning at Erasmus,HIGH SCHOOL,2.3,2,0.3,2,0,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,299,133,150,299
+17K543,"Science, Technology and Research Early College Hig",SECONDARY SCHOOL,2.3,2,0.3,2,0,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,624,277,312,624
+17K546,High School for Public Service: Heroes of Tomorrow,HIGH SCHOOL,2.2,2,0.2,2,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,475,219,238,475
+17K547,Brooklyn Academy of Science and the Environment,HIGH SCHOOL,3.2,2,1.2,2,1,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,342,108,171,293
+17K548,Brooklyn School for Music & Theatre,HIGH SCHOOL,2.0,2,0,2,0,0,0,0,0,0,0,na,na,na,na,na,na,na,278,139,139,278
+17K568,Brownsville Academy High School,HIGH SCHOOL,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,Learning to Work,na,111,111,111,111
+17K590,Medgar Evers College Preparatory School,SECONDARY SCHOOL,3.3,3,0.3,3,0,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,1414,435,471,1414
+17K600,Clara Barton High School,HIGH SCHOOL,9.2,8,1.2,8,1,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,1253,137,157,1074
+17K646,Aspirations Diploma Plus High School,HIGH SCHOOL,3.0,3,0,3,0,0,0,1,0,0,0,na,na,na,na,Single Shepherd,Learning to Work,na,200,67,67,200
+17K705,Brooklyn Arts and Science Elementary School,ELEMENTARY,1.0,0,1,0,1,0,0,0,0,0,0,na,na,na,na,na,na,na,321,321,321,321
+17K722,New Heights Middle School,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,248,248,248,248
+17K745,Brooklyn Institute for Liberal Arts,HIGH SCHOOL,4.2,3,1.2,3,1,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,461,111,154,395
+17K751,Academy for Health Careers,HIGH SCHOOL,1.3,1,0.3,1,0,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,277,222,277,277
+17K770,P.S. 770 New American Academy,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,High Needs SW,na,na,na,na,na,288,144,288,288
+18K066,P.S. 66,K-8,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,760,760,760,760
+18K068,I.S. 068 Isaac Bildersee,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,239,239,239,239
+18K114,P.S. 114 Ryder Elementary,ELEMENTARY,2.0,1,1,1,1,0,0,0,1,0,0,na,na,na,na,na,na,na,484,242,484,484
+18K115,P.S. 115 Daniel Mucatel School,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,861,431,861,861
+18K135,P.S. 135 Sheldon A. Brookner,ELEMENTARY,2.0,1,1,1,1,0,0,0,1,0,0,na,na,na,na,na,na,na,465,233,465,465
+18K208,P.S. 208 Elsa Ebeling,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,339,339,339,339
+18K211,I.S. 211 John Wilson,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,342,342,342,342
+18K219,P.S. 219 Kennedy-King,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,364,182,364,364
+18K233,P.S. 233 Langston Hughes,ELEMENTARY,0.6,0.6,0,0,0,0.6,0,0,0,0.6,0,na,na,na,na,na,na,na,332,332,332,332
+18K235,P.S. 235 Janice Marie Knight School,K-8,3.0,1,2,1,2,0,0,0,0,0,0,na,na,na,na,na,na,na,1174,391,1174,587
+18K244,P.S. 244 Richard R. Green,ELEMENTARY,2.0,1,1,1,1,0,0,0,1,0,0,na,na,na,na,na,na,na,427,214,427,427
+18K268,P.S. 268 Emma Lazarus,ELEMENTARY,0.4,0.4,0,0,0,0.4,0,0,0,0.4,0,na,na,na,na,na,na,na,320,320,320,320
+18K272,P.S. 272 Curtis Estabrook,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,437,219,437,437
+18K276,P.S. 276 Louis Marshall,ELEMENTARY,2.7,1.7,1,1,1,0.7,0,0,0,0.7,0,na,na,na,na,na,na,na,549,203,323,549
+18K279,P.S. 279 Herman Schreiber,ELEMENTARY,1.3,1.3,0,1,0,0.3,0,0,0,0.3,0,na,na,na,na,na,na,na,348,268,268,348
+18K285,I.S. 285 Meyer Levin,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,727,727,727,727
+18K366,The Science And Medicine Middle School,JUNIOR HIGH-INTERMEDIATE-MIDDLE,4.0,3,1,3,1,0,0,0,0,0,0,na,High Needs SW,na,na,na,na,na,407,102,136,407
+18K563,It Takes a Village Academy,HIGH SCHOOL,5.0,4,1,4,1,0,0,0,0,0,0,na,na,na,na,na,na,na,620,124,155,620
+18K566,Brooklyn Community High School for Excellence and,HIGH SCHOOL,4.0,2,2,2,2,0,0,0,0,0,0,na,na,na,na,na,na,na,204,51,102,102
+18K567,Brooklyn Theatre Arts High School,HIGH SCHOOL,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,338,338,338,338
+18K569,Kurt Hahn Expeditionary Learning School,HIGH SCHOOL,3.0,2,1,2,1,0,0,0,0,0,0,na,na,na,na,na,na,na,259,86,130,259
+18K576,Victory Collegiate High School,HIGH SCHOOL,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,307,307,307,307
+18K578,Brooklyn Bridge Academy,HIGH SCHOOL,1.4,0,1.4,0,1,0,0.4,0,0,0,0.4,na,na,na,na,na,Learning to Work,na,168,120,168,120
+18K581,"The Middle School of Media, Law and Fine Arts",JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,"Community Association of Progressive Dominicans, Inc.",234,234,234,234
+18K588,Middle School for Art and Philosophy,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.0,1,1,1,1,0,0,0,0,0,0,na,High Needs SW,na,na,na,na,na,165,83,165,165
+18K617,High School for Innovation in Advertising and Medi,HIGH SCHOOL,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,208,208,208,208
+18K629,Cultural Academy for the Arts and Sciences,HIGH SCHOOL,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,251,251,251,251
+18K633,High School for Medical Professions,HIGH SCHOOL,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,454,227,454,454
+18K635,Olympus Academy,HIGH SCHOOL,2.0,2,0,2,0,0,0,0,0,0,0,na,na,High Needs GC,na,na,Learning to Work,na,191,96,96,191
+18K637,Academy for Conservation and the Environment,HIGH SCHOOL,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,306,306,306,306
+18K642,Urban Action Academy,HIGH SCHOOL,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,209,209,209,209
+18K673,East Brooklyn Community High School,HIGH SCHOOL,2.6,1,1.6,1,1,0,0.6,0,0,0,0.6,na,na,High Needs GC,na,na,Learning to Work,na,196,75,196,123
+18K763,Brooklyn Science and Engineering Academy,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.0,1,1,1,1,0,0,0,0,0,0,na,na,High Needs GC,na,na,na,na,353,177,353,353
+19K007,P.S. 007 Abraham Lincoln,ELEMENTARY,2.0,1,1,1,1,0,0,1,1,0,0,na,na,na,na,na,na,na,784,392,784,784
+19K013,P.S. 013 Roberto Clemente,ELEMENTARY,3.0,1,2,1,2,0,0,0,0,0,0,Bridging the Gap,na,High Needs GC,na,na,na,na,417,139,417,209
+19K065,P.S. 065,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,556,556,556,556
+19K089,P.S. 089 Cypress Hills,K-8,3.0,2,1,2,1,0,0,1,0,0,0,na,High Needs SW,na,na,na,na,na,490,163,245,490
+19K108,P.S. 108 Sal Abbracciamento,ELEMENTARY,3.0,1,2,1,2,0,0,0,0,0,0,na,na,na,na,na,na,na,901,300,901,451
+19K149,P.S. 149 Danny Kaye,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,Bridging the Gap,na,na,na,na,na,na,605,303,605,605
+19K158,P.S. 158 Warwick,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,505,505,505,505
+19K159,P.S. 159 Isaac Pitkin,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,756,378,756,756
+19K171,I.S. 171 Abraham Lincoln,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.3,1,0.3,1,0,0,0.3,1,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,385,308,385,385
+19K190,P.S. 190 Sheffield,ELEMENTARY,1.4,0.4,1,0,1,0.4,0,0,0,0,0,na,na,na,na,na,na,na,190,136,190,190
+19K202,P.S. 202 Ernest S. Jenkyns,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,352,176,352,352
+19K213,P.S. 213 New Lots,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,259,259,259,259
+19K214,P.S. 214 Michael Friedsam,ELEMENTARY,2.0,1,1,1,1,0,0,0,1,0,0,na,na,na,na,na,na,na,865,433,865,865
+19K218,J.H.S. 218 James P. Sinnott,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.3,1,1.3,1,1,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,378,168,378,302
+19K224,P.S. 224 Hale A. Woodruff,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,332,332,332,332
+19K273,P.S. 273 Wortman,ELEMENTARY,2.0,0,2,0,2,0,0,0,0,0,0,na,High Needs SW,na,na,na,na,na,329,165,329,165
+19K290,P.S. 290 Juan Morel Campos,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,Bridging the Gap,na,na,na,na,na,na,436,218,436,436
+19K292,J.H.S. 292 Margaret S. Douglas,JUNIOR HIGH-INTERMEDIATE-MIDDLE,3.3,3,0.3,3,0,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,526,162,175,526
+19K306,P.S. 306 Ethan Allen,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,310,310,310,310
+19K325,The Fresh Creek School,ELEMENTARY,0.8,0,0.8,0,0,0,0.8,0,0,0,0,na,na,na,na,na,na,na,190,190,190,190
+19K328,P.S. 328 Phyllis Wheatley,ELEMENTARY,1.0,0,1,0,1,0,0,0,0,0,0,na,na,na,na,na,na,"Community Association of Progressive Dominicans, Inc.",309,309,309,309
+19K345,P.S. 345 Patrolman Robert Bolden,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,Bridging the Gap,na,na,na,na,na,na,577,289,577,577
+19K346,P.S. 346 Abe Stark,ELEMENTARY,3.0,2,1,2,1,0,0,0,0,0,0,na,na,High Needs GC,na,na,na,na,558,186,279,558
+19K364,I.S. 364 Gateway,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.3,1,0.3,1,0,0,0.3,0,0,0,0.3,na,na,High Needs GC,School Response Clinicians,na,na,na,265,212,265,265
+19K404,Academy for Young Writers,SECONDARY SCHOOL,4.0,4,0,4,0,0,0,0,0,0,0,na,na,na,na,na,na,na,542,136,136,542
+19K409,East New York Family Academy,SECONDARY SCHOOL,3.2,3,0.2,3,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,511,160,170,511
+19K422,Spring Creek Community School,SECONDARY SCHOOL,2.3,2,0.3,2,0,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,530,236,265,530
+19K452,Frederick Douglass Academy VIII Middle School,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.3,1,1.3,1,1,0,0.3,0,0,0,0.3,na,High Needs SW,na,School Response Clinicians,na,na,na,307,136,307,246
+19K502,FDNY - Captain Vernon A. Richard High School for F,HIGH SCHOOL,2.1,1,1.1,1,1,0,0.1,0,0,0,0.1,na,na,na,School Response Clinicians,na,na,na,269,126,269,235
+19K504,High School for Civil Rights,HIGH SCHOOL,1.2,1,0.2,1,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,233,194,233,233
+19K507,Performing Arts and Technology High School,HIGH SCHOOL,2.1,2,0.1,2,0,0,0.1,0,0,0,0.1,na,na,na,School Response Clinicians,na,na,na,379,177,190,379
+19K510,World Academy for Total Community Health High Scho,HIGH SCHOOL,2.2,1,1.2,1,1,0,0.2,0,0,0,0.2,Bridging the Gap,na,na,School Response Clinicians,na,na,na,199,90,199,166
+19K557,Brooklyn Gardens Elementary School,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,309,309,309,309
+19K583,Multicultural High School,HIGH SCHOOL,3.1,3,0.1,3,0,0,0.1,1,0,0,0.1,na,na,na,School Response Clinicians,na,na,"Partnership with Children, Inc.",299,95,100,299
+19K615,Transit Tech Career and Technical Education High S,HIGH SCHOOL,5.7,4.4,1.3,4,1,0.4,0.3,2,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,715,127,163,572
+19K618,Academy of Innovative Technology,HIGH SCHOOL,3.1,2,1.1,2,1,0,0.1,0,0,0,0.1,na,na,na,School Response Clinicians,na,na,na,445,142,223,389
+19K639,Brooklyn Lab School,HIGH SCHOOL,4.1,3,1.1,3,1,0,0.1,1,0,0,0.1,na,na,na,School Response Clinicians,na,na,na,437,105,146,382
+19K654,Van Siclen Community Middle School,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.3,2,0.3,2,0,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,290,129,145,290
+19K659,Cypress Hills Collegiate Preparatory School,HIGH SCHOOL,2.1,2,0.1,2,0,0,0.1,0,0,0,0.1,na,na,na,School Response Clinicians,na,na,"Partnership with Children, Inc.",348,162,174,348
+19K660,W. H. Maxwell Career and Technical Education High,HIGH SCHOOL,2.3,2,0.3,2,0,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,396,176,198,396
+19K661,Vista Academy,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.3,1,0.3,1,0,0,0.3,0,0,0,0.3,na,na,High Needs GC,School Response Clinicians,na,na,na,474,379,474,474
+19K662,Liberty Avenue Middle School,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.3,1,1.3,1,1,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,514,228,514,411
+19K663,School of the Future Brooklyn,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.3,1,0.3,1,0,0,0.3,0,0,0,0.3,na,na,High Needs GC,School Response Clinicians,na,na,na,172,138,172,172
+19K677,East New York Elementary School of Excellence,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,500,250,500,500
+19K678,East New York Middle School of Excellence,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.3,1,0.3,1,0,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,260,208,260,260
+19K683,School for Classics High School,HIGH SCHOOL,2.3,2,0.3,2,0,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,264,117,132,264
+19K760,Highland Park Community School,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.3,0,1.3,0,1,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,363,290,363,290
+19K764,The Urban Assembly School for Collaborative Health,HIGH SCHOOL,3.1,2,1.1,2,1,0,0.1,0,0,0,0.1,na,na,na,School Response Clinicians,na,na,na,335,107,168,293
+19K907,Legacy School of the Arts,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.3,1,0.3,1,0,0,0.3,0,0,0,0.3,na,na,High Needs GC,School Response Clinicians,na,na,na,122,98,122,122
+19K938,P.S. 938,ELEMENTARY,0.2,0,0.2,0,0,0,0.2,0,0,0,0,na,na,na,na,na,na,na,60,60,60,60
+19K953,The East New York Arts and Civics High School,HIGH SCHOOL,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,163,163,163,163
+20K030,P.S./I.S. 30 Mary White Ovington,K-8,3.0,2,1,2,1,0,0,0,0,0,0,na,High Needs SW,na,na,na,na,na,974,325,487,974
+20K048,P.S. 048 Mapleton,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,569,569,569,569
+20K062,J.H.S. 062 Ditmas,JUNIOR HIGH-INTERMEDIATE-MIDDLE,3.2,3,0.2,3,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,1173,367,391,1173
+20K069,P.S. 69 Vincent D. Grippo School,ELEMENTARY,2.0,1,1,1,1,0,0,0,1,0,0,na,na,na,na,na,na,na,772,386,772,772
+20K102,P.S. 102 The Bayview,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,1405,703,1405,1405
+20K104,P.S./I.S. 104 The Fort Hamilton School,K-8,2.0,1,1,1,1,0,0,0,1,0,0,na,na,na,na,na,na,na,1222,611,1222,1222
+20K105,P.S. 105 The Blythebourne,ELEMENTARY,4.0,3,1,3,1,0,0,3,0,0,0,na,na,na,na,na,na,na,1382,346,461,1382
+20K112,P.S. 112 Lefferts Park,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,727,727,727,727
+20K127,P.S. 127 Mckinley Park,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,517,517,517,517
+20K160,P.S. 160 William T. Sampson,ELEMENTARY,4.0,3,1,3,1,0,0,0,0,0,0,na,na,na,na,na,na,na,1234,309,411,1234
+20K163,P.S. 163 Bath Beach,K-8,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,633,633,633,633
+20K164,P.S. 164 Caesar Rodney,ELEMENTARY,2.0,1,1,1,1,0,0,0,1,0,0,na,na,na,na,na,na,na,674,337,674,674
+20K170,Ralph A. Fabrizio School,ELEMENTARY,3.0,2,1,2,1,0,0,0,0,0,0,na,na,na,na,na,na,na,1019,340,510,1019
+20K176,P.S. 176 Ovington,ELEMENTARY,2.0,1,1,1,1,0,0,0,1,0,0,na,na,na,na,na,na,na,1224,612,1224,1224
+20K179,P.S. 179 Kensington,ELEMENTARY,3.0,2,1,2,1,0,0,0,1,0,0,na,na,na,na,na,na,na,807,269,404,807
+20K180,The SEEALL Academy,K-8,4.0,3,1,3,1,0,0,0,0,0,0,na,High Needs SW,na,na,na,na,na,1072,268,357,1072
+20K185,P.S. 185 Walter Kassenbrock,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,643,322,643,643
+20K186,P.S. 186 Dr. Irving A Gladstone,ELEMENTARY,3.0,2,1,2,1,0,0,0,0,0,0,na,na,na,na,na,na,na,1118,373,559,1118
+20K187,The Christa McAuliffe School\I.S. 187,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.1,2,0.1,2,0,0,0.1,1,0,0,0.1,na,na,na,School Response Clinicians,na,na,na,982,458,491,982
+20K192,P.S. 192 - The Magnet School for Math and Science,K-8,4.0,3,1,3,1,0,0,0,0,0,0,na,High Needs SW,High Needs GC,na,na,na,na,642,161,214,642
+20K200,P.S. 200 Benson School,ELEMENTARY,3.0,2,1,2,1,0,0,1,1,0,0,na,na,na,na,na,na,na,1335,445,668,1335
+20K201,J.H.S. 201 The Dyker Heights,JUNIOR HIGH-INTERMEDIATE-MIDDLE,3.2,3,0.2,3,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,1743,550,581,1743
+20K204,P.S. 204 Vince Lombardi,ELEMENTARY,3.0,2,1,2,1,0,0,0,0,0,0,na,na,na,na,na,na,na,1114,371,557,1114
+20K205,P.S. 205 Clarion,ELEMENTARY,2.0,1,1,1,1,0,0,0,1,0,0,na,na,na,na,na,na,na,1297,649,1297,1297
+20K220,J.H.S. 220 John J. Pershing,JUNIOR HIGH-INTERMEDIATE-MIDDLE,3.1,3,0.1,3,0,0,0.1,0,0,0,0.1,na,na,na,School Response Clinicians,na,na,na,1494,475,498,1494
+20K223,J.H.S. 223 The Montauk,JUNIOR HIGH-INTERMEDIATE-MIDDLE,3.1,3,0.1,3,0,0,0.1,1,0,0,0.1,na,na,na,School Response Clinicians,na,na,na,892,284,297,892
+20K227,J.H.S. 227 Edward B. Shallow,JUNIOR HIGH-INTERMEDIATE-MIDDLE,3.1,3,0.1,3,0,0,0.1,1,0,0,0.1,na,na,na,School Response Clinicians,na,na,na,1637,521,546,1637
+20K229,P.S. 229 Dyker,K-8,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,1252,626,1252,1252
+20K247,P.S. 247 Brooklyn,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,853,853,853,853
+20K259,J.H.S. 259 William McKinley,JUNIOR HIGH-INTERMEDIATE-MIDDLE,3.2,3,0.2,3,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,1864,589,621,1864
+20K264,P.S. 264 Bay Ridge Elementary School For The Arts,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,High Needs SW,na,na,na,na,na,461,231,461,461
+20K310,The School For Future Leaders,ELEMENTARY,1.0,1,0,1,0,0,0,1,0,0,0,na,na,na,na,na,na,na,436,436,436,436
+20K445,New Utrecht High School,HIGH SCHOOL,19.2,16,3.2,16,3,0,0.2,4,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,3480,182,218,1099
+20K485,High School of Telecommunication Arts and Technolo,HIGH SCHOOL,6.1,4,2.1,4,2,0,0.1,1,1,0,0.1,na,na,na,School Response Clinicians,na,na,na,1225,199,306,572
+20K490,Fort Hamilton High School,HIGH SCHOOL,23.2,19,4.2,19,4,0,0.2,0,1,0,0.2,na,na,na,School Response Clinicians,na,na,na,4657,201,245,1118
+20K503,P.S. 503: The School of Discovery,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,941,471,941,941
+20K505,Franklin Delano Roosevelt High School,HIGH SCHOOL,17.2,15,2.2,15,2,0,0.2,2,1,0,0.2,na,na,na,School Response Clinicians,na,na,na,3300,192,220,1523
+20K506,P.S. 506: The School of Journalism & Technology,ELEMENTARY,3.0,2,1,2,1,0,0,0,1,0,0,na,na,na,na,na,na,na,737,246,369,737
+20K609,Urban Assembly School for Criminal Justice,SECONDARY SCHOOL,2.1,2,0.1,2,0,0,0.1,0,0,0,0.1,na,na,na,School Response Clinicians,na,na,na,559,261,280,559
+20K682,The Academy of Talented Scholars,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,High Needs SW,na,na,na,na,na,419,210,419,419
+20K686,Brooklyn School of Inquiry,K-8,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,534,267,534,534
+20K748,P.S. 748 Brooklyn School for Global Scholars,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,504,504,504,504
+20K936,MS 936 Arts Off 3rd,JUNIOR HIGH-INTERMEDIATE-MIDDLE,0.6,0.6,0,0,0,0.6,0,0,0,0,0,na,na,na,na,na,na,na,148,148,148,148
+20K939,Sunset School of Cultural Learning,ELEMENTARY,In progress (interviewing),0,0,0,0,0,0,0,0,0,0,na,na,na,na,na,na,na,64,see note in column D,see note in column D,see note in column D
+20K971,"School of Math, Science, and Healthy Living",ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,312,312,312,312
+21K090,P.S. 90 Edna Cohen School,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,590,590,590,590
+21K095,P.S. 095 The Gravesend,K-8,4.0,2,2,2,2,0,0,0,0,0,0,na,High Needs SW,na,na,na,na,na,992,248,496,496
+21K096,I.S. 096 Seth Low,JUNIOR HIGH-INTERMEDIATE-MIDDLE,3.0,3,0,3,0,0,0,0,0,0,0,na,na,na,na,na,na,na,835,278,278,835
+21K097,P.S. 97 The Highlawn,ELEMENTARY,1.0,0,1,0,1,0,0,0,0,0,0,na,na,na,na,na,na,na,746,746,746,746
+21K098,I.S. 98 Bay Academy,JUNIOR HIGH-INTERMEDIATE-MIDDLE,3.6,2.6,1,2,1,0.6,0,0,0,0.6,0,na,na,na,na,na,na,na,1601,445,616,1601
+21K099,P.S. 099 Isaac Asimov,K-8,2.0,1,1,1,1,0,0,0,1,0,0,na,na,na,na,na,na,na,890,445,890,890
+21K100,P.S. 100 The Coney Island School,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,832,416,832,832
+21K101,P.S. 101 The Verrazano,ELEMENTARY,2.0,1,1,1,1,0,0,0,1,0,0,na,na,na,na,na,na,na,927,464,927,927
+21K121,P.S. 121 Nelson A. Rockefeller,K-8,3.0,2,1,2,1,0,0,0,0,0,0,na,High Needs SW,na,na,na,na,na,333,111,167,333
+21K128,P.S. 128 Bensonhurst,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,High Needs SW,na,na,na,na,na,456,228,456,456
+21K153,P.S. 153 Homecrest,ELEMENTARY,1.0,0,1,0,1,0,0,0,1,0,0,na,na,na,na,na,na,na,585,585,585,585
+21K177,P.S. 177 The Marlboro,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,985,493,985,985
+21K188,P.S. 188 Michael E. Berdy,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,344,172,344,344
+21K199,P.S. 199 Frederick Wachtel,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,571,571,571,571
+21K209,P.S. 209 Margaret Mead,K-8,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,742,371,742,742
+21K212,P.S. 212 Lady Deborah Moody,ELEMENTARY,2.0,1,1,1,1,0,0,0,1,0,0,na,na,na,na,na,na,na,694,347,694,694
+21K215,P.S. 215 Morris H. Weiss,ELEMENTARY,2.4,1.4,1,1,1,0.4,0,0,0,0.4,0,na,na,na,na,na,na,na,827,345,591,827
+21K216,P.S. 216 Arturo Toscanini,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,765,383,765,765
+21K225,P.S. K225 - The Eileen E. Zaglin,K-8,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,1005,1005,1005,1005
+21K226,P.S. 226 Alfred De B. Mason,K-8,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,1029,1029,1029,1029
+21K228,I.S. 228 David A. Boody,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,1498,749,1498,1498
+21K238,P.S. 238 Anne Sullivan,K-8,3.0,2,1,2,1,0,0,0,1,0,0,na,na,na,na,na,na,na,605,202,303,605
+21K239,Mark Twain I.S. 239 for the Gifted & Talented,JUNIOR HIGH-INTERMEDIATE-MIDDLE,3.0,2,1,2,1,0,0,1,0,0,0,na,na,na,na,na,na,na,1345,448,673,1345
+21K253,P.S. 253,ELEMENTARY,2.0,1,1,1,1,0,0,0,1,0,0,na,na,na,na,na,na,na,944,472,944,944
+21K281,I.S. 281 Joseph B Cavallaro,JUNIOR HIGH-INTERMEDIATE-MIDDLE,4.0,2,2,2,2,0,0,0,0,0,0,na,na,na,na,na,na,na,1259,315,630,630
+21K288,P.S. 288 The Shirley Tanyhill,K-8,2.0,1,1,1,1,0,0,0,1,0,0,na,na,na,na,na,na,na,578,289,578,578
+21K303,I.S. 303 Herbert S. Eisenberg,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.0,1,1,1,1,0,0,0,0,0,0,na,High Needs SW,na,na,na,na,na,573,287,573,573
+21K329,P.S. 329 Surfside,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,379,379,379,379
+21K337,International High School at Lafayette,HIGH SCHOOL,4.2,2,2.2,2,2,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,365,88,183,168
+21K344,Rachel Carson High School for Coastal Studies,HIGH SCHOOL,4.3,4,0.3,4,0,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,619,143,155,619
+21K348,High School of Sports Management,HIGH SCHOOL,1.2,1,0.2,1,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,269,231,269,269
+21K410,Abraham Lincoln High School,HIGH SCHOOL,11.2,7,4.2,7,4,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,1837,165,262,441
+21K468,Kingsborough Early College School,SECONDARY SCHOOL,1.2,1,0.2,1,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,704,603,704,704
+21K525,Edward R. Murrow High School,HIGH SCHOOL,15.3,14,1.3,14,1,0,0.3,2,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,3560,233,254,2848
+21K540,John Dewey High School,HIGH SCHOOL,12.2,11,1.2,11,1,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,2199,181,200,1885
+21K559,Life Academy High School for Film and Music,HIGH SCHOOL,2.2,2,0.2,2,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,278,128,139,278
+21K572,Leaders High School,HIGH SCHOOL,3.0,1,2,1,2,0,0,0,0,0,0,na,na,na,na,na,na,na,387,129,387,194
+21K620,William E. Grady Career and Technical Education Hi,HIGH SCHOOL,4.0,2,2,2,2,0,0,0,0,0,0,na,na,na,na,na,na,na,453,113,227,227
+21K690,Brooklyn Studio Secondary School,SECONDARY SCHOOL,5.2,5,0.2,5,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,926,179,185,926
+21K728,Liberation Diploma Plus,HIGH SCHOOL,3.0,2,1,2,1,0,0,1,0,0,0,na,High Needs SW,na,na,na,Learning to Work,na,223,74,112,223
+22K014,J.H.S. 014 Shell Bank,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.3,1,0.3,1,0,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,533,400,533,533
+22K052,P.S. 052 Sheepshead Bay,ELEMENTARY,3.0,1,2,1,2,0,0,0,0,0,0,Bridging the Gap,na,na,na,na,na,na,803,268,803,402
+22K078,J.H.S. 078 Roy H. Mann,JUNIOR HIGH-INTERMEDIATE-MIDDLE,4.3,3,1.3,3,1,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,548,129,183,438
+22K109,P.S. 109,K-8,4.0,2,2,2,2,0,0,0,0,0,0,Bridging the Gap,na,na,na,na,na,na,516,129,258,258
+22K119,P.S. 119 Amersfort,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,434,434,434,434
+22K134,P.S. K134,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,608,608,608,608
+22K139,P.S. 139 Alexine A. Fenty,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,896,448,896,896
+22K152,School of Science & Technology,ELEMENTARY,2.0,1,1,1,1,0,0,0,1,0,0,na,na,na,na,na,na,na,595,298,595,595
+22K193,P.S. 193 Gil Hodges,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,652,326,652,652
+22K194,P.S. 194 Raoul Wallenberg,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,545,273,545,545
+22K195,P.S. 195 Manhattan Beach,ELEMENTARY,0.4,0.4,0,0,0,0.4,0,0,0,0.4,0,na,na,na,na,na,na,na,486,486,486,486
+22K197,P.S. 197 - The Kings Highway Academy,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,857,857,857,857
+22K198,P.S. 198 Brooklyn,ELEMENTARY,2.0,0,2,0,2,0,0,0,0,0,0,na,na,na,na,na,na,na,391,196,391,196
+22K203,P.S. 203 Floyd Bennett School,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,605,303,605,605
+22K206,P.S. 206 Joseph F Lamb,K-8,4.0,3,1,3,1,0,0,0,0,0,0,na,na,na,na,na,na,na,1529,382,510,1529
+22K207,P.S. 207 Elizabeth G. Leary,K-8,3.4,2.4,1,2,1,0.4,0,0,0,0.4,0,na,na,na,na,na,na,na,1082,318,451,1082
+22K217,P.S. 217 Colonel David Marcus School,ELEMENTARY,3.0,1,2,1,2,0,0,0,1,0,0,na,na,na,na,na,na,na,1123,374,1123,562
+22K222,P.S. 222 Katherine R. Snyder,ELEMENTARY,3.0,1,2,1,2,0,0,0,0,0,0,na,na,na,na,na,na,na,860,287,860,430
+22K234,J.H.S. 234 Arthur W. Cunningham,JUNIOR HIGH-INTERMEDIATE-MIDDLE,3.3,3,0.3,3,0,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,1557,467,519,1557
+22K236,P.S. 236 Mill Basin,ELEMENTARY,0.6,0.6,0,0,0,0.6,0,0,0,0.6,0,na,na,na,na,na,na,na,605,605,605,605
+22K240,Andries Hudde,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.2,2,0.2,2,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,678,308,339,678
+22K245,P.S. 245,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,269,269,269,269
+22K251,P.S. 251 Paerdegat,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,432,216,432,432
+22K254,P.S. 254 Dag Hammarskjold,ELEMENTARY,0.6,0.6,0,0,0,0.6,0,0,0,0.6,0,na,na,na,na,na,na,na,749,749,749,749
+22K255,P.S. 255 Barbara Reing School,ELEMENTARY,3.0,2,1,2,1,0,0,0,0,0,0,na,na,na,na,na,na,na,865,288,433,865
+22K277,P.S. 277 Gerritsen Beach,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,420,420,420,420
+22K278,J.H.S. 278 Marine Park,JUNIOR HIGH-INTERMEDIATE-MIDDLE,4.3,3,1.3,3,1,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,1213,285,404,970
+22K312,P.S. 312 Bergen Beach,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,740,370,740,740
+22K315,P.S. K315,ELEMENTARY,2.0,1,1,1,1,0,0,0,1,0,0,na,na,na,na,na,na,na,630,315,630,630
+22K326,P.S. 326,EARLY CHILDHOOD,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,143,143,143,143
+22K361,P.S. 361 East Flatbush Early Childhood School,ELEMENTARY,3.0,2,1,2,1,0,0,0,1,0,0,na,na,na,na,na,na,na,557,186,279,557
+22K381,I. S. 381,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.2,1,0.2,1,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,286,238,286,286
+22K405,Midwood High School,HIGH SCHOOL,18.3,14,4.3,14,4,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,4054,222,290,954
+22K425,James Madison High School,HIGH SCHOOL,20.3,18,2.3,18,2,0,0.3,2,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,3878,192,215,1724
+22K535,Leon M. Goldstein High School for the Sciences,HIGH SCHOOL,5.3,4,1.3,4,1,0,0.3,1,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,977,186,244,782
+22K555,Brooklyn College Academy,HIGH SCHOOL,3.3,2,1.3,2,1,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,652,201,326,522
+22K611,Origins High School,HIGH SCHOOL,4.3,3,1.3,3,1,0,0.3,1,0,0,0.3,na,na,High Needs GC,School Response Clinicians,na,na,na,407,96,136,326
+22K630,Professional Pathways High School,HIGH SCHOOL,2.0,2,0,2,0,0,0,0,0,0,0,na,na,na,na,na,Learning to Work,na,206,103,103,206
+22K889,P.S. 889,ELEMENTARY,0.4,0.4,0,0,0,0.4,0,0,0,0,0,na,na,na,na,na,na,na,197,197,197,197
+22K890,M.S. 890,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.2,1,0.2,1,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,291,242,291,291
+23K041,P.S. 041 Francis White,K-8,3.0,2,1,2,1,0,0,0,0,0,0,na,na,na,na,Single Shepherd,na,na,332,111,166,332
+23K137,P.S./I.S. 137 Rachel Jean Mitchell,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,Bridging the Gap,na,na,na,na,na,na,194,97,194,194
+23K150,P.S. 150 Christopher,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,High Needs SW,na,na,na,na,na,191,96,191,191
+23K155,P.S./ I.S. 155 Nicholas Herkimer,K-8,3.0,2,1,2,1,0,0,1,0,0,0,Bridging the Gap,na,na,na,Single Shepherd,na,na,388,129,194,388
+23K156,P.S. 156 Waverly,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,577,577,577,577
+23K165,P.S. 165 Ida Posner,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,"Partnership with Children, Inc.",286,286,286,286
+23K178,P.S. 178 Saint Clair Mckelway,K-8,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,Single Shepherd,na,na,320,160,320,320
+23K184,P.S. 184 Newport,K-8,4.0,2,2,2,2,0,0,0,0,0,0,na,na,na,na,Single Shepherd,na,na,523,131,262,262
+23K284,"The Gregory Jocko Jackson School of Sports, Art, a",ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,"Counseling In Schools, Inc.",281,141,281,281
+23K298,P.S. 298 Dr. Betty Shabazz,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,The Children's Aid Society,307,154,307,307
+23K323,P.S./I.S. 323,K-8,3.0,1,2,1,2,0,0,0,0,0,0,na,na,na,na,Single Shepherd,na,na,555,185,555,278
+23K327,P.S. 327 Dr. Rose B. English,ELEMENTARY,3.0,1,2,1,2,0,0,0,0,0,0,Bridging the Gap,na,na,na,na,na,na,292,97,292,146
+23K363,Brownsville Collaborative Middle School,JUNIOR HIGH-INTERMEDIATE-MIDDLE,4.0,2,2,2,2,0,0,1,0,0,0,na,na,na,na,Single Shepherd,na,na,273,68,137,137
+23K392,I.S. 392,JUNIOR HIGH-INTERMEDIATE-MIDDLE,3.0,2,1,2,1,0,0,0,0,0,0,na,na,na,na,Single Shepherd,na,na,326,109,163,326
+23K401,Christopher Avenue Community School,ELEMENTARY,3.0,1,2,1,2,0,0,0,1,0,0,Bridging the Gap,na,na,na,na,na,na,324,108,324,162
+23K446,Riverdale Avenue Community School,ELEMENTARY,3.0,0,3,0,3,0,0,0,0,0,0,Bridging the Gap,na,na,na,na,na,na,359,120,359,120
+23K493,Brooklyn Collegiate: A College Board School,HIGH SCHOOL,4.3,3,1.3,3,1,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,Single Shepherd,na,"Counseling In Schools, Inc.",305,72,102,244
+23K514,Frederick Douglass Academy VII High School,HIGH SCHOOL,3.0,2,1,2,1,0,0,0,0,0,0,na,na,na,na,Single Shepherd,na,na,140,47,70,140
+23K518,Kappa V (Knowledge and Power Preparatory Academy),JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.6,1.6,1,1,1,0.6,0,0,0,0.6,0,na,na,na,na,Single Shepherd,na,na,181,70,113,181
+23K522,Mott Hall IV,JUNIOR HIGH-INTERMEDIATE-MIDDLE,3.0,2,1,2,1,0,0,0,0,0,0,na,na,High Needs GC,na,Single Shepherd,na,na,149,50,75,149
+23K599,Brooklyn Landmark Elementary School,ELEMENTARY,3.0,1,2,1,2,0,0,0,0,0,0,na,na,na,na,na,na,na,411,137,411,206
+23K643,Brooklyn Democracy Academy,HIGH SCHOOL,3.0,1,2,1,2,0,0,0,0,0,0,na,na,na,na,Single Shepherd,Learning to Work,na,196,65,196,98
+23K644,Eagle Academy for Young Men II,SECONDARY SCHOOL,6.4,4.4,2,4,2,0.4,0,0,0,0,0,na,na,na,na,Single Shepherd,na,na,635,99,144,318
+23K647,Metropolitan Diploma Plus High School,HIGH SCHOOL,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,Single Shepherd,Learning to Work,na,191,96,191,191
+23K664,Brooklyn Environmental Exploration School (BEES),JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.4,1.4,1,1,1,0.4,0,0,0,0.4,0,na,na,High Needs GC,na,Single Shepherd,na,na,179,75,128,179
+23K668,Riverdale Avenue Middle School,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.0,0,1,0,1,0,0,0,0,0,0,na,na,na,na,na,na,na,142,142,142,142
+23K671,Mott Hall Bridges Academy,JUNIOR HIGH-INTERMEDIATE-MIDDLE,3.0,2,1,2,1,0,0,0,0,0,0,na,na,na,na,Single Shepherd,na,na,203,68,102,203
+23K697,Teachers Preparatory High School,HIGH SCHOOL,2.3,2,0.3,2,0,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,Single Shepherd,na,na,163,72,82,163
+24Q005,I.S. 5 - The Walter Crowley Intermediate School,JUNIOR HIGH-INTERMEDIATE-MIDDLE,4.3,4,0.3,4,0,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,1755,413,439,1755
+24Q007,P.S. 007 Louis F. Simeone,ELEMENTARY,5.0,4,1,4,1,0,0,1,0,0,0,na,na,na,na,na,na,na,1342,268,336,1342
+24Q012,P.S. 012 James B. Colgate,ELEMENTARY,2.4,1.4,1,1,1,0.4,0,1,1,0,0,na,na,na,na,na,na,na,1125,469,804,1125
+24Q013,P.S. 013 Clement C. Moore,ELEMENTARY,4.0,3,1,3,1,0,0,0,1,0,0,na,na,na,na,na,na,na,1391,348,464,1391
+24Q014,P.S. 014 Fairview,ELEMENTARY,6.0,5,1,5,1,0,0,0,1,0,0,na,na,na,na,na,na,na,1390,232,278,1390
+24Q016,P.S. Q016 The Nancy DeBenedittis School,ELEMENTARY,4.0,2,2,2,2,0,0,1,1,0,0,na,na,na,na,na,na,na,1410,353,705,705
+24Q019,P.S. 019 Marino Jeantet,ELEMENTARY,5.0,4,1,4,1,0,0,1,1,0,0,na,na,na,na,na,na,na,1846,369,462,1846
+24Q028,P.S. 28 - The Thomas Emanuel Early Childhood Cente,EARLY CHILDHOOD,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,468,468,468,468
+24Q049,P.S. 049 Dorothy Bonawit Kole,K-8,2.0,1,1,1,1,0,0,0,1,0,0,na,na,na,na,na,na,na,1195,598,1195,1195
+24Q058,P.S. 58 - The School of Heroes,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,969,969,969,969
+24Q061,I.S. 061 Leonardo Da Vinci,JUNIOR HIGH-INTERMEDIATE-MIDDLE,8.2,6,2.2,6,2,0,0.2,1,1,0,0.2,na,na,na,School Response Clinicians,na,na,na,2265,277,378,1045
+24Q068,P.S. 068 Cambridge,ELEMENTARY,2.0,1,1,1,1,0,0,0,1,0,0,na,na,na,na,na,na,na,543,272,543,543
+24Q071,P.S. 071 Forest,ELEMENTARY,3.0,2,1,2,1,0,0,1,1,0,0,na,na,na,na,na,na,na,671,224,336,671
+24Q073,I.S. 73 - The Frank Sansivieri Intermediate School,JUNIOR HIGH-INTERMEDIATE-MIDDLE,6.3,6,0.3,6,0,0,0.3,1,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,2007,321,335,2007
+24Q077,I.S. 077,JUNIOR HIGH-INTERMEDIATE-MIDDLE,3.1,3,0.1,3,0,0,0.1,0,0,0,0.1,na,na,na,School Response Clinicians,na,na,na,875,278,292,875
+24Q081,P.S. 81Q Jean Paul Richter,ELEMENTARY,2.0,1,1,1,1,0,0,0,1,0,0,na,na,na,na,na,na,na,625,313,625,625
+24Q087,P.S./I.S. 087 Middle Village,K-8,2.0,1,1,1,1,0,0,0,1,0,0,na,na,na,na,na,na,na,607,304,607,607
+24Q088,P.S. 088 Seneca,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,790,395,790,790
+24Q089,P.S. 089 Elmhurst,ELEMENTARY,3.0,2,1,2,1,0,0,0,1,0,0,na,na,na,na,na,na,na,1707,569,854,1707
+24Q091,P.S. 091 Richard Arkwright,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,782,391,782,782
+24Q093,I.S. 093 Ridgewood,JUNIOR HIGH-INTERMEDIATE-MIDDLE,4.1,3,1.1,3,1,0,0.1,1,0,0,0.1,na,na,na,School Response Clinicians,na,na,na,1155,279,385,1011
+24Q102,P.S. 102 Bayview,K-8,3.2,2.2,1,2,1,0.2,0,0,0,0.2,0,Bridging the Gap,na,na,na,na,na,na,1279,400,581,1279
+24Q110,P.S. 110,ELEMENTARY,2.0,2,0,2,0,0,0,1,0,0,0,na,na,na,na,na,na,na,980,490,490,980
+24Q113,P.S./I.S. 113 Anthony J. Pranzo,K-8,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,866,866,866,866
+24Q119,P.S./I.S. 119 The Glendale,K-8,3.0,2,1,2,1,0,0,0,0,0,0,na,High Needs SW,na,na,na,na,na,1320,440,660,1320
+24Q125,I.S. 125 Thom J. McCann Woodside,JUNIOR HIGH-INTERMEDIATE-MIDDLE,5.3,4,1.3,4,1,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,1458,278,365,1166
+24Q128,"P.S. 128 The Lorraine Tuzzo, Juniper Valley Elemen",K-8,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,956,956,956,956
+24Q143,P.S. 143 Louis Armstrong,ELEMENTARY,3.0,2,1,2,1,0,0,1,0,0,0,Bridging the Gap,na,na,na,na,na,na,1276,425,638,1276
+24Q153,P.S. 153 Maspeth Elem,ELEMENTARY,3.0,2,1,2,1,0,0,0,0,0,0,na,na,na,na,na,na,na,1057,352,529,1057
+24Q199,P.S. 199 Maurice A. Fitzgerald,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,688,344,688,688
+24Q211,Elm Tree Elementary School,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,658,658,658,658
+24Q229,P.S. 229 Emanuel Kaplan,ELEMENTARY,3.0,2,1,2,1,0,0,0,1,0,0,na,na,na,na,na,na,na,1391,464,696,1391
+24Q236,International High School for Health Sciences,HIGH SCHOOL,2.3,2,0.3,2,0,0,0.3,2,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,291,129,146,291
+24Q239,P.S. 239,ELEMENTARY,2.0,1,1,1,1,0,0,0,1,0,0,na,na,na,na,na,na,na,514,257,514,514
+24Q264,Academy of Finance and Enterprise,HIGH SCHOOL,2.0,2,0,2,0,0,0,1,0,0,0,na,na,na,na,na,na,na,677,339,339,677
+24Q267,High School of Applied Communication,HIGH SCHOOL,1.0,1,0,1,0,0,0,0,0,0,0,na,High Needs SW,na,na,na,na,na,408,408,408,408
+24Q290,A.C.E. Academy for Scholars at the Geraldine Ferra,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,High Needs SW,na,na,na,na,na,583,292,583,583
+24Q293,Civic Leadership Academy,HIGH SCHOOL,3.0,3,0,3,0,0,0,1,0,0,0,na,na,na,na,na,na,na,646,215,215,646
+24Q296,Pan American International High School,HIGH SCHOOL,4.0,3,1,3,1,0,0,0,0,0,0,na,na,na,na,na,na,na,433,108,144,433
+24Q299,Bard High School Early College Queens,HIGH SCHOOL,3.0,3,0,3,0,0,0,0,0,0,0,na,na,na,na,na,na,na,637,212,212,637
+24Q305,Learners and Leaders,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,564,564,564,564
+24Q307,Pioneer Academy,ELEMENTARY,1.0,0,1,0,1,0,0,0,0,0,0,na,na,na,na,na,na,na,873,873,873,873
+24Q311,Corona Arts & Sciences Academy,JUNIOR HIGH-INTERMEDIATE-MIDDLE,3.2,3,0.2,3,0,0,0.2,1,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,762,241,254,762
+24Q330,Helen M. Marshall School,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,High Needs SW,na,na,na,na,na,491,246,491,491
+24Q343,The Children's Lab School,ELEMENTARY,1.2,0.2,1,0,1,0.2,0,0,1,0.2,0,na,na,na,na,na,na,na,488,407,488,488
+24Q455,Newtown High School,HIGH SCHOOL,10.6,9,1.6,9,1,0,0.6,3,1,0,0.6,na,na,na,School Response Clinicians,na,na,na,1657,156,184,1009
+24Q485,Grover Cleveland High School,HIGH SCHOOL,9.0,8,1,8,1,0,0,0,0,0,0,na,na,na,na,na,na,na,1683,187,210,1683
+24Q520,Middle College High School at LaGuardia Community,HIGH SCHOOL,5.0,3,2,3,2,0,0,0,0,0,0,na,na,na,na,na,na,na,507,101,169,254
+24Q530,International High School at LaGuardia Community C,HIGH SCHOOL,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,519,519,519,519
+24Q550,High School for Arts and Business,HIGH SCHOOL,3.0,3,0,3,0,0,0,0,0,0,0,na,na,na,na,na,na,na,778,259,259,778
+24Q560,"Robert F. Wagner, Jr. Secondary School for Arts an",SECONDARY SCHOOL,3.3,3,0.3,3,0,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,653,201,218,653
+24Q585,Maspeth High School,HIGH SCHOOL,3.3,1,2.3,1,2,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,1232,379,1232,548
+24Q600,Queens Technical High School,HIGH SCHOOL,7.0,6,1,6,1,0,0,2,0,0,0,na,na,na,na,na,na,na,1461,209,244,1461
+24Q610,Aviation Career & Technical Education High School,HIGH SCHOOL,7.0,6,1,6,1,0,0,0,0,0,0,na,na,na,na,na,na,na,2064,295,344,2064
+24Q744,VOYAGES Preparatory,HIGH SCHOOL,1.0,1,0,1,0,0,0,0,0,0,0,na,na,High Needs GC,na,na,Learning to Work,na,240,240,240,240
+25Q020,P.S. 020 John Bowne,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,High Needs SW,na,na,na,na,na,1190,595,1190,1190
+25Q021,P.S. 021 Edward Hart,ELEMENTARY,3.0,2,1,2,1,0,0,0,1,0,0,na,na,na,na,na,na,na,1332,444,666,1332
+25Q022,P.S. 022 Thomas Jefferson,ELEMENTARY,2.0,2,0,2,0,0,0,0,0,0,0,na,na,na,na,na,na,na,864,432,432,864
+25Q024,P.S. 024 Andrew Jackson,ELEMENTARY,3.0,2,1,2,1,0,0,1,0,0,0,na,na,na,na,na,na,na,1085,362,543,1085
+25Q025,I.S. 025 Adrien Block,JUNIOR HIGH-INTERMEDIATE-MIDDLE,4.0,3,1,3,1,0,0,0,0,0,0,na,na,na,na,na,na,na,1066,267,355,1066
+25Q029,P.S. 029 Queens,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,712,712,712,712
+25Q032,P.S. 032 State Street,ELEMENTARY,2.0,1,1,1,1,0,0,0,1,0,0,na,na,na,na,na,na,na,1026,513,1026,1026
+25Q079,P.S. 079 Francis Lewis,ELEMENTARY,2.0,1,1,1,1,0,0,0,1,0,0,na,na,na,na,na,na,na,1093,547,1093,1093
+25Q107,P.S. 107 Thomas A Dooley,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,936,468,936,936
+25Q120,P.S. 120 Queens,ELEMENTARY,3.0,2,1,2,1,0,0,0,1,0,0,na,na,na,na,na,na,na,913,304,457,913
+25Q129,P.S. 129 Patricia Larkin,ELEMENTARY,4.0,3,1,3,1,0,0,0,0,0,0,na,na,na,na,na,na,na,1113,278,371,1113
+25Q130,P.S. 130,ELEMENTARY,0.3,0.3,0,0,0,0.3,0,0.3,0,0.3,0,na,na,na,na,na,na,na,403,403,403,403
+25Q154,P.S. 154 Queens,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,647,647,647,647
+25Q163,P.S. 163 Flushing Heights,ELEMENTARY,2.0,1,1,1,1,0,0,0,1,0,0,na,na,na,na,na,na,na,807,404,807,807
+25Q164,P.S. 164 Queens Valley,K-8,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,668,668,668,668
+25Q165,P.S. 165 Edith K. Bergtraum,ELEMENTARY,3.0,2,1,2,1,0,0,0,1,0,0,na,na,na,na,na,na,na,712,237,356,712
+25Q169,P.S. 169 Bay Terrace,ELEMENTARY,0.6,0.6,0,0,0,0.6,0,0,0,0.6,0,na,na,na,na,na,na,na,385,385,385,385
+25Q184,P.S. 184 Flushing Manor,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,529,529,529,529
+25Q185,J.H.S. 185 Edward Bleeker,JUNIOR HIGH-INTERMEDIATE-MIDDLE,4.0,3,1,3,1,0,0,0,0,0,0,na,na,na,na,na,na,na,1471,368,490,1471
+25Q189,J.H.S. 189 Daniel Carter Beard,JUNIOR HIGH-INTERMEDIATE-MIDDLE,4.0,3,1,3,1,0,0,1,1,0,0,na,na,na,na,na,na,na,735,184,245,735
+25Q193,P.S. 193 Alfred J. Kennedy,ELEMENTARY,1.6,0.6,1,0,1,0.6,0,0,0,0.6,0,na,na,na,na,na,na,na,571,357,571,571
+25Q194,J.H.S. 194 William Carr,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.4,2.4,0,2,0,0.4,0,1,0,0.4,0,na,na,na,na,na,na,na,1289,537,537,1289
+25Q200,P.S./M.S. 200 - The Magnet School of Global Studie,K-8,2.0,1,1,1,1,0,0,0,0,0,0,na,High Needs SW,na,na,na,na,na,548,274,548,548
+25Q201,P.S. 201 The Discovery School for Inquiry and Rese,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,464,232,464,464
+25Q209,P.S. 209 Clearview Gardens,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,553,277,553,553
+25Q214,P.S. 214 Cadwallader Colden,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,413,413,413,413
+25Q219,P.S. 219 Paul Klapper,K-8,3.0,2,1,2,1,0,0,1,0,0,0,na,na,na,na,na,na,na,638,213,319,638
+25Q237,I.S. 237,JUNIOR HIGH-INTERMEDIATE-MIDDLE,3.0,3,0,3,0,0,0,1,0,0,0,na,na,na,na,na,na,na,1355,452,452,1355
+25Q240,Veritas Academy,HIGH SCHOOL,4.0,3,1,3,1,0,0,1,0,0,0,na,na,na,na,na,na,na,608,152,203,608
+25Q241,Queens High School for Language Studies,HIGH SCHOOL,3.2,3,0.2,3,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,447,141,149,447
+25Q242,P.S. 242 Leonard P. Stavisky Early Childhood Schoo,EARLY CHILDHOOD,0.7,0.7,0,0,0,0.7,0,0.7,0,0.7,0,na,na,na,na,na,na,na,402,402,402,402
+25Q244,The Active Learning Elementary School,EARLY CHILDHOOD,0.4,0.4,0,0,0,0.4,0,0,0,0.4,0,na,na,na,na,na,na,na,475,475,475,475
+25Q250,I.S. 250 The Robert F. Kennedy Community Middle Sc,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.0,1,0,1,0,0,0,1,0,0,0,na,na,na,na,na,na,na,355,355,355,355
+25Q252,"Queens School of Inquiry, The",SECONDARY SCHOOL,4.2,3,1.2,3,1,0,0.2,1,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,597,143,199,512
+25Q263,Flushing International High School,HIGH SCHOOL,3.0,2,1,2,1,0,0,1,1,0,0,na,na,na,na,na,na,na,449,150,225,449
+25Q281,East-West School of International Studies,SECONDARY SCHOOL,2.2,2,0.2,2,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,666,307,333,666
+25Q285,World Journalism Preparatory: A College Board Scho,SECONDARY SCHOOL,2.0,2,0,2,0,0,0,0,0,0,0,na,na,na,na,na,na,na,606,303,303,606
+25Q294,BELL Academy,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,361,361,361,361
+25Q379,College Point Collaborative,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.0,2,0,2,0,0,0,0,0,0,0,na,na,na,na,na,na,na,339,170,170,339
+25Q425,John Bowne High School,HIGH SCHOOL,17.0,16,1,16,1,0,0,3,1,0,0,na,na,na,na,na,na,na,3432,202,215,3432
+25Q460,Flushing High School,HIGH SCHOOL,6.0,6,0,6,0,0,0,1,0,0,0,na,na,na,na,na,na,na,1483,247,247,1483
+25Q499,"The Queens College School for Math, Science and Te",K-8,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,523,523,523,523
+25Q525,Townsend Harris High School,HIGH SCHOOL,4.0,4,0,4,0,0,0,1,0,0,0,na,na,na,na,na,na,na,1219,305,305,1219
+25Q540,Queens Academy High School,HIGH SCHOOL,3.0,3,0,3,0,0,0,1,0,0,0,na,na,na,na,na,Learning to Work,na,393,131,131,393
+25Q670,Robert F. Kennedy Community High School,HIGH SCHOOL,3.0,3,0,3,0,0,0,0,0,0,0,na,na,na,na,na,na,na,675,225,225,675
+25Q792,North Queens Community High School,HIGH SCHOOL,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,Learning to Work,na,162,162,162,162
+26Q018,P.S. 018 Winchester,ELEMENTARY,0.6,0.6,0,0,0,0.6,0,0,0,0.6,0,na,na,na,na,na,na,na,506,506,506,506
+26Q026,P.S. 026 Rufus King,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,703,352,703,703
+26Q031,P.S. 031 Bayside,ELEMENTARY,0.4,0.4,0,0,0,0.4,0,0,0,0.4,0,na,na,na,na,na,na,na,506,506,506,506
+26Q041,P.S. 041 Crocheron,ELEMENTARY,1.0,0,1,0,1,0,0,0,0,0,0,na,na,na,na,na,na,na,471,471,471,471
+26Q046,P.S. 046 Alley Pond,ELEMENTARY,4.0,2,2,2,2,0,0,0,1,0,0,na,na,na,na,na,na,na,539,135,270,270
+26Q067,J.H.S. 067 Louis Pasteur,JUNIOR HIGH-INTERMEDIATE-MIDDLE,3.0,2,1,2,1,0,0,0,0,0,0,na,High Needs SW,na,na,na,na,na,1044,348,522,1044
+26Q074,J.H.S. 074 Nathaniel Hawthorne,JUNIOR HIGH-INTERMEDIATE-MIDDLE,3.0,2,1,2,1,0,0,0,0,0,0,na,na,na,na,na,na,na,1160,387,580,1160
+26Q094,P.S. 094 David D. Porter,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,342,342,342,342
+26Q098,P.S. 098 The Douglaston School,ELEMENTARY,0.6,0.6,0,0,0,0.6,0,0,0,0.6,0,na,na,na,na,na,na,na,283,283,283,283
+26Q115,The James J. Ambrose School,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,770,385,770,770
+26Q133,P.S. 133 Queens,ELEMENTARY,1.6,0.6,1,0,1,0.6,0,0,0,0.6,0,na,na,na,na,na,na,na,610,381,610,610
+26Q158,M.S. 158 Marie Curie,JUNIOR HIGH-INTERMEDIATE-MIDDLE,3.0,2,1,2,1,0,0,0,0,0,0,na,na,na,na,na,na,na,1065,355,533,1065
+26Q159,P.S. 159,ELEMENTARY,2.6,1.6,1,1,1,0.6,0,0,0,0.6,0,na,na,na,na,na,na,na,660,254,413,660
+26Q162,P.S. 162 John Golden,ELEMENTARY,1.6,0.6,1,0,1,0.6,0,0,1,0.6,0,na,na,na,na,na,na,na,649,406,649,649
+26Q172,Irwin Altman Middle School 172,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.0,2,0,2,0,0,0,0,0,0,0,na,na,na,na,na,na,na,1009,505,505,1009
+26Q173,P.S. 173 Fresh Meadows,ELEMENTARY,1.6,1.6,0,1,0,0.6,0,0,0,0.6,0,na,na,na,na,na,na,na,956,598,598,956
+26Q178,P.S./ IS 178 Holliswood,K-8,2.0,1,1,1,1,0,0,1,0,0,0,na,High Needs SW,na,na,na,na,na,571,286,571,571
+26Q186,P.S. 186 Castlewood,ELEMENTARY,1.4,0.4,1,0,1,0.4,0,0,0,0.4,0,na,na,na,na,na,na,na,372,266,372,372
+26Q188,P.S. 188 Kingsbury,ELEMENTARY,0.4,0.4,0,0,0,0.4,0,0,0,0.4,0,na,na,na,na,na,na,na,712,712,712,712
+26Q191,P.S. 191 Mayflower,ELEMENTARY,0.4,0.4,0,0,0,0.4,0,0,0,0.4,0,na,na,na,na,na,na,na,385,385,385,385
+26Q203,P.S. 203 Oakland Gardens,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,858,429,858,858
+26Q205,P.S. 205 Alexander Graham Bell,ELEMENTARY,1.4,0.4,1,0,1,0.4,0,0,0,0.4,0,na,na,na,na,na,na,na,304,217,304,304
+26Q213,P.S. 213 The Carl Ullman School,ELEMENTARY,1.0,1,0,1,0,0,0,1,0,0,0,na,na,na,na,na,na,na,457,457,457,457
+26Q216,J.H.S. 216 George J. Ryan,JUNIOR HIGH-INTERMEDIATE-MIDDLE,3.0,2,1,2,1,0,0,0,0,0,0,na,na,na,na,na,na,na,1574,525,787,1574
+26Q221,P.S. 221 The North Hills School,ELEMENTARY,1.6,0.6,1,0,1,0.6,0,0,0,0.6,0,na,na,na,na,na,na,na,641,401,641,641
+26Q266,P.S./I.S. 266,K-8,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,624,312,624,624
+26Q315,Business Technology Early College High School,HIGH SCHOOL,4.0,4,0,4,0,0,0,0,0,0,0,na,na,na,na,na,na,na,552,138,138,552
+26Q376,P.S. 376,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,High Needs GC,na,na,na,na,243,243,243,243
+26Q390,The CIVIC School of Bayside Hills,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,42,42,42,42
+26Q415,Benjamin N. Cardozo High School,HIGH SCHOOL,12.0,9,3,9,3,0,0,0,0,0,0,na,na,na,na,na,na,na,3432,286,381,1144
+26Q430,Francis Lewis High School,HIGH SCHOOL,18.0,15,3,15,3,0,0,1,2,0,0,na,na,na,na,na,na,na,4468,248,298,1489
+26Q435,Martin Van Buren High School,HIGH SCHOOL,7.0,6,1,6,1,0,0,0,1,0,0,na,na,na,na,na,na,"Partnership with Children, Inc.",1151,164,192,1151
+26Q495,Bayside High School,HIGH SCHOOL,18.1,15,3.1,15,3,0,0.1,4,0,0,0.1,na,na,na,School Response Clinicians,na,na,na,2865,158,191,912
+26Q566,"Queens High School of Teaching, Liberal Arts and t",HIGH SCHOOL,5.0,5,0,5,0,0,0,1,0,0,0,na,na,na,na,na,na,na,1012,202,202,1012
+27Q042,P.S./M.S 042 R. Vernam,K-8,4.0,3,1,3,1,0,0,0,0,0,0,na,na,na,na,na,na,na,644,161,215,644
+27Q043,P.S. 043,K-8,3.0,2,1,2,1,0,0,0,0,0,0,na,na,na,na,na,na,na,852,284,426,852
+27Q045,P.S. 045 Clarence Witherspoon,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,High Needs SW,na,na,na,na,na,329,165,329,329
+27Q047,P.S. 047 Chris Galas,K-8,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,256,256,256,256
+27Q051,P.S. 051,EARLY CHILDHOOD,1.0,1,0,1,0,0,0,0,0,0,0,na,na,High Needs GC,na,na,na,na,222,222,222,222
+27Q053,M.S. 053 Brian Piccolo,JUNIOR HIGH-INTERMEDIATE-MIDDLE,3.0,1,2,1,2,0,0,0,0,0,0,na,na,na,na,na,na,na,168,56,168,84
+27Q056,P.S. 056 Harry Eichler,ELEMENTARY,1.4,0.4,1,0,1,0.4,0,0,0,0.4,0,na,na,na,na,na,na,na,372,266,372,372
+27Q060,P.S. 060 Woodhaven,ELEMENTARY,2.0,1,1,1,1,0,0,0,1,0,0,na,na,na,na,na,na,na,1151,576,1151,1151
+27Q062,P. S. 62 - Chester Park School,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,929,465,929,929
+27Q063,P.S. 063 Old South,ELEMENTARY,3.0,2,1,2,1,0,0,0,0,0,0,na,na,na,na,na,na,na,1176,392,588,1176
+27Q064,P.S. 064 Joseph P. Addabbo,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,520,260,520,520
+27Q065,P.S. 65 - The Raymond York Elementary School,ELEMENTARY,1.0,1,0,0,0,1,0,0,0,0.4,0,na,na,na,na,na,na,na,472,472,472,472
+27Q066,P.S. 066 Jacqueline Kennedy Onassis,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,470,470,470,470
+27Q090,P.S. 090 Horace Mann,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,752,752,752,752
+27Q096,P.S. 096,ELEMENTARY,0.4,0.4,0,0,0,0.4,0,0,0,0.4,0,na,na,na,na,na,na,na,306,306,306,306
+27Q097,P.S. 097 Forest Park,ELEMENTARY,2.0,1,1,1,1,0,0,0,1,0,0,na,na,na,na,na,na,na,675,338,675,675
+27Q100,P.S. 100 Glen Morris,ELEMENTARY,3.0,1,2,1,2,0,0,0,0,0,0,na,na,na,na,na,na,na,891,297,891,446
+27Q104,P.S. 104 The Bays Water,ELEMENTARY,3.0,1,2,1,2,0,0,0,0,0,0,na,na,na,na,na,na,na,617,206,617,309
+27Q105,P.S. 105 The Bay School,K-8,4.0,2,2,2,2,0,0,0,0,0,0,Bridging the Gap,na,na,na,na,na,na,837,209,419,419
+27Q106,Lighthouse Elementary School,ELEMENTARY,1.6,0.6,1,0,1,0.6,0,0,0,0.6,0,na,High Needs SW,na,na,na,na,na,186,116,186,186
+27Q108,P.S. 108 Captain Vincent G. Fowler,ELEMENTARY,3.0,2,1,2,1,0,0,0,1,0,0,na,na,na,na,na,na,na,1367,456,684,1367
+27Q114,P.S./M.S. 114 Belle Harbor,K-8,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,705,353,705,705
+27Q123,P.S. 123,ELEMENTARY,2.0,1,1,1,1,0,0,1,0,0,0,na,na,na,na,na,na,na,649,325,649,649
+27Q124,P.S. 124 Osmond A Church,K-8,3.0,2,1,2,1,0,0,0,0,0,0,na,na,na,na,na,na,na,1118,373,559,1118
+27Q137,M.S. 137 America's School of Heroes,JUNIOR HIGH-INTERMEDIATE-MIDDLE,3.0,3,0,3,0,0,0,0,0,0,0,na,na,na,na,na,na,na,1958,653,653,1958
+27Q146,P.S. 146 Howard Beach,K-8,2.0,1,1,1,1,0,0,0,0,0,0,na,High Needs SW,na,na,na,na,na,587,294,587,587
+27Q155,P.S. 155,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,547,547,547,547
+27Q183,P.S. 183 Dr. Richard R. Green,K-8,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,461,231,461,461
+27Q197,P.S. 197 The Ocean School,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,519,519,519,519
+27Q202,J.H.S. 202 Robert H. Goddard,JUNIOR HIGH-INTERMEDIATE-MIDDLE,3.0,3,0,3,0,0,0,0,0,0,0,na,na,na,na,na,na,na,1098,366,366,1098
+27Q207,P.S. 207 Rockwood Park,K-8,3.0,1,2,1,2,0,0,0,0,0,0,na,na,na,na,na,na,na,685,228,685,343
+27Q210,J.H.S. 210 Elizabeth Blackwell,JUNIOR HIGH-INTERMEDIATE-MIDDLE,4.0,3,1,3,1,0,0,0,0,0,0,na,na,na,na,na,na,na,1808,452,603,1808
+27Q223,P.S. 223 Lyndon B. Johnson,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,537,269,537,537
+27Q226,J.H.S. 226 Virgil I. Grissom,JUNIOR HIGH-INTERMEDIATE-MIDDLE,3.5,2,1.5,2,1,0,0.5,0,0,0,0.5,na,High Needs SW,na,School Response Clinicians,na,na,na,911,262,456,617
+27Q232,P.S. 232 Lindenwood,K-8,3.0,2,1,2,1,0,0,0,0,0,0,na,na,na,na,na,na,na,944,315,472,944
+27Q253,P.S. 253,ELEMENTARY,3.0,1,2,1,2,0,0,0,1,0,0,na,na,na,na,na,na,na,548,183,548,274
+27Q254,P.S. 254 - The Rosa Parks School,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,619,619,619,619
+27Q260,Frederick Douglass Academy VI High School,HIGH SCHOOL,3.0,2,1,2,1,0,0,0,0,0,0,na,na,na,na,na,na,na,321,107,161,321
+27Q261,Voyages Prep - South Queens,HIGH SCHOOL,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,Learning to Work,na,317,159,317,317
+27Q262,Channel View School for Research,SECONDARY SCHOOL,5.3,4,1.3,4,1,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,1077,202,269,808
+27Q273,P.S. 273,ELEMENTARY,0.4,0.4,0,0,0,0.4,0,0,0,0.4,0,na,na,na,na,na,na,na,308,308,308,308
+27Q282,Knowledge and Power Preparatory Academy VI,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,279,279,279,279
+27Q297,Hawtree Creek Middle School,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,389,389,389,389
+27Q302,"Queens High School for Information, Research, and",HIGH SCHOOL,3.5,3,0.5,3,0,0,0.5,1,0,0,0.5,na,na,na,School Response Clinicians,na,na,na,481,137,160,481
+27Q306,New York City Academy for Discovery,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,High Needs SW,na,na,na,na,na,375,188,375,375
+27Q308,Robert H. Goddard High School of Communication Art,HIGH SCHOOL,3.2,3,0.2,3,0,0,0.2,1,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,614,194,205,614
+27Q309,Academy of Medical Technology: A College Board Sch,SECONDARY SCHOOL,2.5,2,0.5,2,0,0,0.5,0,0,0,0.5,na,na,na,School Response Clinicians,na,na,na,671,268,336,671
+27Q314,Epic High School - South,HIGH SCHOOL,2.2,2,0.2,2,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,412,190,206,412
+27Q316,Queens Explorers Elementary School,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,467,467,467,467
+27Q317,Waterside Children's Studio School,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,509,509,509,509
+27Q318,Waterside School For Leadership,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,223,223,223,223
+27Q319,Village Academy,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,371,371,371,371
+27Q323,Scholars' Academy,SECONDARY SCHOOL,6.0,5,1,5,1,0,0,0,0,0,0,na,High Needs SW,na,na,na,na,na,1311,219,262,1311
+27Q324,Rockaway Park High School for Environmental Sustai,HIGH SCHOOL,2.3,2,0.3,2,0,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,288,123,144,288
+27Q333,Goldie Maple Academy,K-8,2.0,1,1,1,1,0,0,0,0,0,0,na,High Needs SW,na,na,na,na,na,414,207,414,414
+27Q334,Epic High School - North,HIGH SCHOOL,3.2,2,1.2,2,1,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,444,140,222,381
+27Q351,Rockaway Collegiate High School,HIGH SCHOOL,2.3,1,1.3,1,1,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,327,140,327,245
+27Q362,Wave Preparatory Elementary School,ELEMENTARY,1.0,0,1,0,1,0,0,0,0,0,0,na,na,na,na,na,na,na,516,516,516,516
+27Q377,P.S. 377,ELEMENTARY,0.8,0.8,0,0,0,0.8,0,0,0,0.8,0,na,na,na,na,na,na,na,343,343,343,343
+27Q400,August Martin High School,HIGH SCHOOL,4.0,2,2,2,2,0,0,1,0,0,0,na,na,na,na,na,na,na,374,94,187,187
+27Q475,Richmond Hill High School,HIGH SCHOOL,9.2,7,2.2,7,2,0,0.2,1,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,1613,176,230,744
+27Q480,John Adams High School,HIGH SCHOOL,15.1,14,1.1,14,1,0,0.1,4,0,0,0.1,na,na,na,School Response Clinicians,na,na,"Partnership with Children, Inc.",2492,165,178,2180
+27Q650,"High School for Construction Trades, Engineering a",HIGH SCHOOL,4.2,4,0.2,4,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,1093,262,273,1093
+28Q008,J.H.S. 008 Richard S. Grossley,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.2,2,0.2,2,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,447,206,224,447
+28Q040,P.S. 040 Samuel Huntington,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,375,188,375,375
+28Q048,P.S. 048 William Wordsworth,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,544,272,544,544
+28Q050,P.S. 050 Talfourd Lawn Elementary School,ELEMENTARY,2.0,1,1,1,1,0,0,1,0,0,0,na,na,na,na,na,na,na,850,425,850,850
+28Q054,P.S. 054 Hillside,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,520,520,520,520
+28Q055,P.S. 055 Maure,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,500,500,500,500
+28Q072,Catherine & Count Basie Middle School 72,JUNIOR HIGH-INTERMEDIATE-MIDDLE,3.0,1,2,1,2,0,0,0,0,0,0,na,na,na,na,na,na,na,272,91,272,136
+28Q080,PS 80  The Thurgood Marshall Magnet School of Mult,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,473,473,473,473
+28Q082,P.S. 082 Hammond,ELEMENTARY,3.0,2,1,2,1,0,0,1,0,0,0,na,High Needs SW,na,na,na,na,na,612,204,306,612
+28Q086,P.S. Q086,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,774,387,774,774
+28Q099,P.S. 099 Kew Gardens,ELEMENTARY,2.0,0,2,0,2,0,0,0,0,0,0,na,na,na,na,na,na,na,706,353,706,353
+28Q101,P.S. 101 School in the Gardens,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,High Needs GC,na,na,na,na,680,680,680,680
+28Q117,P.S. 117 J. Keld / Briarwood School,ELEMENTARY,2.0,1,1,1,1,0,0,0,1,0,0,na,na,na,na,na,na,na,926,463,926,926
+28Q121,P.S. 121 Queens,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,822,822,822,822
+28Q139,P.S. 139 Rego Park,ELEMENTARY,2.0,1,1,1,1,0,0,0,1,0,0,na,na,na,na,na,na,na,708,354,708,708
+28Q140,P.S. 140 Edward K Ellington,ELEMENTARY,3.0,1,2,1,2,0,0,0,0,0,0,Bridging the Gap,na,na,na,na,na,na,442,147,442,221
+28Q144,P.S. 144 Col Jeromus Remsen,ELEMENTARY,1.6,0.6,1,0,1,0.6,0,0,0,0.6,0,na,na,na,na,na,na,na,936,585,936,936
+28Q157,J.H.S. 157 Stephen A. Halsey,JUNIOR HIGH-INTERMEDIATE-MIDDLE,3.3,3,0.3,3,0,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,1687,519,562,1687
+28Q160,P.S. 160 Walter Francis Bishop,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,600,600,600,600
+28Q161,P.S. 161 Arthur Ashe School,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,592,592,592,592
+28Q167,Metropolitan Expeditionary Learning School,SECONDARY SCHOOL,3.0,2,1,2,1,0,0,0,0,0,0,na,na,na,na,na,na,na,824,275,412,824
+28Q174,P.S. 174 William Sidney Mount,ELEMENTARY,0.4,0.4,0,0,0,0.4,0,0,0,0.4,0,na,na,na,na,na,na,na,661,661,661,661
+28Q175,P.S. 175 The Lynn Gross Discovery School,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,808,404,808,808
+28Q182,P.S. 182 Samantha Smith,ELEMENTARY,3.0,1,2,1,2,0,0,0,1,0,0,na,na,na,na,na,na,na,679,226,679,340
+28Q190,J.H.S. 190 Russell Sage,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.1,2,0.1,2,0,0,0.1,0,0,0,0.1,na,na,na,School Response Clinicians,na,na,na,1126,525,563,1126
+28Q196,P.S. 196 Grand Central Parkway,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,1063,532,1063,1063
+28Q206,P.S. 206 The Horace Harding School,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,571,286,571,571
+28Q217,J.H.S. 217 Robert A. Van Wyck,JUNIOR HIGH-INTERMEDIATE-MIDDLE,5.0,4,1,4,1,0,0,0,1,0,0,na,na,na,na,na,na,na,1710,342,428,1710
+28Q220,P.S. 220 Edward Mandel,ELEMENTARY,2.0,1,1,1,1,0,0,0,1,0,0,na,na,na,na,na,na,na,671,336,671,671
+28Q284,York Early College Academy,SECONDARY SCHOOL,3.8,2.6,1.2,2,1,0.6,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,639,170,246,548
+28Q287,The Emerson School,JUNIOR HIGH-INTERMEDIATE-MIDDLE,3.2,3,0.2,3,0,0,0.2,0,0,0,0.2,na,na,High Needs GC,School Response Clinicians,na,na,na,359,113,120,359
+28Q303,The Academy for Excellence through the Arts,ELEMENTARY,Has counseling service (outside provider),0,0,0,0,0,0,0,0,0,0,na,na,na,na,na,na,Quality Evaluation and Psychological Services,283,see note in column D,see note in column D,see note in column D
+28Q310,Queens Collegiate: A College Board School,SECONDARY SCHOOL,3.2,3,0.2,3,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,672,210,224,672
+28Q312,Jamaica Children's School,ELEMENTARY,1.0,0,1,0,1,0,0,0,0,0,0,na,na,na,na,na,na,na,237,237,237,237
+28Q325,Hillside Arts & Letters Academy,HIGH SCHOOL,3.2,2,1.2,2,1,0,0.2,1,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,452,141,226,377
+28Q328,High School for Community Leadership,HIGH SCHOOL,4.0,3,1,3,1,0,0,1,0,0,0,na,na,na,na,na,na,na,456,114,152,456
+28Q332,Redwood Middle School,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.2,1,0.2,1,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,273,227,273,273
+28Q338,Queens Satellite High School for Opportunity,HIGH SCHOOL,2.0,2,0,2,0,0,0,0,0,0,0,na,na,na,na,na,Learning to Work,na,214,107,107,214
+28Q349,The Queens School for Leadership and Excellence,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,520,520,520,520
+28Q350,Jamaica Gateway to the Sciences,HIGH SCHOOL,3.2,3,0.2,3,0,0,0.2,1,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,483,151,161,483
+28Q354,The Jermaine L. Green STEM Institute of Queens,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,High Needs SW,na,na,na,na,na,533,267,533,533
+28Q358,M.S. 358,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.2,1,0.2,1,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,362,310,362,362
+28Q440,Forest Hills High School,HIGH SCHOOL,15.1,11,4.1,11,4,0,0.1,1,1,0,0.1,na,na,na,School Response Clinicians,na,na,na,3705,245,337,894
+28Q505,Hillcrest High School,HIGH SCHOOL,15.2,13,2.2,13,2,0,0.2,2,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,3091,203,238,1405
+28Q620,Thomas A. Edison Career and Technical Education Hi,HIGH SCHOOL,10.2,9,1.2,9,1,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,2224,218,247,1853
+28Q680,Queens Gateway to Health Sciences Secondary School,SECONDARY SCHOOL,2.2,2,0.2,2,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,694,315,347,694
+28Q686,Queens Metropolitan High School,HIGH SCHOOL,4.2,4,0.2,4,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,1144,275,286,1144
+28Q687,Queens High School for the Sciences at York Colleg,HIGH SCHOOL,2.2,2,0.2,2,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,480,218,240,480
+28Q690,High School for Law Enforcement and Public Safety,HIGH SCHOOL,2.2,2,0.2,2,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,395,180,198,395
+28Q896,"Young Women's Leadership School, Queens",SECONDARY SCHOOL,3.2,3,0.2,3,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,560,177,187,560
+29Q015,P.S. 015 Jackie Robinson,ELEMENTARY,3.0,2,1,2,1,0,0,0,0,0,0,na,High Needs SW,na,na,na,na,na,392,131,196,392
+29Q033,P.S. 033 Edward M. Funk,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,945,473,945,945
+29Q034,P.S. 034 John Harvard,ELEMENTARY,2.0,2,0,2,0,0,0,0,0,0,0,na,na,na,na,na,na,na,572,286,286,572
+29Q035,P.S. 035 Nathaniel Woodhull,ELEMENTARY,1.6,0.6,1,0,1,0.6,0,0,0,0.6,0,na,na,na,na,na,na,na,691,432,691,691
+29Q036,P.S. 036 Saint Albans School,ELEMENTARY,1.4,0.4,1,0,1,0.4,0,0,0,0.4,0,na,na,na,na,na,na,na,357,255,357,357
+29Q037,Cynthia Jenkins School,ELEMENTARY,1.6,0.6,1,0,1,0.6,0,0,0,0.6,0,na,na,na,na,na,na,na,353,221,353,353
+29Q038,P.S. 038 Rosedale,ELEMENTARY,0.2,0.2,0,0,0,0.2,0,0,0,0.2,0,na,na,na,na,na,na,na,269,269,269,269
+29Q052,P.S. 052 Queens,ELEMENTARY,3.0,1,2,1,2,0,0,0,0,0,0,Bridging the Gap,na,na,na,na,na,na,376,125,376,188
+29Q059,I.S. 059 Springfield Gardens,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.2,1,0.2,1,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,577,481,577,577
+29Q095,P.S. 095 Eastwood,ELEMENTARY,5.0,3,2,3,2,0,0,1,1,0,0,Bridging the Gap,na,na,na,na,na,na,1435,287,478,718
+29Q109,Jean Nuzzi Intermediate School,JUNIOR HIGH-INTERMEDIATE-MIDDLE,3.2,2,1.2,2,1,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,1175,367,588,979
+29Q116,P.S./I.S. 116 William C. Hughley,K-8,2.6,1.6,1,1,1,0.6,0,0,0,0.6,0,Bridging the Gap,na,na,na,na,na,na,827,318,517,827
+29Q118,P.S. 118 Lorraine Hansberry,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,427,427,427,427
+29Q131,P.S. 131 Abigail Adams,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,High Needs SW,na,na,na,na,na,703,352,703,703
+29Q132,P.S. 132 Ralph Bunche,ELEMENTARY,0.6,0.6,0,0,0,0.6,0,0,0,0.6,0,na,na,na,na,na,na,na,323,323,323,323
+29Q134,P.S. 134 Hollis,ELEMENTARY,1.0,0,1,0,1,0,0,0,0,0,0,na,High Needs SW,na,na,na,na,na,322,322,322,322
+29Q135,The Bellaire School,ELEMENTARY,2.0,1,1,1,1,0,0,0,1,0,0,na,na,na,na,na,na,na,882,441,882,882
+29Q136,P.S. 136 Roy Wilkins,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,507,254,507,507
+29Q138,P.S./M.S. 138 Sunrise,K-8,1.6,0.6,1,0,1,0.6,0,0,0,0.6,0,na,na,na,na,na,na,na,623,389,623,623
+29Q147,P.S./M.S. 147 Ronald McNair,K-8,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,559,559,559,559
+29Q156,P.S. 156 Laurelton,ELEMENTARY,2.0,0,2,0,2,0,0,0,0,0,0,na,High Needs SW,na,na,na,na,na,197,99,197,99
+29Q176,P.S. 176 Cambria Heights,ELEMENTARY,3.0,2,1,2,1,0,0,0,0,0,0,na,na,na,na,na,na,na,723,241,362,723
+29Q181,P.S. 181 Brookfield,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,High Needs SW,na,na,na,na,na,322,161,322,322
+29Q192,I.S. 192 The Linden,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.2,1,1.2,1,1,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,469,213,469,391
+29Q195,P.S. 195 William Haberle,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,468,234,468,468
+29Q208,P.S./I.S. 208,K-8,2.4,1.4,1,1,1,0.4,0,0,0,0.4,0,na,High Needs SW,na,na,na,na,na,742,309,530,742
+29Q238,I.S. 238 - Susan B. Anthony Academy,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.2,2,0.2,2,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,1245,566,623,1245
+29Q243,Institute for Health Professions at Cambria Height,HIGH SCHOOL,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,449,225,449,449
+29Q248,Queens Preparatory Academy,HIGH SCHOOL,1.2,1,0.2,1,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,277,231,277,277
+29Q251,P.S. 251 Queens,ELEMENTARY,0.4,0.4,0,0,0,0.4,0,0,0,0.4,0,na,na,na,na,na,na,na,334,334,334,334
+29Q259,Pathways College Preparatory School: A College Boa,SECONDARY SCHOOL,3.0,2,1,2,1,0,0,0,0,0,0,na,na,na,na,na,na,na,585,195,293,585
+29Q265,Excelsior Preparatory High School,HIGH SCHOOL,2.2,2,0.2,2,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,422,192,211,422
+29Q268,P.S./I.S. 268,K-8,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,645,645,645,645
+29Q270,The Gordon Parks School,K-8,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,758,758,758,758
+29Q272,George Washington Carver High School for the Scien,HIGH SCHOOL,2.2,1,1.2,1,1,0,0.2,0,1,0,0.2,na,na,na,School Response Clinicians,na,na,na,390,177,390,325
+29Q283,Preparatory Academy for Writers: A College Board S,SECONDARY SCHOOL,2.2,1,1.2,1,1,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,557,253,557,464
+29Q289,Queens United Middle School,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.2,2,0.2,2,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,178,81,89,178
+29Q295,P.S./I.S. 295,K-8,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,524,524,524,524
+29Q313,Benjamin Franklin High School for Finance & Inform,HIGH SCHOOL,1.2,0,1.2,0,1,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,413,344,413,344
+29Q326,Cambria Heights Academy,HIGH SCHOOL,1.2,1,0.2,1,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,370,308,370,370
+29Q327,Eagle Academy for Young Men III,SECONDARY SCHOOL,2.2,2,0.2,2,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,421,191,211,421
+29Q355,Collaborative Arts Middle School,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.2,1,0.2,1,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,338,282,338,338
+29Q356,Community Voices Middle School,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.6,0.4,2.2,0,2,0.4,0.2,0,0,0.4,0.2,na,na,na,School Response Clinicians,na,na,na,340,131,340,155
+29Q360,P.S. 360,ELEMENTARY,0.2,0.2,0,0,0,0.2,0,0,0,0.2,0,na,na,na,na,na,na,na,271,271,271,271
+29Q492,"Mathematics, Science Research and Technology Magne",HIGH SCHOOL,3.2,2,1.2,2,1,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,401,125,201,334
+29Q498,Humanities & Arts Magnet High School,HIGH SCHOOL,2.2,2,0.2,2,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,372,169,186,372
+30Q002,P.S. 002 Alfred Zimberg,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,533,267,533,533
+30Q010,I.S. 010 Horace Greeley,JUNIOR HIGH-INTERMEDIATE-MIDDLE,3.0,2,1,2,1,0,0,0,1,0,0,na,na,na,na,na,na,na,799,266,400,799
+30Q011,P.S. 011 Kathryn Phelan,ELEMENTARY,3.2,1.2,2,1,2,0.2,0,0,1,0.2,0,na,na,na,na,na,na,na,924,289,770,462
+30Q017,P.S. 017 Henry David Thoreau,ELEMENTARY,2.0,1,1,1,1,0,0,0,1,0,0,na,na,na,na,na,na,na,591,296,591,591
+30Q069,P.S. 069 Jackson Heights,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,963,482,963,963
+30Q070,P.S. 070,ELEMENTARY,2.0,1,1,1,1,0,0,0,1,0,0,na,na,na,na,na,na,na,811,406,811,811
+30Q076,P.S. 076 William Hallet,ELEMENTARY,2.0,2,0,2,0,0,0,0,0,0,0,na,na,na,na,na,na,na,421,211,211,421
+30Q078,P.S./I.S. 78Q,K-8,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,748,748,748,748
+30Q084,P.S. 084 Steinway,ELEMENTARY,1.0,0,1,0,1,0,0,0,0,0,0,na,na,na,na,na,na,na,258,258,258,258
+30Q085,P.S. 085 Judge Charles Vallone,ELEMENTARY,0.4,0.4,0,0,0,0.4,0,0,0,0,0,na,na,na,na,na,na,na,654,654,654,654
+30Q092,P.S. 092 Harry T. Stewart Sr.,ELEMENTARY,2.0,1,1,1,1,0,0,1,1,0,0,na,na,na,na,na,na,na,898,449,898,898
+30Q111,P.S. 111 Jacob Blackwell,K-8,2.0,1,1,1,1,0,0,0,1,0,0,na,na,na,na,na,na,na,328,164,328,328
+30Q112,P.S. 112 Dutch Kills,ELEMENTARY,2.0,1,1,1,1,0,0,1,1,0,0,na,na,na,na,na,na,na,412,206,412,412
+30Q122,P.S. 122 Mamie Fay,K-8,3.0,2,1,2,1,0,0,0,1,0,0,na,na,na,na,na,na,na,1365,455,683,1365
+30Q126,Albert Shanker School for Visual and Performing Ar,JUNIOR HIGH-INTERMEDIATE-MIDDLE,3.0,2,1,2,1,0,0,1,0,0,0,na,na,na,na,na,na,na,625,208,313,625
+30Q127,P.S. 127 Aerospace Science Magnet School,K-8,4.0,3,1,3,1,0,0,1,1,0,0,na,na,na,na,na,na,na,1212,303,404,1212
+30Q141,I.S. 141 The Steinway,JUNIOR HIGH-INTERMEDIATE-MIDDLE,3.0,2,1,2,1,0,0,0,0,0,0,na,High Needs SW,na,na,na,na,na,1179,393,590,1179
+30Q145,I.S. 145 Joseph Pulitzer,JUNIOR HIGH-INTERMEDIATE-MIDDLE,5.0,4,1,4,1,0,0,3,1,0,0,na,na,na,na,na,na,na,1660,332,415,1660
+30Q148,P.S. 148 Queens,ELEMENTARY,3.0,2,1,2,1,0,0,1,1,0,0,na,na,na,na,na,na,na,772,257,386,772
+30Q149,P.S. 149 Christa McAuliffe,ELEMENTARY,2.0,2,0,2,0,0,0,2,0,0,0,na,na,na,na,na,na,na,940,470,470,940
+30Q150,P.S. 150 Queens,ELEMENTARY,2.0,2,0,2,0,0,0,2,0,0,0,na,na,na,na,na,na,na,1014,507,507,1014
+30Q151,P.S. 151 Mary D. Carter,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,317,317,317,317
+30Q152,P.S. 152 Gwendoline N. Alleyne School,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,937,937,937,937
+30Q166,P.S. 166 Henry Gradstein,ELEMENTARY,3.0,2,1,2,1,0,0,0,1,0,0,na,na,na,na,na,na,na,947,316,474,947
+30Q171,P.S. 171 Peter G. Van Alst,ELEMENTARY,1.8,0.8,1,0,1,0.8,0,0,0,0.8,0,na,na,na,na,na,na,na,430,239,430,430
+30Q204,I.S. 204 Oliver W. Holmes,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.0,2,0,2,0,0,0,1,0,0,0,na,na,na,na,na,na,na,445,223,223,445
+30Q212,P.S. 212,ELEMENTARY,1.0,1,0,1,0,0,0,1,0,0,0,na,na,na,na,na,na,na,757,757,757,757
+30Q222,P.S. Q222 - Fire Fighter Christopher A. Santora Sc,EARLY CHILDHOOD,1.0,1,0,1,0,0,0,1,0,0,0,na,na,High Needs GC,na,na,na,na,276,276,276,276
+30Q227,I.S. 227 Louis Armstrong,JUNIOR HIGH-INTERMEDIATE-MIDDLE,4.0,3,1,3,1,0,0,1,0,0,0,na,High Needs SW,na,na,na,na,na,1570,393,523,1570
+30Q228,The Ivan Lafayette Early Childhood School of the A,EARLY CHILDHOOD,1.0,1,0,1,0,0,0,1,0,0,0,na,na,High Needs GC,na,na,na,na,290,290,290,290
+30Q230,I.S. 230,JUNIOR HIGH-INTERMEDIATE-MIDDLE,3.0,3,0,3,0,0,0,0,0,0,0,na,na,na,na,na,na,na,1192,397,397,1192
+30Q234,P.S. 234,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,455,455,455,455
+30Q235,Academy for New Americans,JUNIOR HIGH-INTERMEDIATE-MIDDLE,0.6,0.6,0,0,0,0.6,0,0,0,0,0,na,na,na,na,na,na,na,85,85,85,85
+30Q258,Energy Tech High School,HIGH SCHOOL,4.3,1,3.3,1,3,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,512,120,512,158
+30Q280,P.S. 280,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,575,575,575,575
+30Q286,"Young Women's Leadership School, Astoria",SECONDARY SCHOOL,1.3,1,0.3,1,0,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,578,462,578,578
+30Q291,Hunters Point Community Middle School,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,420,210,420,420
+30Q300,The 30th Avenue School (G&T Citywide),K-8,3.0,2,1,2,1,0,0,0,0,0,0,na,na,na,na,na,na,na,544,181,272,544
+30Q301,Academy for Careers in Television and Film,HIGH SCHOOL,5.3,1,4.3,1,4,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,548,104,548,129
+30Q329,East Elmhurst Community School,ELEMENTARY,1.0,0,1,0,1,0,0,0,0,0,0,na,High Needs SW,na,na,na,na,na,448,448,448,448
+30Q361,The Woodside Community School,ELEMENTARY,0.2,0.2,0,0,0,0.2,0,0,0,0,0,na,na,na,na,na,na,na,417,417,417,417
+30Q384,P.S. 384,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,High Needs GC,na,na,na,na,105,105,105,105
+30Q398,P.S. 398,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,124,124,124,124
+30Q445,William Cullen Bryant High School,HIGH SCHOOL,11.0,10,1,10,1,0,0,1,1,0,0,na,na,na,na,na,na,"Global Kids, Inc.",2287,208,229,2287
+30Q450,Long Island City High School,HIGH SCHOOL,15.0,8,7,8,7,0,0,6,0,0,0,na,na,na,na,na,na,na,2204,147,276,315
+30Q501,Frank Sinatra School of the Arts High School,HIGH SCHOOL,5.0,4,1,4,1,0,0,0,0,0,0,na,na,na,na,na,na,na,851,170,213,851
+30Q502,Information Technology High School,HIGH SCHOOL,5.0,5,0,5,0,0,0,0,0,0,0,na,na,na,na,na,na,na,976,195,195,976
+30Q555,Newcomers High School,HIGH SCHOOL,3.0,3,0,3,0,0,0,2,0,0,0,na,na,na,na,na,na,na,792,264,264,792
+30Q575,Academy of American Studies,HIGH SCHOOL,3.0,3,0,3,0,0,0,0,0,0,0,na,na,na,na,na,na,na,1025,342,342,1025
+30Q580,Baccalaureate School for Global Education,SECONDARY SCHOOL,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,557,557,557,557
+31R001,P.S. 001 Tottenville,ELEMENTARY,1.4,0.4,1,0,1,0.4,0,0,0,0.4,0,na,na,na,na,na,na,na,442,316,442,442
+31R002,I.S. R002 George L. Egbert,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.2,2,0.2,2,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,1056,487,528,1056
+31R003,P.S. 003 The Margaret Gioiosa School,ELEMENTARY,1.6,0.6,1,0,1,0.6,0,0,0,0.6,0,na,na,na,na,na,na,na,668,418,668,668
+31R004,P.S. 004 Maurice Wollin,ELEMENTARY,3.0,2,1,2,1,0,0,0,0,0,0,na,na,na,na,na,na,na,745,248,373,745
+31R005,P.S. 005 Huguenot,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,High Needs GC,na,na,na,na,315,315,315,315
+31R006,P.S. 6 Corporal Allan F. Kivlehan School,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,533,267,533,533
+31R007,I.S. 007 Elias Bernstein,JUNIOR HIGH-INTERMEDIATE-MIDDLE,3.2,2,1.2,2,1,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,1184,374,592,1015
+31R008,P.S. 8 Shirlee Solomon,ELEMENTARY,0.4,0.4,0,0,0,0.4,0,0,0,0.4,0,na,na,na,na,na,na,na,590,590,590,590
+31R009,Naples Street Elementary School,ELEMENTARY,2.2,2,0.2,2,0,0,0.2,0,0,0,0,na,na,na,na,na,na,na,318,145,159,318
+31R010,Fort Hill Collaborative Elementary School,ELEMENTARY,1.0,1,0,1,0,0,0,1,0,0,0,na,na,na,na,na,na,na,192,192,192,192
+31R011,P.S. 11 Thomas Dongan School,ELEMENTARY,1.6,0.6,1,0,1,0.6,0,0,0,0.6,0,na,High Needs SW,na,na,na,na,na,320,200,320,320
+31R013,P.S. 013 M. L. Lindemeyer,ELEMENTARY,3.0,2,1,2,1,0,0,0,0,0,0,na,na,na,na,na,na,na,865,288,433,865
+31R016,P.S. 016 John J. Driscoll,ELEMENTARY,3.0,1,2,1,2,0,0,0,0,0,0,Bridging the Gap,na,na,na,na,na,na,445,148,445,223
+31R018,P.S. 018 John G. Whittier,ELEMENTARY,2.6,1.6,1,1,1,0.6,0,0,0,0.6,0,na,na,na,na,na,na,na,465,179,291,465
+31R019,P.S. 019 The Curtis School,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,560,280,560,560
+31R020,P.S. 020 Port Richmond,ELEMENTARY,3.0,2,1,2,1,0,0,1,1,0,0,na,na,na,na,na,na,na,420,140,210,420
+31R021,P.S. 21 Margaret Emery-Elm Park,ELEMENTARY,1.6,0.6,1,0,1,0.6,0,0,1,0.6,0,na,na,na,na,na,na,na,392,245,392,392
+31R022,P.S. 022 Graniteville,ELEMENTARY,5.0,3,2,3,2,0,0,0,1,0,0,na,na,na,na,na,na,na,925,185,308,463
+31R023,P.S. 023 Richmondtown,ELEMENTARY,0.4,0.4,0,0,0,0.4,0,0,0,0,0,na,na,na,na,na,na,na,564,564,564,564
+31R024,I.S. 024 Myra S. Barnes,JUNIOR HIGH-INTERMEDIATE-MIDDLE,4.2,3,1.2,3,1,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,1364,327,455,1169
+31R026,P.S. 026 The Carteret School,ELEMENTARY,0.4,0.4,0,0,0,0.4,0,0,0,0.4,0,na,na,na,na,na,na,na,292,292,292,292
+31R027,I.S. 027 Anning S. Prall,JUNIOR HIGH-INTERMEDIATE-MIDDLE,3.2,3,0.2,3,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,1070,338,357,1070
+31R028,The Eagle Academy for Young Men of Staten Island,SECONDARY SCHOOL,2.0,2,0,2,0,0,0,0,0,0,0,na,na,na,na,na,na,na,306,153,153,306
+31R029,P.S. 029 Bardwell,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,632,632,632,632
+31R030,P.S. 030 Westerleigh,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,817,409,817,817
+31R031,P.S. 031 William T. Davis,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,Bridging the Gap,na,na,na,na,na,na,390,195,390,390
+31R032,P.S. 032 The Gifford School,ELEMENTARY,1.4,0.4,1,0,1,0.4,0,0,0,0.4,0,na,na,na,na,na,na,na,666,476,666,666
+31R034,I.S. 034 Tottenville,JUNIOR HIGH-INTERMEDIATE-MIDDLE,4.2,3,1.2,3,1,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,1033,248,344,885
+31R035,P.S. 35 The Clove Valley School,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,424,424,424,424
+31R036,P.S. 036 J. C. Drumgoole,ELEMENTARY,1.6,0.6,1,0,1,0.6,0,0,0,0.6,0,na,na,na,na,na,na,na,884,553,884,884
+31R038,P.S. 038 George Cromwell,ELEMENTARY,1.6,0.6,1,0,1,0.6,0,0,0,0,0,na,na,na,na,na,na,na,382,239,382,382
+31R039,P.S. 39 Francis J. Murphy Jr.,ELEMENTARY,0.4,0.4,0,0,0,0.4,0,0,0,0.4,0,na,na,na,na,na,na,na,514,514,514,514
+31R041,The Stephanie A. Vierno School,ELEMENTARY,1.5,1.5,0,0,0,1.5,0,0,0,0.6,0,na,na,na,na,na,na,na,698,465,465,698
+31R042,P.S. 042 Eltingville,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,1088,544,1088,1088
+31R044,P.S. 044 Thomas C. Brown,ELEMENTARY,3.0,2,1,2,1,0,0,0,0,0,0,na,na,na,na,na,na,na,698,233,349,698
+31R045,P.S. 045 John Tyler,ELEMENTARY,3.0,2,1,2,1,0,0,0,0,0,0,na,na,na,na,na,na,na,849,283,425,849
+31R046,P.S. 046 Albert V. Maniscalco,ELEMENTARY,1.4,0.4,1,0,1,0.4,0,0,0,0.4,0,na,High Needs SW,na,na,na,na,na,250,179,250,250
+31R047,CSI High School for International Studies,HIGH SCHOOL,4.0,3,1,3,1,0,0,0,0,0,0,na,na,na,na,na,na,na,487,122,162,487
+31R048,P.S. 048 William G. Wilcox,K-8,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,1000,1000,1000,1000
+31R049,I.S. 49 Berta A. Dreyfus,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.2,1,1.2,1,1,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,551,254,551,472
+31R050,P.S. 050 Frank Hankinson,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,713,357,713,713
+31R051,I.S. 051 Edwin Markham,JUNIOR HIGH-INTERMEDIATE-MIDDLE,5.6,3.4,2.2,3,2,0.4,0.2,0,1,0.4,0.2,na,na,na,School Response Clinicians,na,na,na,1313,236,386,606
+31R052,P.S. 052 John C. Thompson,ELEMENTARY,1.6,0.6,1,0,1,0.6,0,0,0,0.6,0,na,na,na,na,na,na,na,597,373,597,597
+31R053,The Barbara Esselborn School,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,845,845,845,845
+31R054,P.S. 054 Charles W. Leng,ELEMENTARY,0.6,0.6,0,0,0,0.6,0,0,0,0.6,0,na,na,na,na,na,na,na,821,821,821,821
+31R055,P.S. 055 Henry M. Boehm,ELEMENTARY,1.8,0.8,1,0,1,0.8,0,0,0,0,0,na,na,na,na,na,na,na,580,322,580,580
+31R056,P.S. 56 The Louis Desario School,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,599,300,599,599
+31R057,P.S. 057 Hubert H. Humphrey,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,653,327,653,653
+31R058,Space Shuttle Columbia School,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,688,344,688,688
+31R059,The Harbor View School,ELEMENTARY,1.0,0,1,0,1,0,0,0,0,0,0,na,High Needs SW,na,na,na,na,na,300,300,300,300
+31R060,P.S. 060 Alice Austen,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,800,400,800,800
+31R061,I.S. 061 William A Morris,JUNIOR HIGH-INTERMEDIATE-MIDDLE,4.2,3,1.2,3,1,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,976,234,325,837
+31R062,The Kathleen Grimm School for Leadership and Susta,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,High Needs GC,na,na,na,na,379,379,379,379
+31R063,Marsh Avenue School for Expeditionary Learning,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.2,1,0.2,1,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,453,388,453,453
+31R064,Gaynor McCown Expeditionary Learning School,HIGH SCHOOL,2.2,2,0.2,2,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,420,194,210,420
+31R065,P.S. 65 The Academy of Innovative Learning,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,428,428,428,428
+31R068,Port Richmond School for Visionary Learning,ELEMENTARY,1.6,1.6,0,1,0,0.6,0,0,0,0,0,na,na,High Needs GC,na,na,na,na,291,182,182,291
+31R069,P.S. 069 Daniel D. Tompkins,ELEMENTARY,2.4,1.4,1,1,1,0.4,0,0,0,0.4,0,na,na,na,na,na,na,na,892,372,637,892
+31R072,I.S. 072 Rocco Laurie,JUNIOR HIGH-INTERMEDIATE-MIDDLE,4.2,3,1.2,3,1,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,1582,380,527,1356
+31R074,P.S. 74 Future Leaders Elementary School,ELEMENTARY,2.0,1,1,1,1,0,0,1,1,0,0,na,na,na,na,na,na,na,280,140,280,280
+31R075,I.S. 075 Frank D. Paulo,JUNIOR HIGH-INTERMEDIATE-MIDDLE,6.2,5,1.2,5,1,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,1448,235,290,1241
+31R078,P.S. 78,ELEMENTARY,3.0,2,1,2,1,0,0,0,1,0,0,na,na,na,na,na,na,na,715,238,358,715
+31R080,The Michael J. Petrides School,K-12 ALL GRADES,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,1338,669,1338,1338
+31R440,New Dorp High School,HIGH SCHOOL,20.0,14,6,14,6,0,0,0,0,0,0,na,na,na,na,na,na,na,3106,155,222,518
+31R445,Port Richmond High School,HIGH SCHOOL,11.0,8,3,8,3,0,0,0,0,0,0,na,na,na,na,na,na,na,1564,142,196,521
+31R450,Curtis High School,HIGH SCHOOL,14.0,12,2,12,2,0,0,1,0,0,0,na,na,na,na,na,na,na,2476,177,206,1238
+31R455,Tottenville High School,HIGH SCHOOL,18.0,16,2,16,2,0,0,1,0,0,0,na,na,na,na,na,na,na,3694,205,231,1847
+31R460,Susan E. Wagner High School,HIGH SCHOOL,14.0,13,1,13,1,0,0,0,0,0,0,na,na,na,na,na,na,na,3434,245,264,3434
+31R470,Concord High School,HIGH SCHOOL,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,Learning to Work,na,178,178,178,178
+31R600,Ralph R. McKee Career and Technical Education High,HIGH SCHOOL,5.0,4,1,4,1,0,0,0,0,0,0,na,High Needs SW,na,na,na,na,na,830,166,208,830
+31R605,Staten Island Technical High School,HIGH SCHOOL,6.0,5,1,5,1,0,0,0,0,0,0,na,na,na,na,na,na,na,1335,223,267,1335
+31R861,Staten Island School of Civic Leadership,K-8,2.0,2,0,2,0,0,0,0,0,0,0,na,na,na,na,na,na,na,873,437,437,873
+32K045,P.S./I.S. 045 Horace E. Greene,K-8,3.0,1,2,1,2,0,0,0,0,0,0,Bridging the Gap,na,na,na,na,na,na,593,198,593,297
+32K075,P.S. 075 Mayda Cortiella,ELEMENTARY,1.4,0.4,1,0,1,0.4,0,0,1,0.4,0,na,na,na,na,na,na,na,282,201,282,282
+32K086,P.S. 086 The Irvington,ELEMENTARY,1.0,1,0,1,0,0,0,1,0,0,0,na,na,na,na,na,na,na,419,419,419,419
+32K106,P.S. 106 Edward Everett Hale,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,397,397,397,397
+32K116,P.S. 116 Elizabeth L Farrell,ELEMENTARY,2.0,1,1,1,1,0,0,0,1,0,0,na,na,na,na,na,na,na,340,170,340,340
+32K123,P.S. 123 Suydam,ELEMENTARY,2.0,1,1,1,1,0,0,1,1,0,0,na,na,na,na,na,na,na,598,299,598,598
+32K145,P.S. 145 Andrew Jackson,ELEMENTARY,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,501,251,501,501
+32K151,P.S. 151 Lyndon B. Johnson,ELEMENTARY,1.0,1,0,1,0,0,0,1,0,0,0,na,na,na,na,na,na,na,326,326,326,326
+32K162,J.H.S. 162 The Willoughby,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.3,2,0.3,2,0,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,317,141,159,317
+32K168,The Brooklyn School for Math and Research,HIGH SCHOOL,2.2,2,0.2,2,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,304,138,152,304
+32K274,P.S. 274 Kosciusko,ELEMENTARY,2.0,1,1,1,1,0,0,1,0,0,0,Bridging the Gap,na,na,na,na,na,na,364,182,364,364
+32K291,J.H.S. 291 Roland Hayes,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.3,1,0.3,1,0,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,"East Side House, Inc.",331,265,331,331
+32K299,P.S. 299 Thomas Warren Field,ELEMENTARY,1.4,0.4,1,0,1,0.4,0,0,0,0.4,0,Bridging the Gap,na,na,na,na,na,na,181,129,181,181
+32K347,I.S. 347 School of Humanities,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.3,0,2.3,0,2,0,0.3,0,1,0,0.3,na,na,na,School Response Clinicians,na,na,na,292,130,292,130
+32K349,"I.S. 349 Math, Science & Tech.",JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.3,1,0.3,1,0,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,298,238,298,298
+32K376,P.S. 376,ELEMENTARY,0.2,0.2,0,0,0,0.2,0,0,0,0.2,0,na,na,na,na,na,na,na,522,522,522,522
+32K377,P.S. 377 Alejandrina B. De Gautier,ELEMENTARY,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,142,142,142,142
+75Q023,P.S. Q023 @ Queens Children Center,K-12 ALL GRADES,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,284,284,284,284
+32K383,J.H.S. 383 Philippa Schuyler,JUNIOR HIGH-INTERMEDIATE-MIDDLE,2.3,2,0.3,2,0,0,0.3,1,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,887,394,444,887
+32K384,P.S. /I.S. 384 Frances E. Carter,K-8,3.0,2,1,2,1,0,0,1,1,0,0,na,na,na,na,na,na,na,445,148,223,445
+32K403,Academy for Excellence in Leadership,HIGH SCHOOL,3.3,2,1.3,2,1,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,289,89,145,231
+32K545,EBC High School for Public Service - Bushwick,HIGH SCHOOL,3.3,3,0.3,3,0,0,0.3,1,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,461,142,154,461
+32K549,The Brooklyn School for Social Justice,HIGH SCHOOL,4.2,4,0.2,4,0,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,333,79,83,333
+32K552,The Academy of Urban Planning and Engineering,HIGH SCHOOL,3.2,1,2.2,1,2,0,0.2,0,0,0,0.2,na,na,na,School Response Clinicians,na,na,na,287,90,287,130
+32K554,All City Leadership Secondary School,SECONDARY SCHOOL,1.3,1,0.3,1,0,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,433,346,433,433
+32K556,Bushwick Leaders High School for Academic Excellen,HIGH SCHOOL,2.3,2,0.3,2,0,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,"Sheltering Arms Children and Family Services, Inc.",339,151,170,339
+32K562,Evergreen Middle School for Urban Exploration,JUNIOR HIGH-INTERMEDIATE-MIDDLE,1.3,1,0.3,1,0,0,0.3,0,0,0,0.3,na,na,na,School Response Clinicians,na,na,na,380,304,380,380
+32K564,Bushwick Community High School,HIGH SCHOOL,4.0,2,2,2,2,0,0,0,0,0,0,na,na,na,na,na,Learning to Work,na,214,54,107,107
+75K004,P.S. K004,ELEMENTARY,1.0,0,1,0,1,0,0,0,0,0,0,na,na,na,na,na,na,na,323,323,323,323
+75K036,P.S. 36,K-12 ALL GRADES,2.0,0,2,0,2,0,0,0,2,0,0,na,na,na,na,na,na,na,388,194,388,194
+75K053,P.S. K053,K-12 ALL GRADES,2.0,0,2,0,2,0,0,0,1,0,0,na,na,na,na,na,na,na,450,225,450,225
+75K077,P.S. K077,K-12 ALL GRADES,3 full-time school psychologists providing counseling services,0,0,0,0,0,0,0,0,0,0,na,na,na,na,na,na,na,313,see note in column D,see note in column D,see note in column D
+75K140,P.S. K140,K-8,3.0,2,1,2,1,0,0,0,0,0,0,na,na,na,na,na,na,na,361,120,181,361
+75K141,P.S. K141,K-12 ALL GRADES,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,386,193,386,386
+75K231,P.S. K231,K-8,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,322,322,322,322
+75K368,P.S. 368,K-12 ALL GRADES,2.0,2,0,2,0,0,0,0,0,0,0,na,na,na,na,na,na,na,274,137,137,274
+75K369,P.S. K369 - Coy L. Cox School,K-12 ALL GRADES,4.4,2,2.4,2,2,0,0.4,0,1,0,0,na,na,na,na,na,na,na,518,118,259,216
+75K370,P.S. 370,K-12 ALL GRADES,4.0,1,3,1,3,0,0,0,1,0,0,na,na,na,na,na,na,na,250,63,250,83
+75K371,P.S. 371 - Lillian L. Rashkis,HIGH SCHOOL,4.0,2,2,2,2,0,0,0,1,0,0,na,na,na,na,na,na,na,250,63,125,125
+75K372,P.S. 372 -The Children's School,K-8,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,195,195,195,195
+75K373,P.S. 373 - Brooklyn Transition Center,HIGH SCHOOL,6.0,6,0,6,0,0,0,3,0,0,0,na,na,na,na,na,na,na,477,80,80,477
+75K396,P.S. K396,K-8,2 full-time school psychologists providing counseling services,0,0,0,0,0,0,0,0,0,0,na,na,na,na,na,na,na,473,see note in column D,see note in column D,see note in column D
+75K721,P.S. K721 - Brooklyn Occupational Training Center,K-12 ALL GRADES,3.0,1,2,1,2,0,0,0,0,0,0,na,na,na,na,na,na,na,469,156,469,235
+75K753,P.S. K753 - School for Career Development,HIGH SCHOOL,6.0,4,2,4,2,0,0,2,1,0,0,na,na,na,na,na,na,na,285,48,71,143
+75K771,P.S. K771,K-12 ALL GRADES,3.0,2,1,2,1,0,0,1,0,0,0,na,na,na,na,na,na,na,467,156,234,467
+75K811,P.S. K811 Connie Lekas School,SECONDARY SCHOOL,3 full-time school psychologists providing counseling services,0,0,0,0,0,0,0,0,0,0,na,na,na,na,na,na,na,339,see note in column D,see note in column D,see note in column D
+75M035,P.S. 035,K-12 ALL GRADES,3.0,0,3,0,3,0,0,0,0,0,0,na,na,na,na,na,na,na,309,103,309,103
+75M079,P.S. M079 - Horan School,SECONDARY SCHOOL,2.0,2,0,2,0,0,0,1,0,0,0,na,na,na,na,na,na,na,277,139,139,277
+75M094,P.S. M094,K-12 ALL GRADES,4 full-time school psychologists providing counseling services,0,0,0,0,0,0,0,0,0,0,na,na,na,na,na,na,na,419,see note in column D,see note in column D,see note in column D
+75M138,P.S. 138,K-12 ALL GRADES,5 school psychologists providing counseling services,0,0,0,0,0,0,0,0,0,0,na,na,na,na,na,na,na,636,see note in column D,see note in column D,see note in column D
+75M169,P.S. M169 - Robert F. Kennedy,K-12 ALL GRADES,4.4,1,3.4,1,3,0,0.4,1,2,0,0,na,na,na,na,na,na,na,356,81,356,105
+75M226,P.S. M226,K-12 ALL GRADES,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,290,290,290,290
+75M401,Hospital Schools,K-12 ALL GRADES,2.0,2,0,2,0,0,0,0,0,0,0,na,na,na,na,na,na,na,68,34,34,68
+75M501,Home Instruction,K-12 ALL GRADES,3.0,3,0,3,0,0,0,0,0,0,0,na,na,na,na,na,na,na,53,18,18,53
+75M721,P.S. M721 - Manhattan Occupational Training Center,SECONDARY SCHOOL,2.0,2,0,2,0,0,0,1,0,0,0,na,na,na,na,na,na,na,192,96,96,192
+75M751,Manhattan School for Career Development,HIGH SCHOOL,4.0,4,0,4,0,0,0,0,0,0,0,na,na,na,na,na,na,na,232,58,58,232
+75M811,P.S. M811 - Mickey Mantle School,K-8,4.0,0,4,0,4,0,0,0,1,0,0,na,na,na,na,na,na,na,392,98,392,98
+75Q075,Robert E. Peary School,K-8,3.0,2,1,2,1,0,0,0,0,0,0,na,na,na,na,na,na,na,554,185,277,554
+75Q177,P.S. Q177,K-12 ALL GRADES,3.0,2,1,2,1,0,0,0,0,0,0,na,na,na,na,na,na,na,490,163,245,490
+75Q224,P.S. Q224,K-8,3.0,3,0,3,0,0,0,0,0,0,0,na,na,na,na,na,na,na,419,140,140,419
+75Q233,P.S. Q233,K-12 ALL GRADES,2.0,2,0,2,0,0,0,1,0,0,0,na,na,na,na,na,na,na,570,285,285,570
+75Q255,P.S. Q255,K-12 ALL GRADES,2.0,2,0,2,0,0,0,0,0,0,0,na,na,na,na,na,na,na,421,211,211,421
+75Q256,P.S. Q256,K-12 ALL GRADES,5.0,3,2,3,2,0,0,0,1,0,0,na,na,na,na,na,na,na,549,110,183,275
+75Q277,The Riverview School,K-12 ALL GRADES,2.0,0,2,0,2,0,0,0,0,0,0,na,na,na,na,na,na,na,588,294,588,294
+75Q721,John F. Kennedy Jr. School,HIGH SCHOOL,4.0,2,2,2,2,0,0,1,1,0,0,na,na,na,na,na,na,na,474,119,237,237
+75Q752,Queens Transition Center,HIGH SCHOOL,4.0,3,1,3,1,0,0,0,0,0,0,na,na,na,na,na,na,na,393,98,131,393
+75Q811,P.S. Q811,K-12 ALL GRADES,1.0,1,0,1,0,0,0,1,0,0,0,na,na,na,na,na,na,na,426,426,426,426
+75Q993,P.S. Q993,K-12 ALL GRADES,3.0,3,0,3,0,0,0,0,0,0,0,na,na,na,na,na,na,na,599,200,200,599
+75R025,South Richmond High School I.S./P.S. 25,K-12 ALL GRADES,5.0,3,2,3,2,0,0,0,1,0,0,na,na,na,na,na,na,na,578,116,193,289
+75R037,The David Marquis School of the Arts,K-12 ALL GRADES,4.0,2,2,2,2,0,0,0,0,0,0,na,na,na,na,na,na,na,392,98,196,196
+75R373,P.S. R373,K-8,9.0,5,4,5,4,0,0,0,1,0,0,na,na,na,na,na,na,na,603,67,121,151
+75R721,The Richard H. Hungerford School,SECONDARY SCHOOL,3.6,2.6,1,2,1,0.6,0,0,0,0,0,na,na,na,na,na,na,na,447,124,172,447
+75X010,P.S. X010,K-12 ALL GRADES,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,574,287,574,574
+75X012,P.S. X012 Lewis and Clark School,SECONDARY SCHOOL,3.0,2,1,2,1,0,0,0,1,0,0,na,na,na,na,na,na,na,310,103,155,310
+75X017,P.S. X017,K-8,2.0,2,0,2,0,0,0,0,0,0,0,na,na,na,na,na,na,na,488,244,244,488
+75X168,P.S. 168,K-12 ALL GRADES,3.0,2,1,2,1,0,0,1,0,0,0,na,na,na,na,na,na,na,519,173,260,519
+75X176,P.S. X176,SECONDARY SCHOOL,1.0,0,1,0,1,0,0,0,0,0,0,na,na,na,na,na,na,na,563,563,563,563
+75X186,P186X Walter J. Damrosch School,K-12 ALL GRADES,4.0,3,1,3,1,0,0,1,0,0,0,na,na,na,na,na,na,na,764,191,255,764
+75X188,P.S. X188,K-12 ALL GRADES,6.0,4,2,4,2,0,0,2,0,0,0,na,na,na,na,na,na,na,511,85,128,256
+75X352,The Vida Bogart School for All Children,K-8,2.0,1,1,1,1,0,0,0,0,0,0,na,na,na,na,na,na,na,585,293,585,585
+75X469,P469X - The Bronx School for Continuous Learners,K-8,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,412,412,412,412
+75X596,P.S. X596,ELEMENTARY,2 full-time school psychologists providing counseling services,0,0,0,0,0,0,0,0,0,0,na,na,na,na,na,na,na,413,see note in column D,see note in column D,see note in column D
+75X721,P.S. X721 - Stephen McSweeney School,HIGH SCHOOL,4.6,2.6,2,2,2,0.6,0,1,0,0,0,na,na,na,na,na,na,na,575,125,221,288
+75X723,P.S. 723,K-12 ALL GRADES,1.0,1,0,1,0,0,0,0,0,0,0,na,na,na,na,na,na,na,488,488,488,488
+75X754,J. M. Rapport School Career Development,HIGH SCHOOL,7.0,3,4,3,4,0,0,1,1,0,0,na,na,na,na,na,na,na,459,66,153,115
+75X811,P.S. X811,SECONDARY SCHOOL,4.0,2,2,2,2,0,0,0,0,0,0,na,na,na,na,na,na,na,642,161,321,321
+79K925,YABC Programs - Brooklyn and Queens,YABC,4.0,4,0,4,0,0,0,0,0,0,0,na,na,na,na,na,na,na,1976,494,494,1976
+79M331,The Judith S. Kaye School - D79,UNGRADED,6.0,2,4,1,4,1,0,0,0,1,0,na,na,na,na,na,na,na,23,4,12,6
+79M379,"YABC Programs - Manhattan, Bronx, Staten Island",YABC,5.0,5,0,5,0,0,0,0,0,0,0,na,na,na,na,na,na,na,1656,331,331,1656
+79M645,School for Cooperative Technical Education,HIGH SCHOOL,7.0,4,3,4,3,0,0,0,1,0,0,na,na,na,na,na,na,na,885,126,221,295
+79M973,Restart Academy,UNGRADED,19.0,16,3,16,3,0,0,0,0,0,0,na,na,na,na,na,na,na,426,22,27,142
+79M984,LYFE,UNGRADED,22.0,0,22,0,22,0,0,0,2,0,0,na,na,na,na,na,na,na,not available - in flux,na,na,na
+79Q344,East River Academy,HIGH SCHOOL,10.0,5,5,5,5,0,0,0,0,0,0,na,na,na,na,na,na,na,305,31,61,61
+79Q950,Pathways to Graduation,HIGH SCHOOL,67.5,41.5,26,41,26,0.5,0,1,2,0,0,na,na,na,na,na,na,na,3510,52,85,135
+79X695,Passages Academy,K-12 ALL GRADES,19.0,4,15,4,15,0,0,0,1,0,0,na,na,na,na,na,na,na,244,13,61,16
+88KLC1,BROOKLYN ALTERNATE LEARNING CENTER,CENTRAL-HQ-CITYWIDE,8.0,7,1,7,1,0,0,0,0,0,0,na,na,na,na,na,na,na,not available - in flux,na,na,na
+88MLC1,MANHATTAN ALTERNATE LEARNING CENTER,CENTRAL-HQ-CITYWIDE,10.0,7,3,7,3,0,0,1,0,0,0,na,na,na,na,na,na,na,not available - in flux,na,na,na
+88QLC1,QUEENS ALTERNATE LEARNING CENTER,CENTRAL-HQ-CITYWIDE,7.0,5,2,5,2,0,0,1,0,0,0,na,na,na,na,na,na,na,not available - in flux,na,na,na
+88RLC1,BROOKLYN/STATEN ISLAND ALTERNATE LEARNING CENTER,CENTRAL-HQ-CITYWIDE,7.0,4,3,4,3,0,0,1,0,0,0,na,na,na,na,na,na,na,not available - in flux,na,na,na
+88XLC1,BRONX ALTERNATE LEARNING CENTER,CENTRAL-HQ-CITYWIDE,11.0,8,3,8,3,0,0,0,0,0,0,na,na,na,na,na,na,na,not available - in flux,na,na,na
+Total,,,"4,480",2959,1522,2885,1447,74,75,316,237,56,69,,,,,,,,"944,995",,,

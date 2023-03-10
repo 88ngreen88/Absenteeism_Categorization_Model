@@ -1,22 +1,12 @@
 # Absenteeism_Categorization_Model
 
-# Repo Structure
-
-├── Data
-
-├── .gitignore
-
-├── Slides.pdf
-
-├── Classification.ipynb
-
-└── README.md
-
 # Business Problem and Objective
 
-Since the outset of the pandemic, chronic absenteeism has jumped from around 25% in 2020 to 41% in 2022 making it one of the largest and most significant problems public schools are currently facing. Chronic absenteeism is defined as a student missing 10% or more of the school days in a year. Studies have shown that students who are chronically absent have reduced reading proficiency in Elementary School and are less likely to graduate High School. With this in mind, I wanted to create a model that would be able to categorize and identify schools that are at most to suffer from high rates of chronic absenteeism. 
+Since the onset of the pandemic, chronic absenteeism has jumped from around 28% in 2020 to 44% in 2022 making it one of the largest and most significant problems public schools are currently facing in New York City. Chronic absenteeism is defined as a student missing 10% or more of the school days in a year. In addition, excused absenses for illness still counts towards a student's absence count. 
 
-Some key questions that I was hoping my model would answer were as follows:
+Studies have shown that students who are chronically absent have reduced reading proficiency in Elementary School and are less likely to graduate High School. With this in mind, I wanted to create a model that would be able to categorize and identify schools that are at most to suffer from high rates of chronic absenteeism. 
+
+Some key questions that I am hoping my model addresses are as follows:
 
 1. Would I be able to accurately categorize a school has having a high rate of chronic absenteeism?
 2. What features/measures contribute the most to accurately categorizing a school has having a high rate of chronic absenteeism?
@@ -27,38 +17,33 @@ I started this modeling process by important python libraries for data processin
 
 # Importing Data and Data Processing
 
-After importing the python libraries, I started importing data sets that will eventually become my final dataframe. For each data set I decided to only use data from the 2020-2021 and 2021-2022 school years because I wanted to use data that was collected after the onset of the 2020 COVID-19 pandemic. I only wanted to use post COVID data because that is when Chronic Absenteeism really began to increase. The first data set that I imported was demographic data from the DOE which included key data on class size, race/ethnicity, poverty rates, and rates of students with disabilities
+I began this project by importing data sets that will eventually become my final dataframe. For each data set I decided to only use data from the 2020-2021 and 2021-2022 school years because I wanted to use data that was collected after the onset of the 2020 COVID-19 pandemic. 
 
+All the data was retrieved from the Open Data NYC or the DOE’s Website. I used features from the following data sets to create my final data frame:
 
-The second data set I decided to import was the DOE dataset on school attendance. For this data sets, I only included rows that had data for "all grades" because grade level data was already included in the df_demo. I also dropped unneccessary columns and dropped 's' values in the '% Chronically Absent' column. The s value is a place holder for schools that were too small to have their data displayed. 
+1. DOE Demographic Data 
+2. Attendance Data
+3. Guidance Counselor and Social Worker school Data
+4. Indoor/outdoor space in NYC public Schools
+5. Graduation Rates 
+6. Family Survey Data
+7. Teacher Survey Data
 
-# Combining Data
+# Visualizing Data
 
-Now that I have my two main datasets I decided to combine the dataset together and begin to perfrom some Data EDA
-
-Now that my two data sets are merged together, I wanted to look at the distribution of my target feature ('% Chronically Absent'). Looking at the histogram below, we can see that their is a large range of values for rate of chronic absenteeism in New York City Schools. This shows me that chronic absenteeism does not impact every school equally in New York City.
+After combining all my data together, I wanted to look at the distribution of my target feature ('% Chronically Absent'). Looking at the histogram below, we can see that their is a large range of values for rate of chronic absenteeism in New York City Schools. This shows me that chronic absenteeism does not impact every school equally in New York City.
 
 ![download](https://user-images.githubusercontent.com/115309980/224388633-92a438a7-5625-4a34-aca9-215a2a74de8c.png)
-
-The histogram above is a good start for visualizing my data, but I want to create a few more graphs in order to better understand my data. This will be a good time to get more information on our data frame. Looking at the information table of my data frame, it looks like we do not have any Null values. Good News!
-
-I am also noticing that columns like # poverty and % poverty have a good chance of being multi-colinear. I need to explore this more through a heatmap.
-
-In addition, feature values like '% chronically absent', '% poverty', and 'Economic Need Index' are all listed as object when they should be float data types.
-
-# Combined Data EDA
 
 In order to understand my data a bit better, I first want to see how chronic absenteeism has changed over time in NYC. Below I made a graph look at average rate of chronic absenteeism per year in nyc. Based on the graph below, we can see that Chronic absenteeism has really increased since the onset of the pandemic!
 
 ![download-7](https://user-images.githubusercontent.com/115309980/224388812-5fba2ab9-c25c-45ed-beff-d5a0cde634c3.png)
 
-Now that we understanding when chronic absenteeism began to spike, we can drop rows that are in a year before 2020. Below I am dropping all rows that are not from the 2020-21 and 2021-22 school year. I am also changing the year from 2020-2021 to 2021 and 2021-22 to 2022.
-
 Next I want to see how chronic absenteeism changes with race in NYC schools
 
 ![download-8](https://user-images.githubusercontent.com/115309980/224388999-9a3e2374-0db8-41f7-b625-64c9cfa33f6e.png)
 
-Looking above, we can see that at the percentage of black and hispanic students increase at a school, so does the rate of chronic absenteeism. I also want to see have the rate of poverty at a school impacts absenteeism.
+Looking above, we can see that as the percentage of black and hispanic students increased at a school, so does the rate of chronic absenteeism. I also want to see have the rate of poverty at a school impacts absenteeism.
 
 ![download-9](https://user-images.githubusercontent.com/115309980/224389104-efe84153-49bf-477e-a5eb-f389a38c38f2.png)
 
@@ -66,9 +51,6 @@ Based on the graph above, we can also see that as the rate of poverty increases 
 
 ![download-10](https://user-images.githubusercontent.com/115309980/224389268-9caa862c-3486-4d9d-b755-de3753a57905.png)
 
-# Adding Additional Features/Measures to My DataSet
-
-Before creating my first (Baseline) model, I am going to add a few more feature columns to my final data set. Specifically, I plan on adding data on the amount of indoor/outdoor space in NYC public schools, Survey Data from Parents and Teachers, and Guidance Counselor data. My hope is that these additional features will better help to better categorize my target feature.
 
 # Creating My Models
 
@@ -107,4 +89,17 @@ In order to improve my model I would want to scrape and find  data on the follow
 3. School Start Times
 4. The number of tests given by a school
 5. Suspension data
+
+
+# Repo Structure
+
+├── Data
+
+├── .gitignore
+
+├── Slides.pdf
+
+├── Classification.ipynb
+
+└── README.md
 

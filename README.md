@@ -54,9 +54,15 @@ Based on the graph above, we can also see that as the rate of poverty increases 
 
 # Creating My Models
 
-Below I will use the X_train and y_train data to create mutliple categorizing models. I will assess these models based on teh recall score. I decided to use recall instead of precision or accuracy to assess my models because I feel like my stakeholder (the Department of Education) will want to the lowest number of false negatives possible. If recall is about the same, I will then look at precision to ensure that the number of false positives are also low.
+To start my modeling process, I split my data into a X_train, X_test, y_train and y_test. I will fit my data on the X and y train and then evaluate the model on the test data set.  When evaluating my model I decided to use the recall score. I decided to use recall instead of precision or accuracy to assess my models because I feel like my stakeholder (the Department of Education) will want to the lowest number of false negatives possible. A false positive in the context of this project would be if a school that had an issue with a high rate of chronic absenteeism was classified not having a high rate of chronic absenteeism. If recall is about the same across models, I will then look at precision to decide on my best model.
 
-In addition, I will need to use SMOTE and imblearn pipline in my categorization models because I have a class imbalance.
+In addition, because my target are schools in the top 25% of chronic absenteeism, I have created a class imbalance.
+
+<img width="1026" alt="Screenshot 2023-03-10 at 2 05 04 PM" src="https://user-images.githubusercontent.com/115309980/224406847-1ddff789-96ec-4057-a6dd-237a6c30f64b.png">
+
+I will need to use SMOTE and sk.imblearn pipline in all categorization models because I have this class imbalance.
+
+Next,  can three models: A basline logistic model, a logist model using parameter tuning and a decision tree model using parameter tuning.
 
 <img width="736" alt="Screenshot 2023-03-10 at 12 58 41 PM" src="https://user-images.githubusercontent.com/115309980/224389626-43a0d8de-6c9f-41e3-b5bf-5180110c0185.png">
 

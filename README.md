@@ -19,3 +19,15 @@ After importing the python libraries, I started importing data sets that will ev
 
 
 The second data set I decided to import was the DOE dataset on school attendance. For this data sets, I only included rows that had data for "all grades" because grade level data was already included in the df_demo. I also dropped unneccessary columns and dropped 's' values in the '% Chronically Absent' column. The s value is a place holder for schools that were too small to have their data displayed. 
+
+## Combining Data
+
+Now that I have my two main datasets I decided to combine the dataset together and begin to perfrom some Data EDA
+
+Now that my two data sets are merged together, I wanted to look at the distribution of my target feature ('% Chronically Absent'). Looking at the histogram below, we can see that their is a large range of values for rate of chronic absenteeism in New York City Schools. This shows me that chronic absenteeism does not impact every school equally in New York City.
+
+
+
+# Combined Data EDA
+
+In order to understand my data a bit better, I first want to see how chronic absenteeism has changed over time in NYC. Below I made a graph look at average rate of chronic absenteeism per year in nyc. Based on the graph below, we can see that Chronic absenteeism has really increased since the onset of the pandemic!

@@ -99,6 +99,7 @@ Based on my model, I believe that the Department of Education should flag school
 3. Further funds for field trips and community partnerships
 
 
+# Next Steps
 In order to improve my model I would want to scrape and find  data on the following:
 
 1. Public transportation offered by each school.
